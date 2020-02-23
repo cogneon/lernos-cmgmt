@@ -1,0 +1,34 @@
+site_name: lernOS Community Management Leitfaden
+site_url: https://cogneon.github.io/
+
+docs_dir: src
+
+site_dir: ../docs/de
+
+nav:
+    - Über lernOS: index.md
+    - Community Management: lernOS-Community-Management-Guide-de.md
+
+theme:
+    name: 'material'
+    palette:
+        primary: 'deep orange'
+        accent: 'deep orange'
+    language: de
+
+repo_name: 'cogneon/lernos-cmgmt'
+repo_url: 'https://github.com/cogneon/lernos-cmgmt'
+
+google_analytics:
+  - 'UA-156969141-1'
+  - 'auto'
+
+extra:
+    social:
+        - type: 'twitter'
+          link: 'https://twitter.com/lern_os'
+        - type: 'linkedin'
+          link: 'https://www.linkedin.com/showcase/lern-os'
+        - type: 'github'
+          link: 'https://github.com/cogneon'
+    disqus: lernos
