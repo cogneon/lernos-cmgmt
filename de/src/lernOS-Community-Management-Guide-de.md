@@ -9,7 +9,7 @@ oder
 
 > Wir müssen Entscheidungshierarchien beibehalten, aber Informationshierarchien durch Informationsnetzwerke ersetzen (Prof. Michael Koch)
 
- ![](images/image14.png)
+![](images/image14.png)
 
 Das bedeutet in der Praxis, dass Mitarbeiter, die sich mit den gleichen Themen beschäftigen, in unterschiedlichen Abteilungen, Prozessen oder Standorten ansässig sind und der Wissensfluss dadurch behindert wird. Die Idee der “Community” kann hier Abhilfe schaffen. Indem Mitarbeiter mit gleichen Zielen und Themen regelmäßig interagieren können sie Wissen teilen und generieren, unabhängig von organisatorischer und geographischer Verortung. Die Interaktion in Communities kann hierbei in physischen Treffen oder virtuell geschehen.
 
@@ -37,10 +37,7 @@ So vielfältig die Zwecke und Ziele  von Communities sein können, so können au
 
 Stellen Sie sich vor Sie werden zu einer Gartenparty eingeladen. Soll ich überhaupt dort hingehen? Soll ich etwas mitbringen? Wer ist noch eingeladen? Kenne ich die Leute? Gibt es wohl Themen über die ich mich mit den anderen unterhalten kann? Soll ich mich bei der Party als “Grillmeister” einbringen? Kommen ihnen diese Fragen bekannt vor? Einen Teil der Fragen werden Sie als Community Manager direkt bei der Einladung oder bei einem kurzen Gespräch vorab klären können. Viele Fragen werden die Besucher aber auch während der Party haben. Daher sind Sie als Gastgeber insbesondere während der Party gefragt z.B. die Gäste untereinander in Kontakt zu bringen und ihnen möglichen zu bieten sich mit konkreten Dingen einzubringen (Musik machen, grillen, etc.). 
 
-Als Community Manager bzw. Gastgeber müssen Sie somit gewisse Anforderungen mitbringen um ihrer Rolle gerecht zu werden. Eine gute Quelle für generelle Erfolgsfaktoren für erfolgreiches Community Management im beruflichen Kontext hat das Unternehmen [buw] digital zuletzt in ihrem Blog-Beitrag “Corporate Community Management - 10 Erfolgsfaktoren für Community Management im Enterprise 2.0” veröffentlich. Darin werden folgende Punkte hervorgehoben (Details zu den einzelnen Punkten, finden Sie im verlinkten Blog-Beitrag): Empathie, Serviceorientierte Denkart
-Reaktionsgeschwindigkeit, Ängste nehmen, Evangelisieren, begeistern, vorleben, entertainen, Veranschaulichen und das Niveau treffen, Adaption von Prozessen, Kontinuität, Stringenz, Konsequenz und Kohärenz, Charmantes Nerven. Weitere Anforderungen in etwa sind:
-Zuverlässigkeit, Initiativ, im Thema Zuhause, Teamplayer, freundlich.
-Corporate Community Management Erfolgsfaktoren Infografik (Quelle: [buw blog](http://buw-blog.de/corporate-community-management-10-erfolgsfaktoren-fur-community-management-im-enterprise-2-0/))
+Als Community Manager bzw. Gastgeber müssen Sie somit gewisse Anforderungen mitbringen um ihrer Rolle gerecht zu werden. Eine gute Quelle für generelle Erfolgsfaktoren für erfolgreiches Community Management im beruflichen Kontext hat das Unternehmen [buw] digital zuletzt in ihrem Blog-Beitrag “Corporate Community Management - 10 Erfolgsfaktoren für Community Management im Enterprise 2.0” veröffentlich. Darin werden folgende Punkte hervorgehoben (Details zu den einzelnen Punkten, finden Sie im verlinkten Blog-Beitrag): Empathie, Serviceorientierte Denkart Reaktionsgeschwindigkeit, Ängste nehmen, Evangelisieren, begeistern, vorleben, entertainen, Veranschaulichen und das Niveau treffen, Adaption von Prozessen, Kontinuität, Stringenz, Konsequenz und Kohärenz, Charmantes Nerven. Weitere Anforderungen in etwa sind: Zuverlässigkeit, Initiativ, im Thema Zuhause, Teamplayer, freundlich. Corporate Community Management Erfolgsfaktoren Infografik (Quelle: [buw blog](http://buw-blog.de/corporate-community-management-10-erfolgsfaktoren-fur-community-management-im-enterprise-2-0/))
 
 Je nach Zweck und Ziel der Community können diese Anforderungen bzw. Erfolgsfaktoren aber auch stark variieren. Dies zeigen auch die Anforderungsprofile eines Community Managers des Bundesverbands für Community Management e.V. (BVCM). Aufgrund der vielzahl von möglich notwendigen Anforderungen an einen Community Managers kann es sinnvoll sein Einzelanforderungen in Rollen zu bündeln. Genau dies hat die Robert Bosch GmbH gemacht und folgende Rollen eines Corporate (internen) Community Manager definiert. Je nach Community Ziel und Zweck sind dabei auch die Schwerpunkte der Anforderungen an einen Community Manager unterschiedlich: Führungskraft, Stratege, Manager, Facilitator, Marketer, Gärtner, Berater, Unterhalter, Architekt, Content Manager, Wissens Manager, Motivator, Vermittler, Prozess Designer, Marken Botschafter, Projekt Manager, Netzwerker, Wächter, Redakteur, Analyst, Teilnehmer, Event Manager, Moderator, Konzepter. Bei der deutschen Telekom unterscheidet man in die Rollen  Inhaltsersteller, Moderator, “Lebenszirkel-Begleiter”, Administrator, Evaluator und Themenspezifischer Fachexperte.
 
@@ -106,9 +103,7 @@ Geschichte: … wie war die Ausgangssituation, wie wurde die Community initialis
 
 * **Geschichte:**  WOL-Community_1.jpg 
 
-Die Working Out Loud (WOL) @ Bosch Community wurde im Juli 2015 auf unserem internen ESN “Bosch Connect” (basiert auf IBM Connections) gegründet und hat bis heute bereits > 450 Mitglieder. Sie ist öffentlich und somit für jeden Bosch Mitarbeiter frei zugänglich. Hier finden sich alle Informationen rund um das Working Out Loud und dazugehörige Circle Konzept von John Stepper (s.a [workingoutloud.com](https://workingoutloud.com)). Auch die Circles (Lerngruppen von 4-5 Personen) finden sich hier selbstorganisiert zusammen und organisieren sich in Sub-Communities. Diese sind allerdings geschlossen, um die Privatshäre der Circles zu schützen. Die wichtigsten Inhalte werden in zwei Sprachen angeboten, in deutscher sowie englischer Sprache, wobei in den Circle Sub-Communities selbstverständlich auch andere Sprachen zulässig sind.
-Ziel der Community ist es, die Methode “Working Out Loud” (Working Out Loud = transparente, offene, netzwerk- und damit resonanzbasierte Arbeitsweise) bei Bosch zu implementieren und alle Interessenten unter einem Dach (der Community) zu vereinen.  Ein Team aus sechs Corporate Community Managern, natürlich WOL-Enthusiasten der ersten Stunde, unterstützt selbstorganisiert und auf freiwilliger Basis die dort laufenden Aktivitäten. Hauptsächlich werden in der Community die folgenden Funktionen genutzt:
-
+Die Working Out Loud (WOL) @ Bosch Community wurde im Juli 2015 auf unserem internen ESN “Bosch Connect” (basiert auf IBM Connections) gegründet und hat bis heute bereits > 450 Mitglieder. Sie ist öffentlich und somit für jeden Bosch Mitarbeiter frei zugänglich. Hier finden sich alle Informationen rund um das Working Out Loud und dazugehörige Circle Konzept von John Stepper (s.a [workingoutloud.com](https://workingoutloud.com)). Auch die Circles (Lerngruppen von 4-5 Personen) finden sich hier selbstorganisiert zusammen und organisieren sich in Sub-Communities. Diese sind allerdings geschlossen, um die Privatshäre der Circles zu schützen. Die wichtigsten Inhalte werden in zwei Sprachen angeboten, in deutscher sowie englischer Sprache, wobei in den Circle Sub-Communities selbstverständlich auch andere Sprachen zulässig sind. Ziel der Community ist es, die Methode “Working Out Loud” (Working Out Loud = transparente, offene, netzwerk- und damit resonanzbasierte Arbeitsweise) bei Bosch zu implementieren und alle Interessenten unter einem Dach (der Community) zu vereinen.  Ein Team aus sechs Corporate Community Managern, natürlich WOL-Enthusiasten der ersten Stunde, unterstützt selbstorganisiert und auf freiwilliger Basis die dort laufenden Aktivitäten. Hauptsächlich werden in der Community die folgenden Funktionen genutzt:
 
 * **Blog:** zur Information über Neuigkeiten aus der WOL-Welt (intern und extern), Rückmeldungen aus Circlen etc.
 * **Forum:** Beantwortung von Fragen, Organisation der Circles (an einem Circle teilnehmen bzw. einen Circle moderieren)
@@ -123,7 +118,7 @@ Neue Mitglieder werden täglich ganz persönlich begrüßt. Sie erhalten neben e
 * Webseite [workingoutloud.com](https://workingoutloud.com)
 * [Working Out Loud Week](https://wolweek.com/)
 * Blog [Working Out Loud: eine wichtige Methode für interne Community Manager](https://www.bvcm.org/2015/12/working-out-loud-wol-eine-wichtige-methode-fuer-interne-corporate-community-manager/)
-* Tutorial [Working Out Loud erlernen](www.managerseminare.de/pdf/tt10.pdf)
+* Tutorial [Working Out Loud erlernen](https://www.managerseminare.de/pdf/tt10.pdf)
 
 ### Weitere Fallbeispiele
 
@@ -221,7 +216,7 @@ Eine Community sollte selbstverständlich nicht zum Selbstzweck aufgesetzt werde
 
 Idealerweise werden drei bis fünf Ziele definiert, mit jeweils kurzfristigen, mittelfristigen und langfristigen Metriken zur Überprüfung der Zielerreichung. Die Ziele sollten von den Unternehmenszielen bzw. der Unternehmensstrategie abgeleitet werden.
 
-Mögliche Ziele einer Community sind z.B.:
+Mögliche Ziele einer Community sind:
 
 * Verbesserung der internen Zusammenarbeit durch community-basierte Arbeit und Nutzung verschiedener Funktionen innerhalb der Community 
 * Verbesserung von internen Prozessen
@@ -256,7 +251,7 @@ Langfristige Erfolgskriterien bzgl. der Ziele sind z.B.:
 * Kostensenkungen (Datenvolumen; durch Ideen Kosten sparen, Bsp. Energieeffizienz)
 * Unternehmenskultur verändert sich zu mehr Offenheit, Transparenz-, Dialog- und Feedback-Kultur
 
-Folgende Metriken beziehen sich auf die Erfolgsmessung von konkreten Maßnahmen: 
+Folgende Metriken beziehen sich auf die Erfolgsmessung von konkreten Maßnahmen:
 * Wie viele Mitglieder?
 * Wie viele Inhalte?
 * Wie viele Diskussionen?
@@ -290,15 +285,11 @@ Unabhängig von der Größe der angestrebten oder bereits existierenden Communit
 * Community gibt es noch nicht. (International - Landessprache - gleiche doch sinnvoll?
 * Core-Group (eine kleine Gruppe) ist interessiert mitzumachen)
 
-Je nach Ausgangssituation und Zielen wird auch die Ramp-up-Phase der Community unterschiedlich gestaltet werden. 
-Inhaltlich müssen gleiche Themen geklärt werden.
-Daher unterscheiden wir im Folgenden das Ramp-up je nach Größenordnung und Typ.
+Je nach Ausgangssituation und Zielen wird auch die Ramp-up-Phase der Community unterschiedlich gestaltet werden. Inhaltlich müssen gleiche Themen geklärt werden. Daher unterscheiden wir im Folgenden das Ramp-up je nach Größenordnung und Typ.
 
-Bring deine Idee zu Papier. 
-Kernaussage der Community in 1-2 Sätzen formulieren. Diese dienen für alle folgenden Schritte als Leitbild. Natürlich kann das Leitbild bzw. diese Kernaussage in den nächsten Schritten ausgebaut und angepasst werden[d].
+Bring deine Idee zu Papier. Kernaussage der Community in 1-2 Sätzen formulieren. Diese dienen für alle folgenden Schritte als Leitbild. Natürlich kann das Leitbild bzw. diese Kernaussage in den nächsten Schritten ausgebaut und angepasst werden[d].
 
-Finde ein Team: initiale Beratergruppe
-Gemeinsam gestalten sich manche Sachen einfach besser. Sollte es an diesem Punkt schon schwer fallen einige Kollegen für das Thema zu finden, könnte man die initiale Idee / Motivation noch mal überdenken.
+Finde ein Team: initiale Beratergruppe. Gemeinsam gestalten sich manche Sachen einfach besser. Sollte es an diesem Punkt schon schwer fallen einige Kollegen für das Thema zu finden, könnte man die initiale Idee / Motivation noch mal überdenken.
 
 **Einordnung der Community - Sicherstellung des Alleinstellungsmerkmals:**
 
@@ -332,7 +323,7 @@ Der Fahrplan erleichtert den Übergang von der Planung in den Launch:
 * Ideen für Aktionen, die in den Fahrplan aufgenommen werden können (konkret: Wer? Wann? Wo?)
   * Launch-Kommunikation
   * KickOff: physisch oder virtuell oder im Rahmen eines geplanten Events: Townhall, Mitarbeiterveranstaltung; bei größeren Communities erfolgt ein Kick-off erst nach einer umfangreicheren Planungsphase. Bei kleineren Communities ist der Kick-off der Startpunkt, an dem Ziele und Nutzen definiert werden.
-  * MOOC
+  * Massive Open Online Course (MOOC)
   * BarCamp
   * Crowdsourcing
   * Stammtisch
@@ -382,7 +373,6 @@ Je nach Art und Größe der Community kann es sinnvoll sein ein physisch Kick-Of
 
 * **Vertreterregelung als Chance:** Sicherstellung von Abwesenheit kann auch genutzt werden um “frischen Wind” und erweitertes Commitment zu erzeugen. Ausschreibung: wer möchte mich vertreten / wer möchte mal Community Manager sein / wer möchte sich mal ausprobieren … (Anzahl der Vertreter abhängig von Grüße, Thema und Aktivität der Community)
   * siehe hier Ausschreibung bei Bosch: (*Augabe: Bild einfügen*)
-
   * Vertreter überbieten siche (who is best, who performs best, who has greatest idea in his weeks)
   * Community Management ausprobieren für begrenzten Zeitraum
   * neue bringen ihre Netzwerke mit -> Community wächst
@@ -395,8 +385,7 @@ Je nach Art und Größe der Community kann es sinnvoll sein ein physisch Kick-Of
   * zeigt Hilfsbereitschaft der Mitglieder
 * **Spotlight on Interview:** Kurz Interviews von Community Mitgliedern um sich besser kennen zu lernen und ein Team zu werden, Wiki Seite (Template) mit einem Set an gemeinsamen Fragen und dem Profilfoto, Beispiel:  Dein Karriereweg, Was ich an meinem Job besonders mag, Meine besonderen Herausforderungen, Ein typischer Tagesablauf - je nach technischen Möglichkeiten Audio Podcast oder sogar Video
 * **Medienübergreifend platzieren:** Hashtag macht Kollegen neugierig - deshalb vorab Tweets mit Hashtag auf zentral verfügbaren Medien kommunizieren, dann zu übergreifenden Themen und Events verwenden - um medienübergreifende Beteiligung sicherzustellen.
-* **“Animierende” Beiträge schreiben (mit Aufforderung, kontroversem Statement oder Frage):** “Erzähl-Artikel” oder reine Fachartikel wirken schnell “abgeschlossen” oder bei zu fachlicher Sprache abschreckend (man traut sich nicht kommentieren um sich nicht zu blamieren), während Fragen oder kontroverse Aussagen zur Reaktion auffordern
-  Beiträge beginnen “In meinen Augen”, “aus unserer Erfahrung”, “...das braucht keiner!?” und beenden mit “Wie seht Ihr das?”
+* **“Animierende” Beiträge schreiben (mit Aufforderung, kontroversem Statement oder Frage):** “Erzähl-Artikel” oder reine Fachartikel wirken schnell “abgeschlossen” oder bei zu fachlicher Sprache abschreckend (man traut sich nicht kommentieren um sich nicht zu blamieren), während Fragen oder kontroverse Aussagen zur Reaktion auffordern Beiträge beginnen “In meinen Augen”, “aus unserer Erfahrung”, “...das braucht keiner!?” und beenden mit “Wie seht Ihr das?”
 * **Kommunikationskonzept / Redaktionsplan:** Redaktionsplan mit wiederkehrenden Themen (wird planbarer - Vorsorge für die Not + Kontext Radar “ad hoc Neues/Spannendes”): Kernteam auswählen, dass hier mit Beiträgen unterstützt (wer welches Thema treibt oder über Expertenwissen verfügt sollte klar sein), zusätzlich regelmäßig abfragen, wer zu welchen Veranstaltungen geht und etwas zusammenfassendes beitragen kann; Es sollte 1-2x pro Woche etwas vom Kernteam erscheinen, damit Aktivität sichtbar ist. Beiträge des Kernteams bzw. wiederkehrende Inhalte können auch grafisch von Gastbeiträgen abgegrenzt werden, z.B. mit einem speziellen Header; für Projektteams oder collaborativ arbeitende Communities empfehlen wir einen sog. “Status-of-the-Week”, d.h. eine Zusammenfassung der Ereignisse der Woche (welche Themen, Aufgaben, Events, Entscheidungen etc.)
 * **”Huch, was passiert hier?”:**  Provokation - Kritische Fragen stellen - Statements, die Mitglieder herausfordern. Stell dir vor du liest die Überschrift “Hitzefrei für alle Abteilungen!” freust du dich schon und du willst wissen, ob auch du einfach nach Hause gehen kannst? Ziel erreicht. Sicher wirst du meinen Beitrag lesen. Übertreibungen, bewusste Lügen (die im Beitrag aufgeklärt werden), konfrontierende Fragen in der Überschrift wecken bei nahezu jedem Leser die Neugier, die es braucht, sich Zeit für den Post zu nehmen.
 * **Fragen - Fragen - Fragen über Fragen:** Fragen (jeder kann mitreden oder sehr konvers); Blog Posts gerne mit direkten Fragen abschließen, evtl. mit einem Link versehen, der aufs Forum führt; wenn Community bereits aktiv ist gerne “provokante” oder “spezielle” Fragen im Forum posten, wie z.B. “Verdienen wir genug?”, “wer wehrt sich gegen Wandel und warum”, “was fällt Euch zu dieser Idee zu xyz (z.B. interner Prozessverbesserung, neues Gericht in der Kantine etc.) ein”... 
@@ -405,7 +394,6 @@ Je nach Art und Größe der Community kann es sinnvoll sein ein physisch Kick-Of
 * **Meinungsbilder - transparente Abstimmung:** (Umfragen / Polls / Gamification … wenn möglich, erlaubt und passend   = Beteiligung - zB wenn die Community aufgehübscht werden soll (Mitgestaltung der Mitglieder), es Events gibt wer teilnimmt, Meinungsabfrage zu aktuell diskutierten Themen, die Bedeutung des “I like” Buttons, neue Ideen zu einem bestimmten Thema, Terminabfragen (3 Termine anbieten, Mehrheit entscheidet)
 * **Expert Talks:** Ask me anything-Session VIP beantwortent Fragen (sog. Inhalt: regelmäßiger Live Chat über die Forum-Funktion. Wird ca. 3-4 Wochen im Vorraus angekündigt und immer wieder kommuniziert. Chat-Partner sind entweder neue Mitglieder mit spannendem Hintergrund o. Aufgabe, Expertenwissen oder Führungsfunktion - alternativ ein Expertenteam zu einem speziellen Thema. Innerhalb einer vorgegebenen Zeit (1 Stunde) ist das Forum offen und die Community Mitglieder können live Fragen stellen, die in Echtzeit beantwortet werden. Das macht Spass, schult die Mitglieder und schafft eine enge Vernetzung
 * **Statistiken zeigen:** Oft ist Mitgliedern nicht bewußt, wie groß die Reichweite oder der Erfolg Ihrer Arbeit ist - durch zeigen der Zugriffszahlen, KPIs rechtfertigt sich der Aufwand leichter Anschauliche Diagramme im Blog, Steigerungsraten oder Zugriffszahlen, Zahl der Neuzugänge, eventuell (wo erlaubt/vorhanden) Aktivitätenindex
-
 
 ### Mitglieder akquirieren,unterstützen und moderieren 
 
@@ -450,7 +438,7 @@ Kommunizieren Sie über Aktivitäten ihrer Community und über Erfolgsgeschichte
 
 ### Spezifische Regeln der Community
 
-(Konkrete Community-interne Verabredungen zu Abläufen und Kommunikation / Zusammenarbeit / Feedback (hervorheben - Box… z.. Community Philosophie)
+(Konkrete Community-interne Verabredungen zu Abläufen und Kommunikation / Zusammenarbeit / Feedback (hervorheben - Box z.B. Community Philosophie)
 
 * Ihr könnt mit einer Reaktion auf Fragen und Hinweise innerhalb von 24 Stunden unter der Woche rechnen
 * Klare Regeln gemeinsam formulieren - und gegebenenfalls anpassen (Konkret: Wie stimme ich zu? wie schnell erwarten wir Reaktionen? Welche Sprache? Grußformel ja/nein? welche Kanäle werden wofür genutzt? Ausreden lassen, Meinungen sagen dürfen, Seltsame Reaktionen aufnehmen, Was wenn keine Reaktion) ...Beispiele!, Beispiele Kata:
@@ -483,7 +471,7 @@ Kommunizieren Sie über Aktivitäten ihrer Community und über Erfolgsgeschichte
 
 ## Community transformieren oder schließen
 
-(Messgrößen / KPI (Qualität / Quantität / Erfolg))
+(Messgrößen / KPI (Qualität / Quantität / Erfolg)
 
 * sensing - worauf reagiert meine Community
 * kontinuierliches Posten ist kein Qualitätsgarant
@@ -517,7 +505,6 @@ Seit Januar 2015 läuft Benchlearning Projekt Internes Community Management, in 
 Im Projekt haben wir uns die Schwerpunktthemen insbesondere aus der Perspektive von Enterprise-2.0-, Social-Intranet- oder Digital-Transformation-Teams und weniger aus Perspektive des einzelnen Community Managers angeschaut. Daher wollten wir einen Weg finden, auch Community Managern eine Arbeitshilfe an die Hand zu geben. Im Literatur-Pool waren bereits Community Playbooks von Yammer, von Cisco und vom Community Roundtable. 
 
 Bosch hat ebenfalls ein interaktives Playbook auf PDF-Basis erstellt. Daraus entstand die Idee, gemeinsam ein deutschsprachiges Community Management Playbook als offene Ressource (OER) zu erstellen. Das Whitelabel Playbook internes Community Management versteht sich als Sammlung von Methoden, Checklisten und Vorlagen für die Planung, Steuerung und Kontrolle (Phasenmodell) einer Community für den jeweiligen Community Manager.
-
 
 ## Änderungshistorie
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |
