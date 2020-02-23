@@ -44,8 +44,7 @@ Corporate Community Management Erfolgsfaktoren Infografik (Quelle: [buw blog](ht
 
 Je nach Zweck und Ziel der Community können diese Anforderungen bzw. Erfolgsfaktoren aber auch stark variieren. Dies zeigen auch die Anforderungsprofile eines Community Managers des Bundesverbands für Community Management e.V. (BVCM). Aufgrund der vielzahl von möglich notwendigen Anforderungen an einen Community Managers kann es sinnvoll sein Einzelanforderungen in Rollen zu bündeln. Genau dies hat die Robert Bosch GmbH gemacht und folgende Rollen eines Corporate (internen) Community Manager definiert. Je nach Community Ziel und Zweck sind dabei auch die Schwerpunkte der Anforderungen an einen Community Manager unterschiedlich: Führungskraft, Stratege, Manager, Facilitator, Marketer, Gärtner, Berater, Unterhalter, Architekt, Content Manager, Wissens Manager, Motivator, Vermittler, Prozess Designer, Marken Botschafter, Projekt Manager, Netzwerker, Wächter, Redakteur, Analyst, Teilnehmer, Event Manager, Moderator, Konzepter. Bei der deutschen Telekom unterscheidet man in die Rollen  Inhaltsersteller, Moderator, “Lebenszirkel-Begleiter”, Administrator, Evaluator und Themenspezifischer Fachexperte.
 
-Verschiedene Rollen eines Community Managers bei der Robert Bosch GmbH (Copyright Robert Bosch GmbH 2016. Alle Rechte vorbehalten, auch bzgl. jeder Verfügung, Verwertung, Reproduktion, Bearbeitung, Weitergabe sowie für den Fall von Schutzrechtsanmeldungen)
-http://socialconnections.info/sessions/the-importance-of-community-based-collaboration-for-robert-bosch-gmbh/
+Verschiedene Rollen eines Community Managers bei der Robert Bosch GmbH (Copyright Robert Bosch GmbH 2016. Alle Rechte vorbehalten, auch bzgl. jeder Verfügung, Verwertung, Reproduktion, Bearbeitung, Weitergabe sowie für den Fall von Schutzrechtsanmeldungen, [Quelle](http://socialconnections.info/sessions/the-importance-of-community-based-collaboration-for-robert-bosch-gmbh/) ->*Aufgabe: korrekte Quelle finden*).
 
 Übertragen auf unser Beispiel der Gartenparty würden Sie als Gastgeber hauptsächlich in der Rollen des Unterhalters, Vermittlers, Netzwerkers, Teilnehmers und Moderators agieren.
 
@@ -100,27 +99,28 @@ Weiterführende Informationen: … optional, z.B. Links auf Internetquellen, Bü
 
 ### Working Out Loud Community (Bosch) 
 
-Name: Working Out Loud @ Bosch
+* **Name:** Working Out Loud @ Bosch
 
-Geschichte:  WOL-Community_1.jpg 
-Die Working Out Loud (WOL) @ Bosch Community wurde im Juli 2015 auf unserem internen ESN “Bosch Connect” (basiert auf IBM Connections) gegründet und hat bis heute bereits > 450 Mitglieder. Sie ist öffentlich und somit für jeden Bosch Mitarbeiter frei zugänglich. Hier finden sich alle Informationen rund um das Working Out Loud und dazugehörige Circle Konzept von John Stepper (www.workingoutloud.com). Auch die Circles (Lerngruppen von 4-5 Personen) finden sich hier selbstorganisiert zusammen und organisieren sich in Sub-Communities. Diese sind allerdings geschlossen, um die Privatshäre der Circles zu schützen. Die wichtigsten Inhalte werden in zwei Sprachen angeboten, in deutscher sowie englischer Sprache, wobei in den Circle Sub-Communities selbstverständlich auch andere Sprachen zulässig sind.
+* **Geschichte:**  WOL-Community_1.jpg 
+
+Die Working Out Loud (WOL) @ Bosch Community wurde im Juli 2015 auf unserem internen ESN “Bosch Connect” (basiert auf IBM Connections) gegründet und hat bis heute bereits > 450 Mitglieder. Sie ist öffentlich und somit für jeden Bosch Mitarbeiter frei zugänglich. Hier finden sich alle Informationen rund um das Working Out Loud und dazugehörige Circle Konzept von John Stepper (s.a [workingoutloud.com](https://workingoutloud.com)). Auch die Circles (Lerngruppen von 4-5 Personen) finden sich hier selbstorganisiert zusammen und organisieren sich in Sub-Communities. Diese sind allerdings geschlossen, um die Privatshäre der Circles zu schützen. Die wichtigsten Inhalte werden in zwei Sprachen angeboten, in deutscher sowie englischer Sprache, wobei in den Circle Sub-Communities selbstverständlich auch andere Sprachen zulässig sind.
 Ziel der Community ist es, die Methode “Working Out Loud” (Working Out Loud = transparente, offene, netzwerk- und damit resonanzbasierte Arbeitsweise) bei Bosch zu implementieren und alle Interessenten unter einem Dach (der Community) zu vereinen.  Ein Team aus sechs Corporate Community Managern, natürlich WOL-Enthusiasten der ersten Stunde, unterstützt selbstorganisiert und auf freiwilliger Basis die dort laufenden Aktivitäten. Hauptsächlich werden in der Community die folgenden Funktionen genutzt:
 
 
-* Blog: zur Information über Neuigkeiten aus der WOL-Welt (intern und extern), Rückmeldungen aus Circlen etc.
-* Forum: Beantwortung von Fragen, Organisation der Circles (an einem Circle teilnehmen bzw. einen Circle moderieren)
-* Wiki: Informationen zur WOL Methode und des Circle Konzepts sowie alle Inhalte, die im Circle benötigt werden (Circle Guides, Vorlagen etc.), Übersicht über alle Bosch Circles
-* Lesezeichen: Links zu den wichtigsten externen WOL Adressen
-* Neuigkeiten: kurze Ankündigungen über WOL Aktivitäten
+* **Blog:** zur Information über Neuigkeiten aus der WOL-Welt (intern und extern), Rückmeldungen aus Circlen etc.
+* **Forum:** Beantwortung von Fragen, Organisation der Circles (an einem Circle teilnehmen bzw. einen Circle moderieren)
+* **Wiki:** Informationen zur WOL Methode und des Circle Konzepts sowie alle Inhalte, die im Circle benötigt werden (Circle Guides, Vorlagen etc.), Übersicht über alle Bosch Circles
+* **Lesezeichen:** Links zu den wichtigsten externen WOL Adressen
+* **Neuigkeiten:** kurze Ankündigungen über WOL Aktivitäten
 
 Neue Mitglieder werden täglich ganz persönlich begrüßt. Sie erhalten neben einem persönlichen Willkommensgruß einen Link auf eine “Willkommens-Seite”, die Ihnen einen Überblick über die Community gibt und bei den ersten Schritten unterstützt. Dies hilft, sie in das bestehende Netzwerk zu integrieren und aus der technischen Komponente “Community” auch eine starke soziale Gemeinschaft zu entwickeln, die das Thema “Working Out Loud” bei Bosch vorantreibt. Dies kann nur durch aktives Vorleben und persönliche Erfolgsgeschichten der Nutzer gelingen, da ist sich das Community Manager Team sicher. Und die Methode von “Working Out Loud”, dem netzwerkbasierten Arbeiten, wird im digitalen Zeitalter zu einer wichtigen Fähigkeit für das Unternehmen.
 
-Weiterführende Informationen:
-* www.workingoutloud.com
-* www.workingoutloud.de
-* www.wolweek.wordpress.com
-* https://www.bvcm.org/2015/12/working-out-loud-wol-eine-wichtige-methode-fuer-interne-corporate-community-manager/
-* www.managerseminare.de/pdf/tt10.pdf
+**Weiterführende Informationen:**
+
+* Webseite [workingoutloud.com](https://workingoutloud.com)
+* [Working Out Loud Week](https://wolweek.com/)
+* Blog [Working Out Loud: eine wichtige Methode für interne Community Manager](https://www.bvcm.org/2015/12/working-out-loud-wol-eine-wichtige-methode-fuer-interne-corporate-community-manager/)
+* Tutorial [Working Out Loud erlernen](www.managerseminare.de/pdf/tt10.pdf)
 
 ### Weitere Fallbeispiele
 
