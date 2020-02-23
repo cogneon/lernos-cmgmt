@@ -8,18 +8,12 @@ Da Wissen nicht hierarchisch sondern netzartig strukturiert ist, ergibt sich bei
 Das bedeutet in der Praxis, dass Mitarbeiter, die sich mit den gleichen Themen beschäftigen, in unterschiedlichen Abteilungen, Prozessen oder Standorten ansässig sind und der Wissensfluß dadurch behindert wird. Die Idee der “Community” kann hier Abhilfe schaffen. Indem Mitarbeiter mit gleichen Zielen und Themen regelmäßig interagieren können sie Wissen teilen und generieren, unabhängig von organisatorischer und geographischer Verortung. Die Interaktion in Communities kann hierbei in physischen Treffen oder virtuell geschehen.
 
 Durch die Einführung sozialer Medien in Unternehmen in den letzten Jahren steht ein mächtiges Werkzeug für die Unterstützung von Community-Aktivitäten zur Verfügung. Moderne Enterprise Social Networks (ESN) bieten u.a. die Möglichkeit Online-Communities zu erstellen und dadurch Kommunikation und Vernetzung zu übergreifenden Themen zu flexibilisieren und zu beschleunigen.
-2.1 Definitionen
 
-Community
-Communities sind Gruppen von Menschen, die ein gemeinsames Ziel haben und regelmäßig bzw. bei Bedarf interagieren, um ihr Ziel zu erreichen.
+## Definitionen
 
-“Eine Online Community ist zudem eine virtuelle, themenbasierte Arbeitsumgebung, die Teams mit gleichen Interessen und Aufgaben eine Heimat bieten kann. Hier kann mit verschiedenen Funktionen effizienter an einem Thema zusammengearbeitet werden, als klassisch per E-Mail. Alle Informationen sind zentral an einem Ort verfügbar und können überall von jedem Device bearbeitet werden.” (Katharina Perschke, Bosch)
-
-Community Management
-„Community Management ist die Bezeichnung für alle Methoden und Tätigkeiten rund um Konzeption, Aufbau, Leitung, Betrieb, Betreuung und Optimierung von virtuellen Gemeinschaften sowie deren Entsprechung außerhalb des virtuellen Raumes. Unterschieden wird dabei zwischen operativen, den direkten Kontakt mit den Mitgliedern betreffenden, und strategischen, den übergeordneten Rahmen betreffenden, Aufgaben und Fragestellungen.“ - BVCM 05.2010
-https://www.bvcm.org/2010/05/veroffentlichung-der-offiziellen-definition-community-management/
-
-Community Management ist die Bezeichnung für alle Methoden und Tätigkeiten rund um Planung, Start, Aktivierung, Führung und Transformation von Communities.
+* **Community:** Communities sind Gruppen von Menschen, die ein gemeinsames Ziel haben und regelmäßig bzw. bei Bedarf interagieren, um ihr Ziel zu erreichen. “Eine Online Community ist zudem eine virtuelle, themenbasierte Arbeitsumgebung, die Teams mit gleichen Interessen und Aufgaben eine Heimat bieten kann. Hier kann mit verschiedenen Funktionen effizienter an einem Thema zusammengearbeitet werden, als klassisch per E-Mail. Alle Informationen sind zentral an einem Ort verfügbar und können überall von jedem Device bearbeitet werden.” (Katharina Perschke, Bosch)
+* **Community Management:** Community Management ist die Bezeichnung für alle Methoden und Tätigkeiten rund um Konzeption, Aufbau, Leitung, Betrieb, Betreuung und Optimierung von virtuellen Gemeinschaften sowie deren Entsprechung außerhalb des virtuellen Raumes. Unterschieden wird dabei zwischen operativen, den direkten Kontakt mit den Mitgliedern betreffenden, und strategischen, den übergeordneten Rahmen betreffenden, Aufgaben und Fragestellungen (Quelle: [BVCM 05.2010](https://www.bvcm.org/2010/05/veroffentlichung-der-offiziellen-definition-community-management/)). Community Management ist die Bezeichnung für alle Methoden und Tätigkeiten rund um Planung, Start, Aktivierung, Führung und Transformation von Communities.
+* **Community of Practice (CoP):** Communities of Practice (CoP) sind Gruppen von Personen, die Interesse oder Leidenschaft für eine Tätigkeit (Praxis) teilen und durch regelmäßige Interaktion lernen, diese Tätigkeit besser auszuführen (nach Wenger).
 
 ## Rollen in Communities
 Communities können organisch und ohne festgelegte Rollen funktionieren. Viele Communities basieren auf Graswurzel-Bewegungen und der Partizipation von Freiwilligen. In der Praxis hat sich aber gezeigt, dass “Kümmerer” in Form bestimmter Rollen die Entwicklung von Communities positiv beeinflussen können. Wichtig ist, dass über die Definition von Rollen keine “Bürokratisierung” oder “Überformalisieurung” der Community entsteht und freie Interaktion möglich ist.
