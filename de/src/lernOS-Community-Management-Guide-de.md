@@ -40,9 +40,7 @@ Stellen Sie sich vor Sie werden zu einer Gartenparty eingeladen. Soll ich überh
 Als Community Manager bzw. Gastgeber müssen Sie somit gewisse Anforderungen mitbringen um ihrer Rolle gerecht zu werden. Eine gute Quelle für generelle Erfolgsfaktoren für erfolgreiches Community Management im beruflichen Kontext hat das Unternehmen [buw] digital zuletzt in ihrem Blog-Beitrag “Corporate Community Management - 10 Erfolgsfaktoren für Community Management im Enterprise 2.0” veröffentlich. Darin werden folgende Punkte hervorgehoben (Details zu den einzelnen Punkten, finden Sie im verlinkten Blog-Beitrag): Empathie, Serviceorientierte Denkart
 Reaktionsgeschwindigkeit, Ängste nehmen, Evangelisieren, begeistern, vorleben, entertainen, Veranschaulichen und das Niveau treffen, Adaption von Prozessen, Kontinuität, Stringenz, Konsequenz und Kohärenz, Charmantes Nerven. Weitere Anforderungen in etwa sind:
 Zuverlässigkeit, Initiativ, im Thema Zuhause, Teamplayer, freundlich.
-Corporate Community Management Erfolgsfaktoren Infografik 
-
-Quelle: http://buw-blog.de/corporate-community-management-10-erfolgsfaktoren-fur-community-management-im-enterprise-2-0/
+Corporate Community Management Erfolgsfaktoren Infografik (Quelle: [buw blog](http://buw-blog.de/corporate-community-management-10-erfolgsfaktoren-fur-community-management-im-enterprise-2-0/))
 
 Je nach Zweck und Ziel der Community können diese Anforderungen bzw. Erfolgsfaktoren aber auch stark variieren. Dies zeigen auch die Anforderungsprofile eines Community Managers des Bundesverbands für Community Management e.V. (BVCM). Aufgrund der vielzahl von möglich notwendigen Anforderungen an einen Community Managers kann es sinnvoll sein Einzelanforderungen in Rollen zu bündeln. Genau dies hat die Robert Bosch GmbH gemacht und folgende Rollen eines Corporate (internen) Community Manager definiert. Je nach Community Ziel und Zweck sind dabei auch die Schwerpunkte der Anforderungen an einen Community Manager unterschiedlich: Führungskraft, Stratege, Manager, Facilitator, Marketer, Gärtner, Berater, Unterhalter, Architekt, Content Manager, Wissens Manager, Motivator, Vermittler, Prozess Designer, Marken Botschafter, Projekt Manager, Netzwerker, Wächter, Redakteur, Analyst, Teilnehmer, Event Manager, Moderator, Konzepter. Bei der deutschen Telekom unterscheidet man in die Rollen  Inhaltsersteller, Moderator, “Lebenszirkel-Begleiter”, Administrator, Evaluator und Themenspezifischer Fachexperte.
 
@@ -54,7 +52,7 @@ http://socialconnections.info/sessions/the-importance-of-community-based-collabo
 ## Community Lifecycle
 Planung, Start, Aktivierung, Führung und Transformation von Communities lässt sich nicht als linearer Prozess mit klar definiertem Anfang und Ende darstellen. Ähnlich der Entwicklung im Projektmanagement in Form des Übergangs von linearen Modellen zu iterativen Modellen, lassen sich auch beim Community Management Phasen benennen, die in Iterationen durchlaufen werden. Diese Phasen werden in den folgenden Kapitel drei bis fünf im Detail beschrieben:
 
-Aufgabe: Community Lifecycle visualisieren (Simon)
+*Aufgabe: Community Lifecycle visualisieren (Simon)*
 
 Der Community Lifecycle der Robert Bosch GmbH (Copyright Robert Bosch GmbH 2016. Alle Rechte vorbehalten, auch bzgl. jeder Verfügung, Verwertung, Reproduktion, Bearbeitung, Weitergabe sowie für den Fall von Schutzrechtsanmeldungen)
 http://socialconnections.info/sessions/the-importance-of-community-based-collaboration-for-robert-bosch-gmbh/ 
@@ -72,7 +70,7 @@ http://socialconnections.info/sessions/the-importance-of-community-based-collabo
 
 ## Community Fallbeispiele
 
-Aufgabe: Einleitungstext zur Auswahl der Communities mit Nennung von Typen ohne Anspruch auf Vollständigkeit. Klären, welche der Communities im Playbook gelistet werden dürfen, für diese Name und Kurzbeschreibung (2-3 Zeilen), wenn vorhanden Visualisierung (Foto, Screenshot) und weiterführende Informationen (wenn vorhanden). Communities, die wir ins Playbook aufnehmen, fett markieren und Ansprechpartner dazu schreiben.
+*Aufgabe: Einleitungstext zur Auswahl der Communities mit Nennung von Typen ohne Anspruch auf Vollständigkeit. Klären, welche der Communities im Playbook gelistet werden dürfen, für diese Name und Kurzbeschreibung (2-3 Zeilen), wenn vorhanden Visualisierung (Foto, Screenshot) und weiterführende Informationen (wenn vorhanden). Communities, die wir ins Playbook aufnehmen, fett markieren und Ansprechpartner dazu schreiben.*
 
 Anwendungsfälle in Communities (in Einleitungstext integrieren)
 1. Neue Ideen finden
