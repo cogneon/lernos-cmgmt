@@ -1,7 +1,13 @@
 # Grundlagen
 Viele Unternehmen sind heute als einfache oder mehrfache Hierarchie organisiert. Bekannte Modelle sind hierarchische Stab-Linien-Organisationen, überlagerte Projektorganisationen und Matrixorganisationen.
 
-Da Wissen nicht hierarchisch sondern netzartig strukturiert ist, ergibt sich bei den genannten Organisationsformen das gleiche Problem, wie beim Zeichnen einer Landkarte: es entstehen Verfälschungen! Hierbei ist die Suche nach der “richtigen Hierarchie” nicht zielführend. Egal nach welcher Dimension strukturiert wird, es werden immer benötigte Informations- und- Wissensflüsse durchbrochen. Deswegen sagen führende Organisation- und Change-Management-Experten z.B.: „Hierarchies won‘t be replaced but rather extended by social technology enabled Communities“ (Dual Operating System, Prof. John P. Kotter) oder “Wir müssen Entscheidungshierarchien beibehalten, aber Informationshierarchien durch Informationsnetzwerke ersetzen (Prof. Michael Koch).
+Da Wissen nicht hierarchisch sondern netzartig strukturiert ist, ergibt sich bei den genannten Organisationsformen das gleiche Problem, wie beim Zeichnen einer Landkarte: es entstehen Verfälschungen! Hierbei ist die Suche nach der “richtigen Hierarchie” nicht zielführend. Egal nach welcher Dimension strukturiert wird, es werden immer benötigte Informations- und- Wissensflüsse durchbrochen. Deswegen sagen führende Organisation- und Change-Management-Experten z.B.:
+
+> Hierarchies won‘t be replaced but rather extended by social technology enabled Communities (Dual Operating System, Prof. John P. Kotter)
+
+oder
+
+> Wir müssen Entscheidungshierarchien beibehalten, aber Informationshierarchien durch Informationsnetzwerke ersetzen (Prof. Michael Koch)
 
  ![](images/image14.png)
 
@@ -64,7 +70,7 @@ http://socialconnections.info/sessions/the-importance-of-community-based-collabo
 7. Wissenslandkarte
 8. Working Out Loud (WOL)
 
-## Fallbeispiele
+## Community Fallbeispiele
 
 Aufgabe: Einleitungstext zur Auswahl der Communities mit Nennung von Typen ohne Anspruch auf Vollständigkeit. Klären, welche der Communities im Playbook gelistet werden dürfen, für diese Name und Kurzbeschreibung (2-3 Zeilen), wenn vorhanden Visualisierung (Foto, Screenshot) und weiterführende Informationen (wenn vorhanden). Communities, die wir ins Playbook aufnehmen, fett markieren und Ansprechpartner dazu schreiben.
 
