@@ -509,4 +509,4 @@ Bosch hat ebenfalls ein interaktives Playbook auf PDF-Basis erstellt. Daraus ent
 ## Änderungshistorie
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |
 |---------|----------------|-----------------------|-------|
-| 0.1 | Simon Dückert | Initialen Version erstellt, Inhalte aus ... | 16.03.2020 |
+| 0.1 | Simon Dückert | Initialen Version erstellt, Inhalte aus dem White-Label Playbook Community Management des Benchlearning Projekts 2015 aus Google Doc übernommen (TXT-Export) und Markdown-Formatierung angepasst. | 16.03.2020 |
