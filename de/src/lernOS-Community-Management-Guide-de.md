@@ -175,37 +175,37 @@ Neue Mitglieder werden täglich ganz persönlich begrüßt. Sie erhalten neben e
 **Paper/Studien:**
 
 * APQC (2010): The Positioning Communities of Practice for Success - An APQC Collaborative Benchmarking Report.
-* BVCM - Ellermann, B. (2014): Corporate Community Management – BVCM und BOSCH stellen Entwurf des neuen Berufsbilds vor. URL: https://www.bvcm.org/2014/03/corporate-community-management-bvcm-und-bosch-stellen-entwurf-des-neuen-berufsbilds-vor/ abgerufen am 16.02.2016
-* BVCM - Langwasser, D. (2010): Veröffentlichung der offiziellen Definition Community Management. URL: https://www.bvcm.org/2010/05/veroffentlichung-der-offiziellen-definition-community-management/ abgerufen am 16.02.2016
-* BVCM - Gust, B. (2012): BVCM definiert Social Media Berufsbilder. URL: http://www.bvcm.org/2012/07/bvcm-definiert-social-media-berufsbilder/ abgerufen am 16.02.2016
-* Community Roundtable (2014): The State of Community Management 2014. URL: http://de.slideshare.net/rhappe/the-state-of-community-management-2014 ,abgerufen am 27.02.2015
-* Community Roundtable (2015): Defining Community Management Roles. URL:  http://www.slideshare.net/rhappe/defining-community-management-roles, abgerufen am 27.02.2015
-* Community Roundtable (2014): Community Manager Salary Survey 2014. URL: http://www.communityroundtable.com/research/community-manager-salary-survey/cmss-2014/, abgerufen am 27.02.2015
-* Community Roundtable (2015): Community Manager Handbook. 20 Lessons from Community superheroes. URL: http://de.slideshare.net/rhappe/community-manager-handbook-by-the-community-roundtable, abgerufen am 13.04.2015
-* Community Roundtable (2015): The State of Community Management 2015. URL: http://de.slideshare.net/rhappe/the-state-of-community-managerment-2015, abgerufen am 08.06.2015
-* Community Roundtable (2015): How to Measure, Benchmark and Calculate Community ROI. URL: http://de.slideshare.net/rhappe/community-benchmarking-and-roi, abgerufen am 03.06.2015
-* Cialdini, Robert (2013): The Uses and Abuses of Influence. Harvard Business Review. July-August 2013. URL: https://enterprisersproject.com/sites/default/files/The%20Uses%20and%20Abuses%20of%20Influence.pdf, abgerufen am 28.05.2015
-* Herzog et al. (2014): Barrieren der Erfolgsmessung von Enterprise Social Software. Vorgestellt auf der Multikonferenz Wirtschaftsinformatik 2014. URL: http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCYQFjAB&url=http%3A%2F%2Fwww.zora.uzh.ch%2F99283%2F1%2FHerzog%2520et%2520al%2520MKWI%25202014%2520Barrieren%2520Erfolgsmessung.pdf&ei=KjJcVfiFGMv9ULSqgfAF&usg=AFQjCNG8oLD_m7gO1PBrtM-rHrRZiR027A&bvm=bv.93756505,d.bGQ, abgerufen am 20.05.2015
-* Hofstede, Geert (2006): Cultural influences on knowledge sharing through online communities of practice, Journal of knowledge management 2006.
-* Kavanaugh et al. (2005) - Weak Ties in Networked Communities. The Information Society: An International Journal. URL: http://www.iisi.de/fileadmin/IISI/upload/C_T/2003/kavanaugh.pdf, abgerufen am 13.04.2015
-* Kotter, John (2012) - Accelerate!. Harvard Business Review November 2012. URL: https://hbr.org/2012/11/accelerate, abgerufen am 28.04.2015
-* Kotter, John; Schlesinger, Leonard (2008) - Choosing strategies for Change. Harvard Business Review July-August 2008. URL: https://globalleadershipfoundation.com/assets/files/2013/04/Choosing-strategies-for-change-KOTTER.pdf, abgerufen am 28.04.2015
-* Kotter, John (2008): Leading Change: Why Transformation Efforts Fail. harvard Business Review January 2007 - Best of HBR. URL: http://www.lssu.edu/sharedgovernance/planningbudget/documents/LeadingChangeKotter.pdf, abgerufen am 28.05.2015
+* BVCM - Ellermann, B. (2014): [Corporate Community Management – BVCM und BOSCH stellen Entwurf des neuen Berufsbilds vor](https://www.bvcm.org/2014/03/corporate-community-management-bvcm-und-bosch-stellen-entwurf-des-neuen-berufsbilds-vor/).
+* BVCM - Langwasser, D. (2010): [Veröffentlichung der offiziellen Definition Community Management](https://www.bvcm.org/2010/05/veroffentlichung-der-offiziellen-definition-community-management/).
+* BVCM - Gust, B. (2012): [BVCM definiert Social Media Berufsbilder](http://www.bvcm.org/2012/07/bvcm-definiert-social-media-berufsbilder/).
+* Community Roundtable (2014): [The State of Community Management 2014](http://de.slideshare.net/rhappe/the-state-of-community-management-2014).
+* Community Roundtable (2015): [Defining Community Management Roles](http://www.slideshare.net/rhappe/defining-community-management-roles).
+* Community Roundtable (2014): [Community Manager Salary Survey 2014](http://www.communityroundtable.com/research/community-manager-salary-survey/cmss-2014/).
+* Community Roundtable (2015): [Community Manager Handbook. 20 Lessons from Community superheroes](http://de.slideshare.net/rhappe/community-manager-handbook-by-the-community-roundtable).
+* Community Roundtable (2015): [The State of Community Management 2015](http://de.slideshare.net/rhappe/the-state-of-community-managerment-2015).
+* Community Roundtable (2015): [How to Measure, Benchmark and Calculate Community ROI](http://de.slideshare.net/rhappe/community-benchmarking-and-roi).
+* Cialdini, Robert (2013): [The Uses and Abuses of Influence](https://enterprisersproject.com/sites/default/files/The%20Uses%20and%20Abuses%20of%20Influence.pdf). Harvard Business Review. July-August 2013.
+* Herzog et al. (2014): [Barrieren der Erfolgsmessung von Enterprise Social Software](https://www.zora.uzh.ch/id/eprint/99283/1/Herzog%20et%20al%20MKWI%202014%20Barrieren%20Erfolgsmessung.pdf). Vorgestellt auf der Multikonferenz Wirtschaftsinformatik 2014.
+* Hofstede, Geert (2006): [Cultural influences on knowledge sharing through online communities of practice](https://www.researchgate.net/publication/220363318_Cultural_Influences_on_Knowledge_Sharing_through_Online_Communities_of_Practice), Journal of knowledge management 2006.
+* Kavanaugh et al. (2005) - [Weak Ties in Networked Communities](http://www.iisi.de/fileadmin/IISI/upload/C_T/2003/kavanaugh.pdf). The Information Society: An International Journal.
+* Kotter, John (2012) - [Accelerate!](https://hbr.org/2012/11/accelerate). Harvard Business Review November 2012.
+* Kotter, John; Schlesinger, Leonard (2008) - [Choosing strategies for Change](https://globalleadershipfoundation.com/assets/files/2013/04/Choosing-strategies-for-change-KOTTER.pdf). Harvard Business Review July-August 2008.
+* Kotter, John (2008): Leading Change: [Why Transformation Efforts Fail](http://www.lssu.edu/sharedgovernance/planningbudget/documents/LeadingChangeKotter.pdf). harvard Business Review January 2007 - Best of HBR.
 * Lindemann, Udo; Schön, Stefan (2001): Gestaltung und Unterstützung von CoPs. Reihe Produktentwicklung der TU München. Herbert Utz Verlag.
-* Lok, Corie (2012): Career development: What*s your type?  Nature 488, 545-547. URL: http://www.nature.com/naturejobs/science/articles/10.1038/nj7412-545a, abgerufen am 28.07.2015
-* McDermott, Richard (2002): Measuring the Impact of Communities. Knowledge Management Review Vol.5 Issue 2. URL: https://www.k4health.org/sites/default/files/Measuring%20the%20Impact%20of%20Communities.pdf, abgerufen am 26.02.2015
-* McDermott, Richard; Archibald, Douglas (2010): Harnessing Your Staff’s Informal Networks. Harvard Business Review March 2010. URL:http://fisher.osu.edu/supplements/10/5481/Harnessing%20Your%20Staff%27s%20Informal%20Networks%20-%20HBR%20-%20February%202010.pdf, abgerufen am 10.04.2015
-* McKinsey (2013): McKinsey global survey results evolution of the networked enterprise. URL:http://de.slideshare.net/fred.zimny/mc-kinsey-global-survey-results-evolution-of-the-networked-enterprise, abgerufen am 20.05.2015
-* Niemeier, Joachim (2014): Leading the Transformation and Change Process. Enterprise 2.0 Summit 2014. URL: http://de.slideshare.net/JNiemeier/enterprise-20-summit-leading-the-transformation-and-change-process, abgerufen am 28.05.2015
+* Lok, Corie (2012): [Career development: What*s your type?](http://www.nature.com/naturejobs/science/articles/10.1038/nj7412-545a)  Nature 488, 545-547.
+* McDermott, Richard (2002): [Measuring the Impact of Communities](https://www.k4health.org/sites/default/files/Measuring%20the%20Impact%20of%20Communities.pdf). Knowledge Management Review Vol.5 Issue 2.
+* McDermott, Richard; Archibald, Douglas (2010): [Harnessing Your Staff’s Informal Networks](http://fisher.osu.edu/supplements/10/5481/Harnessing%20Your%20Staff%27s%20Informal%20Networks%20-%20HBR%20-%20February%202010.pdf). Harvard Business Review March 2010.
+* McKinsey (2013): [McKinsey global survey results evolution of the networked enterprise](http://de.slideshare.net/fred.zimny/mc-kinsey-global-survey-results-evolution-of-the-networked-enterprise).
+* Niemeier, Joachim (2014): [Leading the Transformation and Change Process](http://de.slideshare.net/JNiemeier/enterprise-20-summit-leading-the-transformation-and-change-process). Enterprise 2.0 Summit 2014.
 * North, Klaus; Franz, Michael; Lembke, Gerald (2004): Wissenserzeugung und -Austausch in Wissensgemeinschaften Communities of Practice, QUEM-report, Heft 85
-* Pleil, Thomas (2013): Positionspapier Kommunikation 2.0. URL: http://de.slideshare.net/apalme2003/mooc-thomaspleilpositionspapierkommunikation20, abgerufen am 03.06.2015
-* PwC (2014): A perspective on Organizational Culture. URL: http://www.strategyand.pwc.com/media/file/Strategyand-Perspective-on-Organizational-Culture.pdf, abgerufen am 03.06.2015
-* Richter et al. (2013): Success Measurement of Enterprise Social Networks. In: Proceedings 11th International Conference on Wirtschaftsinformatik, Leipzig. URL: http://www.kooperationssysteme.de/docs/pubs/Richter%20et%20al%202013_WI2013_Success_Measurement_of_ESN.pdf, abgerufen am 20.05.2015
-* Richter et al. (2014): Erfolgsmessung von Enterprise Social Software: Wer? Was? Wie? URL: http://www.kooperationssysteme.de/wp-content/cache/mendeley-file-cache/e610c81d-166d-3750-9a9b-a9d7836c7033.pdf, abgerufen am 20.05.2015
-* Rossi, Karsten (2013): Positionspapier Kommunikation 2.0. URL:http://de.scribd.com/doc/177695646/Carsten-Rossi-Positionspapier-Kommunikaton-2-0, abgerufen am 03.06.2015
-* Schleuter, Dr. Willibert (2013): Change Management als Revolution von unten. URL: http://www.bbdk.de/vortraege-achiv.html?file=files/bbdk/dokumente/fruehjahrskolloquium/vortraege_2013/Vortrag_Schleuter.pdf, abgerufen am 28.05.2015
-* Wang, Sheng; Noe, Raymond A. (2009): Knowledge sharing: A review and directions for future research. Human Resource Management Review. URL: http://web.iaincirebon.ac.id/ebook/indrya/Inovasi/HR_Managament.pdf, abgerufen am 02.03.2015
-* Wenger, Etienne; Snyder William M. (2000) - Communities of Practice: The Organizational Frontier. Harvard Business Review. January Issue. URL: https://hbr.org/2000/01/communities-of-practice-the-organizational-frontier, abgerufen am 02.03.2015
+* Pleil, Thomas (2013): [Positionspapier Kommunikation 2.0](http://de.slideshare.net/apalme2003/mooc-thomaspleilpositionspapierkommunikation20).
+* PwC (2014): [A perspective on Organizational Culture](http://www.strategyand.pwc.com/media/file/Strategyand-Perspective-on-Organizational-Culture.pdf).
+* Richter et al. (2013): [Success Measurement of Enterprise Social Networks](http://www.kooperationssysteme.de/docs/pubs/Richter%20et%20al%202013_WI2013_Success_Measurement_of_ESN.pdf). In: Proceedings 11th International Conference on Wirtschaftsinformatik, Leipzig.
+* Richter et al. (2014): [Erfolgsmessung von Enterprise Social Software: Wer? Was? Wie?](http://www.kooperationssysteme.de/wp-content/cache/mendeley-file-cache/e610c81d-166d-3750-9a9b-a9d7836c7033.pdf)
+* Rossi, Karsten (2013): [Positionspapier Kommunikation 2.0](http://de.scribd.com/doc/177695646/Carsten-Rossi-Positionspapier-Kommunikaton-2-0).
+* Schleuter, Dr. Willibert (2013): [Change Management als Revolution von unten](http://www.bbdk.de/vortraege-achiv.html?file=files/bbdk/dokumente/fruehjahrskolloquium/vortraege_2013/Vortrag_Schleuter.pdf).
+* Wang, Sheng; Noe, Raymond A. (2009): [Knowledge sharing: A review and directions for future research](http://web.iaincirebon.ac.id/ebook/indrya/Inovasi/HR_Managament.pdf). Human Resource Management Review.
+* Wenger, Etienne; Snyder William M. (2000) - [Communities of Practice: The Organizational Frontier](https://hbr.org/2000/01/communities-of-practice-the-organizational-frontier). Harvard Business Review. January Issue.
 
 # Lernpfad
 
