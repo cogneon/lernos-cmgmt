@@ -2,7 +2,7 @@
 title: "lernOS Community Management Leitfaden"
 subtitle: "Soziales Lernen im Netzwerk"
 author: [Simon Dückert]
-date: "Version 0.1 (23.02.2020)"
+date: "Version 0.2 (29.12.2021)"
 titlepage: true
 titlepage-color: "ff6600"
 titlepage-text-color: "ffffff"
@@ -13,5 +13,5 @@ toc: true
 toc-own-page: true
 toc-depth: 3
 logo: src/images/lernOS-logo-white-4000px.png
-logo-width: 300
+logo-width: 300px
 ---

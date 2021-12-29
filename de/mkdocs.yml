@@ -1,34 +1,59 @@
 site_name: lernOS Community Management Leitfaden
 site_url: https://cogneon.github.io/
-
 docs_dir: src
-
 site_dir: ../docs/de
 
 nav:
-    - Über lernOS: index.md
-    - Community Management: lernOS-Community-Management-Guide-de.md
+    - Willkommen: index.md
+    - Grundlagen: 1-0-Grundlagen.md
+    - Lernpfad: 2-0-Lernpfad.md
+    - Anhang: 3-0-Anhang.md
+    - Download:
+      - PDF-Version: https://github.com/cogneon/lernos-cmgmt/blob/master/de/lernOS-Community-Management-Guide-de.pdf
+      - Word-Version: https://github.com/cogneon/lernos-cmgmt/blob/master/de/lernOS-Community-Management-Guide-de.docx
+      - HTML-Version: https://github.com/cogneon/lernos-cmgmt/blob/master/de/lernOS-Community-Management-Guide-de.html
+      - E-Book (epub): https://github.com/cogneon/lernos-cmgmt/blob/master/de/lernOS-Community-Management-Guide-de.epub
+      - E-Book (mobi): https://github.com/cogneon/lernos-cmgmt/blob/master/de/lernOS-Community-Management-Guide-de.mobi
+    - Links:
+      - lernOS Website: https://lernos.org
+      - lernOS Community: https://community.cogneon.de
+      - Peerfinder: https://web.peerfinder.app
 
 theme:
     name: 'material'
+    custom_dir: src/overrides
     palette:
-        primary: 'deep orange'
-        accent: 'deep orange'
+        scheme: lernos
     language: de
+    icon:
+      logo: material/home
+      repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
 
 repo_name: 'cogneon/lernos-cmgmt'
 repo_url: 'https://github.com/cogneon/lernos-cmgmt'
 
-google_analytics:
-  - 'UA-156969141-1'
-  - 'auto'
-
 extra:
     social:
         - icon: fontawesome/brands/twitter
-          link: https://twitter.com/lern_os
+          link: 'https://twitter.com/lern_os'
         - icon: fontawesome/brands/linkedin
-          link: https://www.linkedin.com/showcase/lern-os
+          link: 'https://www.linkedin.com/showcase/lern-os'
         - icon: fontawesome/brands/github
-          link: https://github.com/cogneon
+          link: 'https://github.com/cogneon'
     disqus: lernos
+    analytics:
+       provider: custom
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+plugins:
+  - search
+  - mermaid2

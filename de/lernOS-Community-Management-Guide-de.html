@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de-de" xml:lang="de-de">
 <head>
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
@@ -7,12 +7,144 @@
   <meta name="author" content="Simon Dückert" />
   <title>lernOS Community Management Leitfaden</title>
   <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     span.underline{text-decoration: underline;}
     div.column{display: inline-block; vertical-align: top; width: 50%;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
@@ -23,56 +155,16 @@
 <h1 class="title">lernOS Community Management Leitfaden</h1>
 <p class="subtitle">Soziales Lernen im Netzwerk</p>
 <p class="author">Simon Dückert</p>
-<p class="date">Version 0.1 (23.02.2020)</p>
+<p class="date">Version 0.2 (29.12.2021)</p>
 </header>
 <nav id="TOC" role="doc-toc">
-<ul>
-<li><a href="#über-lernos">Über lernOS</a>
-<ul>
-<li><a href="#definitionen">Definitionen</a></li>
-<li><a href="#community-rollen">Community Rollen</a></li>
-<li><a href="#anforderungen-an-community-manager">Anforderungen an Community Manager</a></li>
-<li><a href="#community-lifecycle">Community Lifecycle</a></li>
-<li><a href="#community-toolkit">Community Toolkit</a></li>
-<li><a href="#community-fallbeispiele">Community Fallbeispiele</a>
-<ul>
-<li><a href="#guide-network-continental">GUIDE Network (Continental)</a></li>
-<li><a href="#podcast-community-sendegate.de">Podcast Community (sendegate.de)</a></li>
-<li><a href="#working-out-loud-community-bosch">Working Out Loud Community (Bosch)</a></li>
-<li><a href="#weitere-fallbeispiele">Weitere Fallbeispiele</a></li>
-</ul></li>
-<li><a href="#weiterführende-informationen">Weiterführende Informationen</a></li>
-</ul></li>
-<li><a href="#lernpfad">Lernpfad</a>
-<ul>
-<li><a href="#community-planen-und-starten">Community planen und starten</a>
-<ul>
-<li><a href="#ziele-zielgruppen-und-nutzen-definieren">Ziele, Zielgruppen und Nutzen definieren</a></li>
-<li><a href="#die-community-skizzieren">Die Community skizzieren</a></li>
-<li><a href="#als-team-starten">Als Team starten</a></li>
-</ul></li>
-<li><a href="#community-aktivieren-und-führen">Community aktivieren und führen</a>
-<ul>
-<li><a href="#beispiele-für-konkrete-aktivitäten-und-formate">Beispiele für konkrete Aktivitäten und Formate</a></li>
-<li><a href="#mitglieder-akquirierenunterstützen-und-moderieren">Mitglieder akquirieren,unterstützen und moderieren</a></li>
-<li><a href="#inhalte-erstellen-und-interaktionen-anregen-regel-kommunikation-etablieren">Inhalte erstellen und Interaktionen anregen (Regel-Kommunikation etablieren)</a></li>
-<li><a href="#community-events-durchführen">Community Events durchführen</a></li>
-<li><a href="#community-bekannt-machen">Community bekannt machen</a></li>
-<li><a href="#spezifische-regeln-der-community">Spezifische Regeln der Community</a></li>
-<li><a href="#der-verhaltenskodex-der-community">Der Verhaltenskodex der Community</a></li>
-</ul></li>
-<li><a href="#community-transformieren-oder-schließen">Community transformieren oder schließen</a></li>
-</ul></li>
-<li><a href="#anhang">Anhang</a>
-<ul>
-<li><a href="#danksagungen">Danksagungen</a></li>
-<li><a href="#änderungshistorie">Änderungshistorie</a></li>
-</ul></li>
-</ul>
+
 </nav>
-<h1 id="über-lernos">Über lernOS</h1>
+<h1 data-number="1" id="über-lernos"><span class="header-section-number">1</span> Über lernOS</h1>
 <p><a href="https://lernos.org">lernOS</a> ist eine Methode zur Selbstorganisation für Menschen, die im 21. Jahrhundert leben und arbeiten. Um heute erfolgreich zu sein, muss man ständig lernen, sich organisieren und weiterentwickeln. Niemand sonst ist für diesen Prozess verantwortlich. Man muss sich selber darum kümmern (selbstgesteuertes, lebenslanges Lernen). lernOS Leitfäden stehen unter der Lizenz <a href="https://creativecommons.org/licenses/by/4.0/deed.de">Creative Commons Namensnennung 4.0 International</a> (CC BY 4.0), du darfst sie teilen und bearbeiten, wenn du die Quelle nennest und keine weiteren Einschränkungen hinzufügst.</p>
-<p><img src="https://i.creativecommons.org/l/by/4.0/88x31.png" /> # Grundlagen Viele Unternehmen sind heute als einfache oder mehrfache Hierarchie organisiert. Bekannte Modelle sind hierarchische Stab-Linien-Organisationen, überlagerte Projektorganisationen und Matrixorganisationen.</p>
+<p><img src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></p>
+<h1 data-number="2" id="grundlagen"><span class="header-section-number">2</span> Grundlagen</h1>
+<p>Viele Unternehmen sind heute als einfache oder mehrfache Hierarchie organisiert. Bekannte Modelle sind hierarchische Stab-Linien-Organisationen, überlagerte Projektorganisationen und Matrixorganisationen.</p>
 <p>Da Wissen nicht hierarchisch sondern netzartig strukturiert ist, ergibt sich bei den genannten Organisationsformen das gleiche Problem, wie beim Zeichnen einer Landkarte: es entstehen Verfälschungen! Hierbei ist die Suche nach der “richtigen Hierarchie” nicht zielführend. Egal nach welcher Dimension strukturiert wird, es werden immer benötigte Informations- und- Wissensflüsse durchbrochen. Deswegen sagen führende Organisation- und Change-Management-Experten z.B.:</p>
 <blockquote>
 <p>Hierarchies won‘t be replaced but rather extended by social technology enabled Communities (Dual Operating System, Prof. John P. Kotter)</p>
@@ -84,13 +176,13 @@
 <p><img src="images/image14.png" /></p>
 <p>Das bedeutet in der Praxis, dass Mitarbeiter, die sich mit den gleichen Themen beschäftigen, in unterschiedlichen Abteilungen, Prozessen oder Standorten ansässig sind und der Wissensfluss dadurch behindert wird. Die Idee der “Community” kann hier Abhilfe schaffen. Indem Mitarbeiter mit gleichen Zielen und Themen regelmäßig interagieren können sie Wissen teilen und generieren, unabhängig von organisatorischer und geographischer Verortung. Die Interaktion in Communities kann hierbei in physischen Treffen oder virtuell geschehen.</p>
 <p>Durch die Einführung sozialer Medien in Unternehmen in den letzten Jahren steht ein mächtiges Werkzeug für die Unterstützung von Community-Aktivitäten zur Verfügung. Moderne Enterprise Social Networks (ESN) bieten u.a. die Möglichkeit Online-Communities zu erstellen und dadurch Kommunikation und Vernetzung zu übergreifenden Themen zu flexibilisieren und zu beschleunigen.</p>
-<h2 id="definitionen">Definitionen</h2>
+<h2 data-number="2.1" id="definitionen"><span class="header-section-number">2.1</span> Definitionen</h2>
 <ul>
 <li><strong>Community:</strong> Communities sind Gruppen von Menschen, die ein gemeinsames Ziel haben und regelmäßig bzw. bei Bedarf interagieren, um ihr Ziel zu erreichen. “Eine Online Community ist zudem eine virtuelle, themenbasierte Arbeitsumgebung, die Teams mit gleichen Interessen und Aufgaben eine Heimat bieten kann. Hier kann mit verschiedenen Funktionen effizienter an einem Thema zusammengearbeitet werden, als klassisch per E-Mail. Alle Informationen sind zentral an einem Ort verfügbar und können überall von jedem Device bearbeitet werden.” (Katharina Perschke, Bosch)</li>
 <li><strong>Community Management:</strong> Community Management ist die Bezeichnung für alle Methoden und Tätigkeiten rund um Konzeption, Aufbau, Leitung, Betrieb, Betreuung und Optimierung von virtuellen Gemeinschaften sowie deren Entsprechung außerhalb des virtuellen Raumes. Unterschieden wird dabei zwischen operativen, den direkten Kontakt mit den Mitgliedern betreffenden, und strategischen, den übergeordneten Rahmen betreffenden, Aufgaben und Fragestellungen (Quelle: <a href="https://www.bvcm.org/2010/05/veroffentlichung-der-offiziellen-definition-community-management/">BVCM 05.2010</a>). Community Management ist die Bezeichnung für alle Methoden und Tätigkeiten rund um Planung, Start, Aktivierung, Führung und Transformation von Communities.</li>
 <li><strong>Community of Practice (CoP):</strong> Communities of Practice (CoP) sind Gruppen von Personen, die Interesse oder Leidenschaft für eine Tätigkeit (Praxis) teilen und durch regelmäßige Interaktion lernen, diese Tätigkeit besser auszuführen (nach Wenger).</li>
 </ul>
-<h2 id="community-rollen">Community Rollen</h2>
+<h2 data-number="2.2" id="community-rollen"><span class="header-section-number">2.2</span> Community Rollen</h2>
 <p>Communities können organisch und ohne festgelegte Rollen funktionieren. Viele Communities basieren auf Graswurzel-Bewegungen und der Partizipation von Freiwilligen. In der Praxis hat sich aber gezeigt, dass “Kümmerer” in Form bestimmter Rollen die Entwicklung von Communities positiv beeinflussen können. Wichtig ist, dass über die Definition von Rollen keine “Bürokratisierung” oder “Überformalisierung” der Community entsteht und freie Interaktion möglich ist.</p>
 <p><img src="images/image2.png" /></p>
 <ul>
@@ -100,19 +192,19 @@
 <li><strong>Community Sponsor:</strong> einflussreiche Person in der Organisation, die hinter dem Thema und den Zielen der Community steht. Management Sponsoren sind für die Legitimation der Community und die Verfügbarkeit von Ressourcen wichtig.</li>
 <li><strong>Führungskräfte der Community Mitglieder:</strong> da die Mitgliedschaft in einer Community i.d.R. keine offizielle Rolle und auch nicht in der Zielvereinbarung enthalten ist, können die Führungskräfte der Community Mitglieder als deren “Sponsoren” betrachtet werden.</li>
 </ul>
-<h2 id="anforderungen-an-community-manager">Anforderungen an Community Manager</h2>
+<h2 data-number="2.3" id="anforderungen-an-community-manager"><span class="header-section-number">2.3</span> Anforderungen an Community Manager</h2>
 <p>So vielfältig die Zwecke und Ziele von Communities sein können, so können auch die Anforderungen stark variieren. Nichtsdestotrotz zeigt sich bei den meisten Communities, dass es ohne ein Engagement eines Community Managers kaum möglich ist, eine lebendige Community zu etablieren und zu führen. Hierbei sei noch besonders hervorgehoben, dass ein Community Manager nicht nur beim Start sondern insbesondere danach notwendig ist. Zum Verständnis ist hier vielleicht auch eine kleine Analogie sinnvoll.</p>
 <p>Stellen Sie sich vor Sie werden zu einer Gartenparty eingeladen. Soll ich überhaupt dort hingehen? Soll ich etwas mitbringen? Wer ist noch eingeladen? Kenne ich die Leute? Gibt es wohl Themen über die ich mich mit den anderen unterhalten kann? Soll ich mich bei der Party als “Grillmeister” einbringen? Kommen ihnen diese Fragen bekannt vor? Einen Teil der Fragen werden Sie als Community Manager direkt bei der Einladung oder bei einem kurzen Gespräch vorab klären können. Viele Fragen werden die Besucher aber auch während der Party haben. Daher sind Sie als Gastgeber insbesondere während der Party gefragt z.B. die Gäste untereinander in Kontakt zu bringen und ihnen möglichen zu bieten sich mit konkreten Dingen einzubringen (Musik machen, grillen, etc.).</p>
 <p>Als Community Manager bzw. Gastgeber müssen Sie somit gewisse Anforderungen mitbringen um ihrer Rolle gerecht zu werden. Eine gute Quelle für generelle Erfolgsfaktoren für erfolgreiches Community Management im beruflichen Kontext hat das Unternehmen [buw] digital zuletzt in ihrem Blog-Beitrag “Corporate Community Management - 10 Erfolgsfaktoren für Community Management im Enterprise 2.0” veröffentlich. Darin werden folgende Punkte hervorgehoben (Details zu den einzelnen Punkten, finden Sie im verlinkten Blog-Beitrag): Empathie, Serviceorientierte Denkart Reaktionsgeschwindigkeit, Ängste nehmen, Evangelisieren, begeistern, vorleben, entertainen, Veranschaulichen und das Niveau treffen, Adaption von Prozessen, Kontinuität, Stringenz, Konsequenz und Kohärenz, Charmantes Nerven. Weitere Anforderungen in etwa sind: Zuverlässigkeit, Initiativ, im Thema Zuhause, Teamplayer, freundlich. Corporate Community Management Erfolgsfaktoren Infografik (Quelle: <a href="http://buw-blog.de/corporate-community-management-10-erfolgsfaktoren-fur-community-management-im-enterprise-2-0/">buw blog</a>)</p>
 <p>Je nach Zweck und Ziel der Community können diese Anforderungen bzw. Erfolgsfaktoren aber auch stark variieren. Dies zeigen auch die Anforderungsprofile eines Community Managers des Bundesverbands für Community Management e.V. (BVCM). Aufgrund der vielzahl von möglich notwendigen Anforderungen an einen Community Managers kann es sinnvoll sein Einzelanforderungen in Rollen zu bündeln. Genau dies hat die Robert Bosch GmbH gemacht und folgende Rollen eines Corporate (internen) Community Manager definiert. Je nach Community Ziel und Zweck sind dabei auch die Schwerpunkte der Anforderungen an einen Community Manager unterschiedlich: Führungskraft, Stratege, Manager, Facilitator, Marketer, Gärtner, Berater, Unterhalter, Architekt, Content Manager, Wissens Manager, Motivator, Vermittler, Prozess Designer, Marken Botschafter, Projekt Manager, Netzwerker, Wächter, Redakteur, Analyst, Teilnehmer, Event Manager, Moderator, Konzepter. Bei der deutschen Telekom unterscheidet man in die Rollen Inhaltsersteller, Moderator, “Lebenszirkel-Begleiter”, Administrator, Evaluator und Themenspezifischer Fachexperte.</p>
 <p>Verschiedene Rollen eines Community Managers bei der Robert Bosch GmbH (Copyright Robert Bosch GmbH 2016. Alle Rechte vorbehalten, auch bzgl. jeder Verfügung, Verwertung, Reproduktion, Bearbeitung, Weitergabe sowie für den Fall von Schutzrechtsanmeldungen, <a href="http://socialconnections.info/sessions/the-importance-of-community-based-collaboration-for-robert-bosch-gmbh/">Quelle</a> -&gt;<em>Aufgabe: korrekte Quelle finden</em>).</p>
 <p>Übertragen auf unser Beispiel der Gartenparty würden Sie als Gastgeber hauptsächlich in der Rollen des Unterhalters, Vermittlers, Netzwerkers, Teilnehmers und Moderators agieren.</p>
-<h2 id="community-lifecycle">Community Lifecycle</h2>
+<h2 data-number="2.4" id="community-lifecycle"><span class="header-section-number">2.4</span> Community Lifecycle</h2>
 <p>Planung, Start, Aktivierung, Führung und Transformation von Communities lässt sich nicht als linearer Prozess mit klar definiertem Anfang und Ende darstellen. Ähnlich der Entwicklung im Projektmanagement in Form des Übergangs von linearen Modellen zu iterativen Modellen, lassen sich auch beim Community Management Phasen benennen, die in Iterationen durchlaufen werden. Diese Phasen werden in den folgenden Kapitel drei bis fünf im Detail beschrieben:</p>
 <p><em>Aufgabe: Community Lifecycle visualisieren (Simon)</em></p>
 <p>Der Community Lifecycle der Robert Bosch GmbH (Copyright Robert Bosch GmbH 2016. Alle Rechte vorbehalten, auch bzgl. jeder Verfügung, Verwertung, Reproduktion, Bearbeitung, Weitergabe sowie für den Fall von Schutzrechtsanmeldungen, <a href="http://socialconnections.info/sessions/the-importance-of-community-based-collaboration-for-robert-bosch-gmbh/">Quelle</a>)</p>
 <p><img src="images/image15.jpg" /></p>
-<h2 id="community-toolkit">Community Toolkit</h2>
+<h2 data-number="2.5" id="community-toolkit"><span class="header-section-number">2.5</span> Community Toolkit</h2>
 <ol type="1">
 <li>Ask Me Anything (AMA)</li>
 <li>Blogparade</li>
@@ -123,7 +215,7 @@
 <li>Wissenslandkarte</li>
 <li>Working Out Loud (WOL)</li>
 </ol>
-<h2 id="community-fallbeispiele">Community Fallbeispiele</h2>
+<h2 data-number="2.6" id="community-fallbeispiele"><span class="header-section-number">2.6</span> Community Fallbeispiele</h2>
 <p><em>Aufgabe: Einleitungstext zur Auswahl der Communities mit Nennung von Typen ohne Anspruch auf Vollständigkeit. Klären, welche der Communities im Playbook gelistet werden dürfen, für diese Name und Kurzbeschreibung (2-3 Zeilen), wenn vorhanden Visualisierung (Foto, Screenshot) und weiterführende Informationen (wenn vorhanden). Communities, die wir ins Playbook aufnehmen, fett markieren und Ansprechpartner dazu schreiben.</em></p>
 <p>Anwendungsfälle in Communities (in Einleitungstext integrieren)</p>
 <p><em>Aufgabe: hier brauchen wir einen generellen Standard für Epics/Usecases (aus Projekt mit Telekom? Aperto?).</em></p>
@@ -142,15 +234,15 @@
 <li>Onboarding neuer Mitarbeiter unterstützen</li>
 <li>Vernetzung fördern</li>
 </ol>
-<h3 id="guide-network-continental">GUIDE Network (Continental)</h3>
+<h3 data-number="2.6.1" id="guide-network-continental"><span class="header-section-number">2.6.1</span> GUIDE Network (Continental)</h3>
 <p>Austauschplattform des globalen GUIDE Netzwerks mit FAQ, mehrsprachige Trainings, Engagement und Coordination “all in one”.</p>
-<h3 id="podcast-community-sendegate.de">Podcast Community (sendegate.de)</h3>
+<h3 data-number="2.6.2" id="podcast-community-sendegate.de"><span class="header-section-number">2.6.2</span> Podcast Community (sendegate.de)</h3>
 <ul>
 <li>Name: …</li>
 <li>Plattform: Discourse</li>
 </ul>
 <p>Geschichte: … wie war die Ausgangssituation, wie wurde die Community initialisiert, welche Barrieren gab es, welche Erfolge gibt es (max. viertel Seite Text) …</p>
-<h3 id="working-out-loud-community-bosch">Working Out Loud Community (Bosch)</h3>
+<h3 data-number="2.6.3" id="working-out-loud-community-bosch"><span class="header-section-number">2.6.3</span> Working Out Loud Community (Bosch)</h3>
 <ul>
 <li><p><strong>Name:</strong> Working Out Loud @ Bosch</p></li>
 <li><p><strong>Geschichte:</strong> WOL-Community_1.jpg</p></li>
@@ -171,7 +263,7 @@
 <li>Blog <a href="https://www.bvcm.org/2015/12/working-out-loud-wol-eine-wichtige-methode-fuer-interne-corporate-community-manager/">Working Out Loud: eine wichtige Methode für interne Community Manager</a></li>
 <li>Tutorial <a href="https://www.managerseminare.de/pdf/tt10.pdf">Working Out Loud erlernen</a></li>
 </ul>
-<h3 id="weitere-fallbeispiele">Weitere Fallbeispiele</h3>
+<h3 data-number="2.6.4" id="weitere-fallbeispiele"><span class="header-section-number">2.6.4</span> Weitere Fallbeispiele</h3>
 <ul>
 <li>Airbus - Weber, Frithjof et al. (2007): Wissensmanagement? Im Flug erobert. Wissensmanagement Heft 8 / 2007. URL: http://home.arcor.de/frithjof.weber/download/Weber_etal_2007_Wissensmanagement__WM%20im%20Flug_erobert.pdf, abgerufen 02.03.2015</li>
 <li>Alcoa in APQC (2010): The Positioning Communities of Practice for Success - An APQC Collaborative Benchmarking Report.</li>
@@ -190,14 +282,14 @@
 <li>Siemens - Becker, Lothar, Müller, Micha (2011): Experten-Communities als Steuerungsinstrument für eine globale Enterprise 2.0 Initiative. Knowtech 2011. URL: http://www.knowtech-community.de/files/documents/F1-02_Becker_Mueller_Siemens.pdf, abgerufen am 20.05.2015</li>
 <li>Siemens - Stocker, Alexander; Müller, Johannes (2013): Exploring Factual and Perceived Use and Benefits of a Web 2.0-based Knowledge Management Application. The Case References+. I-Know 2013. URL: http://de.slideshare.net/stockera/exploring-factual-and-perceived, abgerufen am 20.05.2015</li>
 <li>Siemens - Heiss, Michael Prof. Dr. (2010): Social Media and ROI: Why use-cases are more compelling than Excel sheets; RIP 4 ROI, URL: http://de.slideshare.net/heisss/rip4-roi-siemens-heiss, abgerufen am 19.06.2015</li>
-<li>Schaeffler - Seren, Paul (2014): Networks of Competence bei Schaeffler. Cogneon Management 2.0 Lerntag "Internes Community Management. URL: https://www.youtube.com/watch?v=ir0MGxcKk3E, abgerufen am 27.02.2015</li>
+<li>Schaeffler - Seren, Paul (2014): Networks of Competence bei Schaeffler. Cogneon Management 2.0 Lerntag “Internes Community Management. URL: https://www.youtube.com/watch?v=ir0MGxcKk3E, abgerufen am 27.02.2015</li>
 <li>Schaeffler - Willi, Kurt-Jürgen (2006) - Wissensmanagement in der Schaeffler Gruppe, GFWM Stammtisch Mittelfranken am 09.02.2006, URL: http://archiv.gfwm.de/files/GfWM-Stammtisch%20Mittelfranken%20-%202006-02-09%20-%20WM%20in%20der%20Schaeffler%20Gruppe.pdf, abgerufen am 23.04.2015</li>
 <li>ThyssenKrupp - Schnauffer, Hans-Georg (2010): Wissensmanagement bei ThyssenKrupp - Mit Communities of Experts WIssenspotentiale erschließen. Knowtech 2010. URL: http://de.slideshare.net/simon.dueckert/vortrag-thyssenkrupp-cogneon-knowtech-2010, abgerufen am 27.02.2015</li>
 <li>Schlumberger in APQC (2010): The Positioning Communities of Practice for Success - An APQC Collaborative Benchmarking Report.</li>
 <li>Swisscom (2013): Der Customer Centricity Score. Ein KPI für Kundenzentrierung. URL: http://de.slideshare.net/designfokus/customer-centricity-score, abgerufen am 28.05.2015</li>
 <li>UBS - Stoller-Schai, Dr. Daniel (2011): Community Building bei der UBS AG - “Communities ohne Management funktionieren nicht”. Knowtech 2011. URL: http://de.slideshare.net/dstoller/community-building-bei-der-ubs-ag-communities-ohne-management-funktionieren-nicht-9501216?qid=e06ba35d-aaca-499c-b02d-49e3c3ae0c8d&amp;v=default&amp;b=&amp;from_search=6, abgerufen am 08.06.2015.</li>
 </ul>
-<h2 id="weiterführende-informationen">Weiterführende Informationen</h2>
+<h2 data-number="2.7" id="weiterführende-informationen"><span class="header-section-number">2.7</span> Weiterführende Informationen</h2>
 <p><strong>Bücher:</strong></p>
 <ul>
 <li>Bacon, Jono (2009): The Art of Community - Building the New Age of Participation. O*Reilly Media</li>
@@ -242,7 +334,7 @@
 <li>Kotter, John; Schlesinger, Leonard (2008) - <a href="https://globalleadershipfoundation.com/assets/files/2013/04/Choosing-strategies-for-change-KOTTER.pdf">Choosing strategies for Change</a>. Harvard Business Review July-August 2008.</li>
 <li>Kotter, John (2008): Leading Change: <a href="http://www.lssu.edu/sharedgovernance/planningbudget/documents/LeadingChangeKotter.pdf">Why Transformation Efforts Fail</a>. harvard Business Review January 2007 - Best of HBR.</li>
 <li>Lindemann, Udo; Schön, Stefan (2001): Gestaltung und Unterstützung von CoPs. Reihe Produktentwicklung der TU München. Herbert Utz Verlag.</li>
-<li>Lok, Corie (2012): <a href="http://www.nature.com/naturejobs/science/articles/10.1038/nj7412-545a">Career development: What*s your type?</a> Nature 488, 545-547.</li>
+<li>Lok, Corie (2012): [Career development: What*s your type?](http://www.nature.com/naturejobs/science/articles/10.1038/nj7412-545a) Nature 488, 545-547.</li>
 <li>McDermott, Richard (2002): <a href="https://www.k4health.org/sites/default/files/Measuring%20the%20Impact%20of%20Communities.pdf">Measuring the Impact of Communities</a>. Knowledge Management Review Vol.5 Issue 2.</li>
 <li>McDermott, Richard; Archibald, Douglas (2010): <a href="http://fisher.osu.edu/supplements/10/5481/Harnessing%20Your%20Staff%27s%20Informal%20Networks%20-%20HBR%20-%20February%202010.pdf">Harnessing Your Staff’s Informal Networks</a>. Harvard Business Review March 2010.</li>
 <li>McKinsey (2013): <a href="http://de.slideshare.net/fred.zimny/mc-kinsey-global-survey-results-evolution-of-the-networked-enterprise">McKinsey global survey results evolution of the networked enterprise</a>.</li>
@@ -257,9 +349,9 @@
 <li>Wang, Sheng; Noe, Raymond A. (2009): <a href="http://web.iaincirebon.ac.id/ebook/indrya/Inovasi/HR_Managament.pdf">Knowledge sharing: A review and directions for future research</a>. Human Resource Management Review.</li>
 <li>Wenger, Etienne; Snyder William M. (2000) - <a href="https://hbr.org/2000/01/communities-of-practice-the-organizational-frontier">Communities of Practice: The Organizational Frontier</a>. Harvard Business Review. January Issue.</li>
 </ul>
-<h1 id="lernpfad">Lernpfad</h1>
-<h2 id="community-planen-und-starten">Community planen und starten</h2>
-<h3 id="ziele-zielgruppen-und-nutzen-definieren">Ziele, Zielgruppen und Nutzen definieren</h3>
+<h1 data-number="3" id="lernpfad"><span class="header-section-number">3</span> Lernpfad</h1>
+<h2 data-number="3.1" id="community-planen-und-starten"><span class="header-section-number">3.1</span> Community planen und starten</h2>
+<h3 data-number="3.1.1" id="ziele-zielgruppen-und-nutzen-definieren"><span class="header-section-number">3.1.1</span> Ziele, Zielgruppen und Nutzen definieren</h3>
 <p>Eine Community sollte selbstverständlich nicht zum Selbstzweck aufgesetzt werden, sondern bestimmte Ziele erreichen, die optimalerweise mit den Motivationen der Zielgruppen übereinstimmen und ihnen einen praktischen Nutzen bieten. Die zentrale Frage nach der Motivation, dem “What’s in it for me”, also was bringt es sowohl dem Auftraggeber/Sponsor wie dem Unternehmen oder einem Bereich, wie auch den einzelnen Zielgruppen wie z.B. konkrete Mitarbeiter, muss für alle Beteiligten geklärten werden. Dafür ist es notwendig, die Bedürfnisse und Rahmenbedingungen seiner Zielgruppe möglichst genau zu kennen um zielgerichtete Maßnahmen planen zu können.</p>
 <p>Idealerweise werden drei bis fünf Ziele definiert, mit jeweils kurzfristigen, mittelfristigen und langfristigen Metriken zur Überprüfung der Zielerreichung. Die Ziele sollten von den Unternehmenszielen bzw. der Unternehmensstrategie abgeleitet werden.</p>
 <p>Mögliche Ziele einer Community sind:</p>
@@ -294,7 +386,7 @@
 <li>Unternehmenskultur verändert sich zu mehr Offenheit, Transparenz-, Dialog- und Feedback-Kultur</li>
 </ul>
 <p>Folgende Metriken beziehen sich auf die Erfolgsmessung von konkreten Maßnahmen: * Wie viele Mitglieder? * Wie viele Inhalte? * Wie viele Diskussionen? * Wieviel Fluktuation? * Response-Zeiten auf Anfragen? * Ganzheitlichkeit von Rückmeldungen (Querschnitt der Organisation) * Diversität - Meinungsbilder * Net Promoter Score / * Geschwindigkeit</p>
-<h3 id="die-community-skizzieren">Die Community skizzieren</h3>
+<h3 data-number="3.1.2" id="die-community-skizzieren"><span class="header-section-number">3.1.2</span> Die Community skizzieren</h3>
 <p>Unabhängig von der Größe der angestrebten oder bereits existierenden Community sind die oben genannten Elemente wie Ziele, Zielgruppen und Erfolgskriterien zu beachten. Je nach Größe, strategischer Relevanz und Ausgangssituation/Hintergrund bedingen diese Themen aber einen größeren Umfang an Vorbereitung und Abstimmung und müssen entsprechend skaliert werden.</p>
 <p><em>Aufgabe: Motivationen/Nutzen mit Wenger’s Quick Startup Guide abgleichen.</em></p>
 <p><strong>Intrinsisch motiviert:</strong></p>
@@ -356,12 +448,12 @@
 </ul></li>
 </ul>
 <p><img src="images/image18.png" /></p>
-<h3 id="als-team-starten">Als Team starten</h3>
+<h3 data-number="3.1.3" id="als-team-starten"><span class="header-section-number">3.1.3</span> Als Team starten</h3>
 <p>Beim Community Start gibt es die wichtigste Aufgabe des Community Managers. Er sollte eine Kerngruppe bzw. erste Mitstreiter finden und diese aktiv in die Gestaltung der Community mit einbeziehen. Durch die aktive Teilnahme mehrerer Community Mitgliedern wird den anderen Mitgliedern sowie Interessierte signalisiert, dass eine Beteiligung erwünscht ist. Damit wird die Hemmschwelle für alle weiteren Community Mitglieder gesenkt selber aktiver teilzunehmen.</p>
 <p>Je mehr Mitglieder aktiv werden desto geringer wird die Hemmschwelle – und nicht nur dass – sind sehr viele Mitglieder aktiv so entsteht auch ein gewisser sozialer Druck für “Noch nicht Aktive” selber aktiv zu werden. Dieses Verhalten rührt aus der Motivation des Menschen Teil einer sozialen Gruppe zu sein. Das folgende Youtube Video zeigt genau diesen Sachverhalt am Beispiel eines Mannes, der zunächst unorthodox allein auf der Wiese tanzt, die Situation sich allerdings schnell ändert nachdem ein paar weitere Personen mitmachen. Sehen Sie selbst: <a href="https://www.youtube.com/watch?v=fW8amMCVAJQ">Leadership Lessons from a Dancing Guy</a>.</p>
 <p>Je nach Art und Größe der Community kann es sinnvoll sein ein physisch Kick-Off mit den ersten Mitstreitern, Mitgliedern und/oder Interessenten durchzuführen. Dabei sollte man das Community Konzept vorstellen und ggf. überarbeiten sowie die virtuelle Infrastruktur und deren Möglichkeiten erklären und aufzeigen. Schließlich sollte man klare Rollen und Verantwortlichkeiten für die Erledigung von Aufgaben im Betrieb einer Community definieren. Hier kann es sinnvoll einzelne Aufgaben oder ganze Aufgabenpakete zu delegieren (z.B. an die ersten Mitstreiter).</p>
-<h2 id="community-aktivieren-und-führen">Community aktivieren und führen</h2>
-<h3 id="beispiele-für-konkrete-aktivitäten-und-formate">Beispiele für konkrete Aktivitäten und Formate</h3>
+<h2 data-number="3.2" id="community-aktivieren-und-führen"><span class="header-section-number">3.2</span> Community aktivieren und führen</h2>
+<h3 data-number="3.2.1" id="beispiele-für-konkrete-aktivitäten-und-formate"><span class="header-section-number">3.2.1</span> Beispiele für konkrete Aktivitäten und Formate</h3>
 <ul>
 <li><p><strong>Neuigkeiten verfolgen</strong></p>
 <ul>
@@ -392,7 +484,7 @@
 <li><p>Bilder aus vergangenen Veranstaltungen als Teaser für kommende Events, Abfragen ob ältere Beiträge noch relevant sind?</p></li>
 <li><p><strong>Begrüßung von neuen Mitgliedern</strong></p>
 <ul>
-<li>Regelmäßig neue Mitglieder (ideal persönlich/einzeln) abholen = Begrüßung! Entweder direkt in der Community (z.B. über Status Updates) oder an dessen persönlichem Profil (manchen ist es in der Community too much). Beispieltext: "Hallo xyz, schön dass Du zu uns gefunden hast, herzlich willkommen in unserem Netzwerk und unserer Community. Damit Du Dich schnell bei uns zurecht findest, haben wir hier eine “Welcome Page*” (mit Link!) eingerichtet. Falls Du Fragen hast, bitte melde Dich gerne direkt bei mir oder bei uns in unserem Forum. Viel Spass, wir freuen uns auf den Austausch mit Dir, Deine xyz"</li>
+<li>Regelmäßig neue Mitglieder (ideal persönlich/einzeln) abholen = Begrüßung! Entweder direkt in der Community (z.B. über Status Updates) oder an dessen persönlichem Profil (manchen ist es in der Community too much). Beispieltext: “Hallo xyz, schön dass Du zu uns gefunden hast, herzlich willkommen in unserem Netzwerk und unserer Community. Damit Du Dich schnell bei uns zurecht findest, haben wir hier eine “Welcome Page*” (mit Link!) eingerichtet. Falls Du Fragen hast, bitte melde Dich gerne direkt bei mir oder bei uns in unserem Forum. Viel Spass, wir freuen uns auf den Austausch mit Dir, Deine xyz”</li>
 <li>Welcome Page: “Worum gehts? wer moderiert? Links zur technischen Hilfe, was findet man hier?…</li>
 </ul></li>
 <li><p><strong>Vertreterregelung als Chance:</strong> Sicherstellung von Abwesenheit kann auch genutzt werden um “frischen Wind” und erweitertes Commitment zu erzeugen. Ausschreibung: wer möchte mich vertreten / wer möchte mal Community Manager sein / wer möchte sich mal ausprobieren … (Anzahl der Vertreter abhängig von Grüße, Thema und Aktivität der Community)</p>
@@ -421,7 +513,7 @@
 <li><p><strong>Expert Talks:</strong> Ask me anything-Session VIP beantwortent Fragen (sog. Inhalt: regelmäßiger Live Chat über die Forum-Funktion. Wird ca. 3-4 Wochen im Vorraus angekündigt und immer wieder kommuniziert. Chat-Partner sind entweder neue Mitglieder mit spannendem Hintergrund o. Aufgabe, Expertenwissen oder Führungsfunktion - alternativ ein Expertenteam zu einem speziellen Thema. Innerhalb einer vorgegebenen Zeit (1 Stunde) ist das Forum offen und die Community Mitglieder können live Fragen stellen, die in Echtzeit beantwortet werden. Das macht Spass, schult die Mitglieder und schafft eine enge Vernetzung</p></li>
 <li><p><strong>Statistiken zeigen:</strong> Oft ist Mitgliedern nicht bewußt, wie groß die Reichweite oder der Erfolg Ihrer Arbeit ist - durch zeigen der Zugriffszahlen, KPIs rechtfertigt sich der Aufwand leichter Anschauliche Diagramme im Blog, Steigerungsraten oder Zugriffszahlen, Zahl der Neuzugänge, eventuell (wo erlaubt/vorhanden) Aktivitätenindex</p></li>
 </ul>
-<h3 id="mitglieder-akquirierenunterstützen-und-moderieren">Mitglieder akquirieren,unterstützen und moderieren</h3>
+<h3 data-number="3.2.2" id="mitglieder-akquirierenunterstützen-und-moderieren"><span class="header-section-number">3.2.2</span> Mitglieder akquirieren,unterstützen und moderieren</h3>
 <ol type="1">
 <li>Nachdem Sie die Community aufgesetzt haben, müssen Sie zunächst Mitglieder eingeladen. Dazu können Sie bei einer Online Community entsprechend Mitarbeiter berechtigen oder einladen. Darüber hinaus macht es Sinn die Community in Meetings vorzustellen.</li>
 <li>Gerade in Communities, bei denen sich die Mitglieder noch nicht persönlich kennen, sollte man die Vorstellung neuer Mitglieder ermöglichen. Wenn es ein Kick-Off gibt, wäre dies ein guter Anlass. In einer Online Community würde man eine Diskussion anlegen und neue Mitglieder würden sich als Antwort dort vorstellen.</li>
@@ -431,7 +523,7 @@
 <li>Soziale Medien im unternehmensinternen Einsatz sind für die meisten Mitarbeiter noch Neuland. Möchte man diese Medien für eine Community nutzen, sollte man den Mitgliedern bei der Nutzung helfen und ihnen die Funktionalitäten und Wirkmechanismen aufzeigen. Trainingen und Websessions anbieten für verschiedene Levels und Zielgruppen.</li>
 <li>Wichtig sind auch gemeinsame Spielregeln: wie wollen wir in unserer Community zusammenarbeiten? Welche Sprachen lassen wir zu? Wo findet sich was und welche Funktionen benutzen wir wofür? Auch der “I like” Button kann mit einer anderen Funktion versehen werden, er kann z.B. als Lesebestätigung dienen oder als Zustimmung</li>
 </ol>
-<h3 id="inhalte-erstellen-und-interaktionen-anregen-regel-kommunikation-etablieren">Inhalte erstellen und Interaktionen anregen (Regel-Kommunikation etablieren)</h3>
+<h3 data-number="3.2.3" id="inhalte-erstellen-und-interaktionen-anregen-regel-kommunikation-etablieren"><span class="header-section-number">3.2.3</span> Inhalte erstellen und Interaktionen anregen (Regel-Kommunikation etablieren)</h3>
 <p>Welche Arten von Inhalt erwarte ich in der Community und mit welchen technischen Mitteln kann ich diese Abbilden?</p>
 <ol type="1">
 <li>Arbeiten Sie gemeinsam mit den Community Mitglieder an Dokumenten – Je nach Community Typ könnte es sich dabei um Agenda und Protokolle, Themensammlungen, Status Berichte, Handbücher, Erfahrungsberichte, Handbücher, Leitfäden etc. handeln.</li>
@@ -441,7 +533,7 @@
 <li>Möchten Sie lebhafte Diskussionen der Mitglieder initiieren? Dann formulieren Sie Diskussionen als Frage und die Mitglieder werden sich beteiligen. Hierbei ist ein Mix aus Fragen zu Lösungen für ein Problem, Meinungen zu einem Thema und Erfahrungen zu einem Sachverhalt hilfreich.</li>
 <li>Moderne Corporate Social Networks ermöglichen die Sammlung, Bewertung und Erstellung von Rangfolgen eingebrachter Ideen. die Anwendungsgebiete sind vielfältig – z.B. Verbesserungsvorschläge, Vorschläge für weiteres Vorgehen, Vorschläge für Weihnachtsfeier-Location, Workshop Themen etc.</li>
 </ol>
-<h3 id="community-events-durchführen">Community Events durchführen</h3>
+<h3 data-number="3.2.4" id="community-events-durchführen"><span class="header-section-number">3.2.4</span> Community Events durchführen</h3>
 <p>An dieser Stelle wird deutlich, dass eine Community mehr darstellt als ein Austausch in einer virtuellen Online-Community. Menschen leben und arbeiten gemeinsam im physischen Raum und als Community Manager sollte man Mitgliedern die Möglichkeit bieten sich physisch kennenzulernen und zu vernetzen. Denn ein auf Freiwilligkeit basierender Austausch setzt ein gewisses Maß an Vertrauen unter den Community Mitgliedern voraus. Dieses lässt sich am besten aufbauen wenn man sich persönlich kennenlernt. Community Events sind darüber hinaus sinnvoll um komplexe Themen diskutieren zu können, die nicht einfach in Schrift expliziert werden können.</p>
 <p>In solchen Situationen Bedarf es eines persönlichen Gesprächs. Generell sollte man ebenfalls versuchen die Online Community mit physischen Events zu koppeln, z.B. vorab Themensammlung erstellen und im Nachgang eine Fotodokumentation und einen Bericht/ ein Protokoll in der Online Community bereitstellen. Communities leben von der aktiven Teilnehmern vieler Mitglieder. Daher sollte man wenn möglich auch kollaborative Klein- und/oder Großgruppen-Formate in Betracht ziehen. Hier ein paar Beispiele für solche Formate:</p>
 <ol type="1">
@@ -452,11 +544,11 @@
 <li>Workshops</li>
 <li>World Cafe</li>
 </ol>
-<h3 id="community-bekannt-machen">Community bekannt machen</h3>
+<h3 data-number="3.2.5" id="community-bekannt-machen"><span class="header-section-number">3.2.5</span> Community bekannt machen</h3>
 <p>Je nach Community Typ möchte man mehr oder weniger Mitglieder in seiner Community haben. Die einfachste und zugleich wichtigste Maßnahme um seine Community bekannt zu machen ist die Online-Community offen zu lassen. Ist die Online-Community offen, so können Interessenten sie in der Liste aller Communities sehen. In der Praxis sind leider die meisten Online-Communities für Interessenten sogar unsichtbar. Neben dieser Einstellung der Community Art, sollte man darüber hinaus zwei Punkte verfolgen wenn man seine Community bekannt machen möchte:</p>
 <p>Ein sehr gute Strategie um seine Community nur bekannt sondern auch legitimiert zu machen ist es dass Management als Unterstützer ihrer Community zu positionieren. Dies hat zum eine Signalwirkung auf Interessenten (Community ist gewollt), zum anderen können Führungskräfte je nach Ebene mit ihrer Kommunikationsreichweite und –Bedeutung ihre Community “bewerben”.</p>
 <p>Kommunizieren Sie über Aktivitäten ihrer Community und über Erfolgsgeschichten und Nutzen Beispiele ihrer Community auf unterschiedlichen Kommunikationswegen. Präsentieren sie z.B. ihre Community in Meetings, schreiben sie einen Beitrag in einem Newsletter der Unternehmens-kommunikation, nutzen Sie bestehende Emailverteiler um auf sich aufmerksam zu machen - z.B. mit ein einem Community Steckbrief. Weitere Möglichkeiten: Veranstaltungen mit Externen, Sichtbare Wertschätzung (Urkunden - “Pimp my Desk” - interne Signatur), Same Tribe - “Zusammengehörigkeitsgefühl aufbauen, erzeugen, - ideal nach Außen sichtbar, offener Stammtisch, Selbstmarketing (Kanäle: Mitarbeiterzeitschrift, Intranet, T-Shirt (je nach Größe der Community) Vernetzen mit ähnlichen Communities, Menschen)</p>
-<h3 id="spezifische-regeln-der-community">Spezifische Regeln der Community</h3>
+<h3 data-number="3.2.6" id="spezifische-regeln-der-community"><span class="header-section-number">3.2.6</span> Spezifische Regeln der Community</h3>
 <p>(Konkrete Community-interne Verabredungen zu Abläufen und Kommunikation / Zusammenarbeit / Feedback (hervorheben - Box z.B. Community Philosophie)</p>
 <ul>
 <li>Ihr könnt mit einer Reaktion auf Fragen und Hinweise innerhalb von 24 Stunden unter der Woche rechnen</li>
@@ -474,7 +566,7 @@
 <li>Erwartungshaltung formulieren, vorleben und einfordern (vorbringen, beobachten, reagieren …. Kulturentwicklung!!!)</li>
 <li>Internationalität - Kultur-spezifische ausprägungen - Verhalten (Was ist Zustimmung? wie läuft ein Einigungsprozess ab?)</li>
 </ul>
-<h3 id="der-verhaltenskodex-der-community">Der Verhaltenskodex der Community</h3>
+<h3 data-number="3.2.7" id="der-verhaltenskodex-der-community"><span class="header-section-number">3.2.7</span> Der Verhaltenskodex der Community</h3>
 <ul>
 <li>Auf gemeinsame Werte einigen = Basis für Verhalten</li>
 <li>Resource <a href="https://fearlesschangepatterns.com/">fearlesschange.com</a></li>
@@ -490,7 +582,7 @@
 <li>auf Augenhöhe (servant Leadership - dienende Führung)</li>
 <li>abholen wo die Mitglieder stehen (z.B. strukturgebende Maßnahmen) - dann weiter entwickeln im “Spirit von Social Media” - Richtung “Offenheit”</li>
 </ul>
-<h2 id="community-transformieren-oder-schließen">Community transformieren oder schließen</h2>
+<h2 data-number="3.3" id="community-transformieren-oder-schließen"><span class="header-section-number">3.3</span> Community transformieren oder schließen</h2>
 <p>(Messgrößen / KPI (Qualität / Quantität / Erfolg)</p>
 <ul>
 <li>sensing - worauf reagiert meine Community</li>
@@ -516,12 +608,12 @@
 <li>Neben der Analyse der Community Aktivitäten ist auch hilfreich sich insbesondere die Online-Community anzuschauen und hier ggf. einen “Frühjahrsputz” zu machen – nicht umsonst gibt es in Wikis die dedizierte Rolle eines Wiki Gärtners. Überprüfen sie z.B. Strukturen, die Verortung und Verschlagwortung von Inhalten, oder aber löschen Sie nicht benötigte oder redundante Inhalte.</li>
 <li>Evaluieren Sie schließlich gemeinsam mit den Kern-Mitgliedern die Daten und Auswertungen aus dem Community Monitoring in regelmäßigen Abständen und passen Sie Planungsvorlagen an (z.B. Ziele, Nutzen, Fahrplan).</li>
 </ol>
-<h1 id="anhang">Anhang</h1>
-<h2 id="danksagungen">Danksagungen</h2>
+<h1 data-number="4" id="anhang"><span class="header-section-number">4</span> Anhang</h1>
+<h2 data-number="4.1" id="danksagungen"><span class="header-section-number">4.1</span> Danksagungen</h2>
 <p>Seit Januar 2015 läuft Benchlearning Projekt Internes Community Management, in dem acht Unternehmen voneinander lernen, wie man internes Community Management am besten aufgesetzt und etabliert. Der Kick-off fand bei Audi in Ingolstadt statt, die ersten beiden Projektermine bei Bosch in Stuttgart und Volkswagen in Wolfsburg. Die drei Schwerpunktthemen sind Community-Ansätze, Community Erfolgsmessung und das zugehörige Change Management. Im Rahmen des Projekts führen wir eine Literatur Review sowie Benchmark-Umfragen durch und erarbeiten Best Practices in Kleingruppen im Rahmen der Projekttermine.</p>
 <p>Im Projekt haben wir uns die Schwerpunktthemen insbesondere aus der Perspektive von Enterprise-2.0-, Social-Intranet- oder Digital-Transformation-Teams und weniger aus Perspektive des einzelnen Community Managers angeschaut. Daher wollten wir einen Weg finden, auch Community Managern eine Arbeitshilfe an die Hand zu geben. Im Literatur-Pool waren bereits Community Playbooks von Yammer, von Cisco und vom Community Roundtable.</p>
 <p>Bosch hat ebenfalls ein interaktives Playbook auf PDF-Basis erstellt. Daraus entstand die Idee, gemeinsam ein deutschsprachiges Community Management Playbook als offene Ressource (OER) zu erstellen. Das Whitelabel Playbook internes Community Management versteht sich als Sammlung von Methoden, Checklisten und Vorlagen für die Planung, Steuerung und Kontrolle (Phasenmodell) einer Community für den jeweiligen Community Manager.</p>
-<h2 id="änderungshistorie">Änderungshistorie</h2>
+<h2 data-number="4.2" id="änderungshistorie"><span class="header-section-number">4.2</span> Änderungshistorie</h2>
 <table>
 <colgroup>
 <col style="width: 16%" />
@@ -543,6 +635,12 @@
 <td>Simon Dückert</td>
 <td>Initialen Version erstellt, Inhalte aus dem White-Label Playbook Community Management des Benchlearning Projekts 2015 aus Google Doc übernommen (TXT-Export) und Markdown-Formatierung angepasst.</td>
 <td>16.03.2020</td>
+</tr>
+<tr class="even">
+<td>0.2</td>
+<td>Simon Dückert</td>
+<td>Anpassung an neue Grundstruktur des Template Repositories; Keine Änderungen am Inhalt</td>
+<td>29.12.2021</td>
 </tr>
 </tbody>
 </table>
