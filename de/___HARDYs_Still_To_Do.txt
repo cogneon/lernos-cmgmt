@@ -26,3 +26,6 @@ ___Web: Level 2 Überschriften
 kommen doppelt???   Z.B.
   Communities und Organisationsstrukturen
   Communities und Organisationsstrukturen
+  
+  ___READme.md___
+  noch anpassen ...
