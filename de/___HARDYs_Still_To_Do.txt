@@ -1,0 +1,28 @@
+___Logo___
+in metadata.yaml__
+
+Logo width erzeugt Fehler ... auskommentiert
+
+
+logo: src/images/lernOS-logo-white-4000px.png
+#logo-width: 300pt
+---
+#logo-width: 300px
+
+___Produktion von EBooks zz nicht nicht___
+Hardy fehlen die Tools ...
+
+
+___Links innerhalb des Guide not nicht gepflegt (Außer in "Bevor ihr Loslegt)
+
+___Bilder/Sketchnotes __
+nicht final, zz nur Skizzen
+"alte" Pics auch noch mit drin
+- Web: Die Bilder werden riesig dargestellt 
+  müssten entweder "Landscape" sein ... ggfs manuall verbreitern
+- im PDF gibts merkwürdige Umflüsse
+
+___Web: Level 2 Überschriften
+kommen doppelt???   Z.B.
+  Communities und Organisationsstrukturen
+  Communities und Organisationsstrukturen
