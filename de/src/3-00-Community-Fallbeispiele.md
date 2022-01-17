@@ -128,8 +128,6 @@ Zeitalter zu einer wichtigen Fähigkeit für das Unternehmen.
 
 - Webseite [workingoutloud.com](https://workingoutloud.com)
 
-- Join a [Working Out Loud Circle @ Bosch](https://connect.bosch.com/wikis/home?lang=de#!/wiki/W863e45620243_4759_a500_8b8a7acd8480/page/Join%20a%20Circle)
-
 - Blog [Working Out Loud: eine wichtige Methode für interne Community
   Manager](https://www.bvcm.org/2015/12/working-out-loud-wol-eine-wichtige-methode-fuer-interne-corporate-community-manager/)
 
@@ -160,8 +158,6 @@ Zahl von Mitgliedern verfügen.
 - [DigitalLife@Daimler: Transformation der Arbeitswelt: Daimler und
   Bosch veranstalten die erste unternehmensübergreifende Working Out
   Loud Konferenz](https://media.daimler.com/marsMediaSite/de/instance/ko.xhtml?oid=41686666)
-
-- [\#collaborate bei DigitalLife@Daimler](https://www.daimler.com/konzern/strategie/digitallife/collaborate/)
 
 ## Fachverbunde und Communities bei der Gesellschaft für Internationale Zusammenarbeit
 
