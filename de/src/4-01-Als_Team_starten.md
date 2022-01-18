@@ -27,9 +27,9 @@ starten. Visualisierung inspiriert durch* *<u>Peter Staal</u> (2021).*
 *Quelle: Daimler, Achim Brueck.*
 
 Indem ihr diesen Ansatz von Anfang an konsequent und für alle sichtbar
-verfolgt, sinkt die Hemmschwelle für alle weiteren Community-Mitglieder
+verfolgt, sinkt die Hemmschwelle für alle weiteren Community-Mitglieder.
 
-- auch für diejenigen in spe, die potenziellen. Euer Ziel sollte es
+Auch für diejenigen in spe, die potenziellen. Euer Ziel sollte es
   sein, aktive Beteiligung normal werden zu lassen. Baut einen Raum auf,
   in dem Beiträge geschätzt werden und Menschen einander vertrauen. In dem
   sie Fehler machen dürfen und ernst genommen werden. Likes, Kommentare,

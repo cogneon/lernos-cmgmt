@@ -64,7 +64,7 @@ Erkenntnisse über Verhalten und Wünsche zukünftiger Mitglieder gewinnen.
 
 **Links**
 
-- Community Canvas ([Englisch](https://community-canvas.org) , [Deutsch](https://www.community-canvas.de))
+- Community Canvas ([Englisch](https://community-canvas.org) , [Deutsch](https://community-canvas.org/translations#german) und in weiteren Sprachen)
 
 - [Presencing Institute (Theorie U)](https://www.presencing.org/resource/tools)
 
@@ -344,8 +344,8 @@ unter diesem [Link](https://bit.ly/344GwTI) heruntergelanden werden.
 
 Eine weitere Vorlage für die Ziele-, Zielgruppen- und Nutzendefinition
 sowie für die Community-Skizzierung ist neben dem schon genannten
-Community Canvas (Vorheriger Abschnitt: [<u>Hilfsmittel, um die
-Community zu skizzieren</u>](\l)) der [Quick Startup Guide](https://wenger-trayner.com/quick-cop-start-up-guide/) für
+Community Canvas (Vorheriger Abschnitt: [***Hilfsmittel, um die
+Community zu skizzieren***](4-02-Konzeption_und_Planung.md)) der [Quick Startup Guide](https://wenger-trayner.com/quick-cop-start-up-guide/) für
 Communities of Practice von Wenger/Trayner.
 
 Strategische Ziele werden idealerweise mit Mitgliedern, anderen
@@ -448,7 +448,7 @@ Für kollaborativ arbeitende Communities empfehlen wir einen sogenannten
 stehen an). Hierzu sei auch verwiesen auf den Abschnitt [***Gemeinsam
 Inhalte erstellen***](4-03-Community_aktivieren_und_fuehren.md).
 
-Weitere Vorschläge für inhaltliche Formate findet ihr im Kapitel [***Community aktivieren und führen***](4-03-Community_aktivieren_und_fuehren.md)”.
+Weitere Vorschläge für inhaltliche Formate findet ihr im Kapitel [***Community aktivieren und führen***](4-03-Community_aktivieren_und_fuehren.md).
 
 ### Erfolgsmessung
 
@@ -587,7 +587,7 @@ Lernen. Hier werden verschiedene Werte (Produkte, Vernetzung,
 Beziehungen, Vertrauen etc.) ausführlich beschrieben und Möglichkeiten
 der Messbarkeit aufgezeigt.
 
-### Die Strategie-Cocktails: Passende Formate für strategische Ziele finden
+### Strategie-Cocktails: Passende Formate für strategische Ziele finden
 
 Die folgenden Vorschläge sollen euch inspirieren, euer Community-Konzept
 weiter auszuarbeiten. Die Listen der Taktiken und Maßnahmen sind als
@@ -597,7 +597,7 @@ was am besten zu euren Zielen und zu euren Mitgliedern passt, und wie
 die konkrete Ausgestaltung aussieht.
 
 Mehr Details zu den vorgeschlagenen Aktivitäten und Taktiken findest du
-im Kapitel [***Community aktivieren und führen***](4-03-Community_aktivieren_und_fuehren.md)".
+im Kapitel [***Community aktivieren und führen***](4-03-Community_aktivieren_und_fuehren.md).
 
 **Strategie-Cocktail "Wachstum"**
 

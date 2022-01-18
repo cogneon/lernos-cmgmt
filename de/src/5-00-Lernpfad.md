@@ -13,7 +13,7 @@ auf Themen und Fragestellungen, denen ihr nachgehen könnt - aber keine
 langen Ausführungen dazu. Um mehr zu erfahren, folgt den Verweisen auf
 die ***Grundlagen***-Kapitel im ersten Teil, oder sogar
 den “**Weiterführenden Vorschlägen**”, die in der Regel auf unser
-[***Literaturverzeichnis***](6-00-Anhang.md) referieren.
+[***Literaturverzeichnis***](6-00-Anhang.md) referenzieren.
 
 Wichtig: Der Aufbau und das Betreiben einer Community ist nicht mit
 einem Durchgang abgeschlossen. Nicht die Fertigstellung einer Plattform
@@ -213,7 +213,7 @@ weiter!
 
 - [***Als Team starten***](4-01-Als_Team_starten.md)	
 
-- [***Hilfsmittel, um die Community zu skizzieren***](4-02-Konzeption_und_Planung.md)
+- Abschnitt [***Hilfsmittel, um die Community zu skizzieren***](4-02-Konzeption_und_Planung.md)
 
 - Abschnitt [***Einordnung der Community - warum braucht es euch und wem ähnelt
   ihr?***](4-02-Konzeption_und_Planung.md)
@@ -377,9 +377,9 @@ entwickeln.
 
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
-- [<u>Strategie-Cocktails</u>](\l)
+- Abschnitt [***Strategie-Cocktails***](4-02-Konzeption_und_Planung.md)
 
-- [<u>Community aktivieren und führen</u>](\l) (Verschaffe dir einen
+- [***Community aktivieren und führen***](4-03-Community_aktivieren_und_fuehren.md)   (Verschaffe dir einen
   Überblick)
 
 **Aufgaben**
@@ -486,6 +486,8 @@ Anwendern, insbesondere Betreibenden oder Community-Manager\*innen.
 
 - Staal / Wagenaar (2020): Organizing Communities
 
+## 
+
 ## 7 - Halbzeit-Reflexion mit Feedback
 
 **Themen**
@@ -500,12 +502,12 @@ Anwendern, insbesondere Betreibenden oder Community-Manager\*innen.
 Nutzt die Tipps in diesen Kapiteln, um Ansprechpartner zu
 identifizieren:
 
-- [<u>Community-Rollen</u>](\l)
+- [***Community-Rollen***](2-03-Community-Rollen.md)
 
-- [<u>Als Team starten</u>](#als-team-starten)
+- [***Als Team starten***](4-01-Als_Team_starten.md) 
 
-- [<u>Klarheit über Community-Typ und treibende Kräfte
-  gewinnen</u>](\l)
+- Abschnitt [***Klarheit über Community-Typ und treibende Kräfte
+  gewinnen***](4-02-Konzeption_und_Planung.md)
 
 **Aufgaben**
 
@@ -554,12 +556,12 @@ darüber wie ihr euch organisiert.
 
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
-- [<u>Community-Rollen</u>](\l)
+- [***Community-Rollen***](2-03-Community-Rollen.md)
 
-- [<u>Als Team starten</u>](#als-team-starten)
+- [***Als Team starten***](4-01-Als_Team_starten.md) 
 
-- [<u>Klarheit über Community-Typ und treibende Kräfte
-  gewinnen</u>](\l)
+- Abschnitt [***Klarheit über Community-Typ und treibende Kräfte
+  gewinnen***](4-02-Konzeption_und_Planung.md)
 
 **Aufgaben**
 
@@ -654,12 +656,11 @@ wie eure Moderation beides unterstützt und am Leben erhält.
 
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
-- [<u>Strategie-Cocktails</u>](\l)
+- Abschnitt [***Strategie-Cocktails***](4-02-Konzeption_und_Planung.md)
 
-- [<u>Community aktivieren und führen</u>](\l)**,** insbesondere
-  [<u>Gastgeberin sein - den Raum gestalten</u>](\l)
+- [***Community aktivieren und führen***](4-03-Community_aktivieren_und_fuehren.md), insbesondere dort den Abschnitt ***Gastgeberin sein - den Raum gestalten***)
 
-- [<u>Community-Fallbeispiele</u>](\l)
+- [***Community-Fallbeispiele***](3-00-Community-Fallbeispiele.md)
 
 **Aufgaben**
 
@@ -704,10 +705,10 @@ oder einfach schwierigen Situationen, und wie ihr damit umgehen könnt.
 
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
-- [<u>Werte, Regeln und Verhaltenskodex</u>](\l)
+- Abschnitt [***Werte, Regeln und Verhaltenskodex***](4-03-Community_aktivieren_und_fuehren.md)
 
-- [<u>Community transformieren oder
-  schließen</u>](#community-transformieren-oder-schließen)
+- [***Community transformieren oder
+  schließen***](4-04-Community_transformieren_oder_schliessen.md)
 
 **Aufgaben**
 
@@ -750,7 +751,8 @@ die Zukunft aus!
 
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
-- [<u>Community transformieren</u>](\l)
+- [***Community transformieren oder
+  schließen***](4-04-Community_transformieren_oder_schliessen.md)
 
 **Aufgaben**
 

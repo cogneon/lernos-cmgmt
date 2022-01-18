@@ -92,8 +92,8 @@ unterschiedliche Weise nutzen:
     Wenn ihr lieber sehr praxisbezogen arbeitet, dann könnt ihr auch direkt mit dem [***Lernpfad***](5-00-Lernpfad.md) im zweiten Teil des Guides beginnen. Darüber könnt ihr euch das Wissen dann zusammen Woche um Woche aneignen. Ihr findet im Lernpfad Übungen und praktische Aufgaben für jede Woche sowie Verweise auf die relevanten Grundlagenkapitel.
 
 Der Guide ist außerdem durch [***Community Fallbeispiele***](3-00-Community-Fallbeispiele.md)
-angereichert, die Theorie lebendig werden lassen. Und er bietet
-[***weiterführende Informationen***](6-00-Anhang.md) für die Unersättlichen
+angereichert, die Theorie lebendig werden lassen. Und er bietet weiterführende
+[***Literatur***](6-00-Anhang.md) für die Unersättlichen
 unter euch - einen Fundus von Literatur-Tipps, Studien und
 Online-Ressourcen, die ihr für die Vertiefung bestimmter Themen nutzen
 könnt.

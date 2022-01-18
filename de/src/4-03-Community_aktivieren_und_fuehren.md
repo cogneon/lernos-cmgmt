@@ -434,7 +434,7 @@ Event-Formate, zu denen ihr euch schlau machen könnt:
 
 ### Werte, Regeln und Verhaltenskodex
 
-Unter “[<u>Gastgeberin sein - den Raum gestalten</u>](\l)” haben wir
+Im Abschnitt [***Gastgeberin sein - den Raum gestalten***](4-03-Community_aktivieren_und_fuehren.md) haben wir
 schon kurz auf die hohe Kunst der Community-Regeln hingewiesen.
 Grundregeln und Vereinbarungen zum sozialen Miteinander in der Community
 sind wichtig. Noch wichtiger ist, dass sie erwünschtes Verhalten fördern

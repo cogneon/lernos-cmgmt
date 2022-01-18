@@ -12,7 +12,7 @@ Dann folgt der Einstieg in eure Arbeit an [***Konzeption und Planung***](4-02-Ko
 ***Hilfsmittel***, die euch im konzeptionellen Prozess
 unterstützen. Die beiden folgenden Abschnitte helfen euch, euer
 Community-Vorhaben zu verorten: zum Einem mit ein paar Einstiegsfragen
-an eure Idee der* **Einordnung der Community***, zum Anderen, indem
+an eure Idee der ***Einordnung der Community***, zum Anderen, indem
 ihr euren Blick auf die Rolle und die Möglichkeiten eurer Community im
 Kräftegefüge eurer Organisation schärft. Es folgt das Herzstück des
 Konzepts - die ***Community-Strategie*** - sowie daraus
