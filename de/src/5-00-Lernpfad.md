@@ -6,12 +6,14 @@ auf (“**Themen**”), andererseits bietet der Lernpfad auch konkrete
 “**Aufgaben”**, damit ihr euer individuelles Community-Vorhaben von der
 Pike auf entwickeln könnt.
 
+![](images/Lernpfad.png)
+
 Der Lernpfad hält sich kurz. Unter **“Themen”** erhaltet ihr Hinweise
 auf Themen und Fragestellungen, denen ihr nachgehen könnt - aber keine
 langen Ausführungen dazu. Um mehr zu erfahren, folgt den Verweisen auf
-die **Kapitel des lernOS Guides** (erster Teil des Guides), oder sogar
+die ***Grundlagen***-Kapitel im ersten Teil, oder sogar
 den “**Weiterführenden Vorschlägen**”, die in der Regel auf unser
-Literaturverzeichnis referieren.
+[***Literaturverzeichnis***](6-00-Anhang.md) referieren.
 
 Wichtig: Der Aufbau und das Betreiben einer Community ist nicht mit
 einem Durchgang abgeschlossen. Nicht die Fertigstellung einer Plattform
@@ -25,11 +27,10 @@ mit einer neuen Perspektive oder inzwischen erworbenem, neuem Wissen.
 
 Die **Hilfsmittel**, auf die wir hier referieren, und die euch einen
 roten Faden für die Konzeption geben können, sind der **Community
-Canvas** und die **Party-Liste**, die beide im Abschnitt [<u>Community
-skizzieren</u>](\l) näher beschrieben sind.
+Canvas** und die **Party-Liste**, die beide im Abschnitt [***Community skizzieren***](4-02-Konzeption_und_Planung.md) näher beschrieben sind.
 
 Aus diesem Grund ist sogar eine ganze Woche des Lernpfads der Rückschau
-gewidmet: “**7 - Halbzeit-Reflexion und Feedback”**. (Falls ihr andere
+gewidmet: Abschnitt “**7 - Halbzeit-Reflexion und Feedback”**. (Falls ihr andere
 lernOS Guides kennt: Dort gibt es Boxenstopps in den Wochen 4 und 8, die
 ebenfalls der Reflexion dienen. Wir haben das für den lernOS Community
 Management Guide angepasst und auf Woche 7 gebündelt.) Durch den
@@ -71,6 +72,8 @@ Macht den Lernpfad zu eurem! Viel Spass damit!
 
 ## 0 - Ankommen und Zirkel formieren
 
+![](images/0_Ankommen.png)
+
 - Lernt einander kennen.
 
 - Tauscht euch über eure Erwartungen an den gemeinsamen Lernzirkel aus
@@ -104,6 +107,8 @@ Hier findet ihr eine Checkliste zur
 
 - Rolle Community Manager: Kompetenz, Funktion, Mission
 
+![](images/1_CommunityArten_u_RolleCommunityM.png)
+
 Zum Beispiel:
 
 - Was ist eigentlich eine Community? ("Community" vs. Publikum vs.
@@ -118,15 +123,13 @@ Zum Beispiel:
 
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
-- [<u>Definitionen</u>](\l)
+- [***Definitionen***](2-02-Definitionen.md)	
 
-- [<u>Community-Rollen</u>](#community-rollen)
+- [***Community-Rollen***](2-03-Community-Rollen.md)
 
-- [<u>Anforderungen an Community
-  Manager</u>](#anforderungen-an-das-community-management)
+- Abschnitt [***Anforderungen an das Community Management***](2-03-Community-Rollen.md)
 
-- [<u>Klarheit über Community-Typ und treibende Kräfte
-  gewinnen</u>](\l)
+- Abschnitt [***Klarheit über Community-Typ und treibende Kräfte gewinnen***](4-02-Konzeption_und_Planung.md)
 
 **Aufgaben**
 
@@ -150,11 +153,11 @@ Schleifen. In diesem Abschnitt wollen wir dich in den nächsten Wochen
 dazu anregen, unabhängig vom Wochenthema vorherige Stadien deiner Arbeit
 noch einmal zu reflektieren und weiterzuentwickeln. Als Hilfsmittel
 schlagen wir den Community Canvas sowie eine “Party-Liste” vor (siehe
-[<u>Community skizzieren</u>](\l)).
+  [***Community skizzieren***](4-02-Konzeption_und_Planung.md).
 
 **Weiterführende Vorschläge**
 
-Details findest du in der [<u>Literaturliste</u>](\l).
+Details findest du im [***Literaturverzeichnis***](6-00-Anhang.md).
 
 - Top Quellen zu Community Management
   
@@ -202,19 +205,21 @@ Diese Ansätze sind Hilfsangebote, keine Dogmen; du entscheidest, was
 wichtig für dich ist. Dein Community-Konzept entwickelt sich iterativ
 weiter!
 
+![](images/2_Konzeption.png)
+
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
-- [<u>Community Lifecycle</u>](\l)
+- [***Community Lifecycle***](2-04-Community-Lifecycle.md)
 
-- [<u>Als Team starten</u>](#als-team-starten)
+- [***Als Team starten***](4-01-Als_Team_starten.md)	
 
-- [<u>Hilfsmittel, um die Community zu skizzieren</u>](\l)
+- [***Hilfsmittel, um die Community zu skizzieren***](4-02-Konzeption_und_Planung.md)
 
-- [<u>Einordnung der Community - warum braucht es euch und wem ähnelt
-  ihr?</u>](\l)
+- Abschnitt [***Einordnung der Community - warum braucht es euch und wem ähnelt
+  ihr?***](4-02-Konzeption_und_Planung.md)
 
-- [<u>Community-Strategie - Ziele, Zielgruppen und Daseinsgrund
-  definieren</u>](\l) (Verschaffe dir einen Überblick)
+- Abschnitt [***Community-Strategie - Ziele, Zielgruppen und Daseinsgrund
+  definieren***](4-02-Konzeption_und_Planung.md) (Verschaffe dir einen Überblick)
 
 **Aufgaben**
 
@@ -258,12 +263,14 @@ Ziele verfeinern:
 
 - Zielehierarchie (Strategisch ("Big Rocks"), Operativ, Messgrößen)
 
+![](images/3_Ziele.png)
+
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
-- [<u>Community-Strategie: Ziele, Zielgruppen und Daseinsgrund
-  definieren</u>](\l)
+- Abschnitt [***Community-Strategie - Ziele, Zielgruppen und Daseinsgrund
+  definieren***](4-02-Konzeption_und_Planung.md)
 
-- [<u>Erfolgsmessung</u>](\l)
+- Abschnitt [***Erfolgsmessung***](4-02-Konzeption_und_Planung.md)
 
 **Aufgaben**
 
@@ -307,12 +314,13 @@ sie motivieren? Wie werden sie für euch überhaupt greifbar?
 - Personas - ein wichtiges Hilfsmittel, um Zielgruppen zu definieren
   und Aktivitäten daraus abzuleiten
 
+![](images/4_Zielgruppen.png)
+
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
-- [<u>Community-Strategie: Ziele, Zielgruppen und Kernaussage
-  definieren</u>](\l)
+- Abschnitt [***Community-Strategie: Ziele, Zielgruppen und Kernaussage definieren***](4-02-Konzeption_und_Planung.md)
 
-- [<u>Hilfsmittel, um die Community zu skizzieren</u>](\l) (Weitere
+- Abschnitt [***Hilfsmittel, um die Community zu skizzieren***](4-02-Konzeption_und_Planung.md) (Weitere
   Hinweise)
 
 **Aufgaben**
@@ -365,6 +373,8 @@ eurer Community. Nachdem du dich mit Zielen und deinen Zielgruppen
 beschäftigt hast, könnt ihr nun dazu passende Inhalte und Aktivitäten
 entwickeln.
 
+![](images/5_Inhale_u_Aktivitaeten.png)
+
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
 - [<u>Strategie-Cocktails</u>](\l)
@@ -409,6 +419,8 @@ soziales Netzwerk. In diesem Fall ist es wichtig, dass ihr euch mit den
 Funktionen und Rahmenbedingungen vertraut macht - und zwar nicht nur aus
 eurer Community-Manager-Perspektive, sondern auch aus dem Blickwinkel
 “normaler” Nutzerinnen.
+
+![](images/6_Technologien.png)
 
 Falls es keine Standard-Plattform für euch gibt, solltet ihr mit einem
 Evaluierungsprozess starten, um die für eure Ziele und Zielgruppen
@@ -481,6 +493,8 @@ Anwendern, insbesondere Betreibenden oder Community-Manager\*innen.
 - Feedbackrunde: Geht zu relevanten Menschen (etwa Stakeholder oder
   gewogene Power-User) und lasst euch Feedback zu eurem Konzept geben.
 
+![](images/7_HalbzeitReflexion_u_Feedback.png)
+
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
 Nutzt die Tipps in diesen Kapiteln, um Ansprechpartner zu
@@ -536,6 +550,8 @@ darüber wie ihr euch organisiert.
 
 - Sponsoren und Stakeholder
 
+![](images/8_TeamRollen.png)
+
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
 - [<u>Community-Rollen</u>](\l)
@@ -586,6 +602,8 @@ Woche.
 
 - Redaktionsplanung
 
+![](images/9_ContentProduktion.png)
+
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
 Bitte beachtet die weiterführenden Vorschläge dazu.
@@ -631,6 +649,8 @@ wie eure Moderation beides unterstützt und am Leben erhält.
 - Engagement-Maßnahmen
 
 - Moderationstechniken
+
+![](images/10_Engagement_u_Moderation.png)
 
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
@@ -680,6 +700,8 @@ oder einfach schwierigen Situationen, und wie ihr damit umgehen könnt.
 
 - Hinweis auf Netiquette
 
+![](images/11_SchwierigeSituationen.png)
+
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
 - [<u>Werte, Regeln und Verhaltenskodex</u>](\l)
@@ -723,6 +745,8 @@ oder einfach schwierigen Situationen, und wie ihr damit umgehen könnt.
 Ihr habt viel geschafft - jetzt ist Zeit zu feiern! Freut euch
 gemeinsam, lasst eure Lern-Stationen Revue passieren und heckt Ideen für
 die Zukunft aus!
+
+![](images/12_Feiern.png)
 
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 

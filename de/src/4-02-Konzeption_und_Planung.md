@@ -1,4 +1,4 @@
-# Konzeption und Planung 
+# Konzeption und Planung
 
 ### Hilfsmittel, um die Community zu skizzieren
 
@@ -22,13 +22,13 @@ Beim Skizzieren könnt ihr so frei und kreativ sein, wie ihr möchtet. Der
 Lernpfad im zweiten Teil dieses Guides führt euch auch Schritt für
 Schritt durch die Überlegungen zum Aufsetzen der Community hindurch.
 Zwei Hilfsmittel, die wir für diese Schritte richtig gut finden, sind
-der <u>Community Canvas</u> und die Community-<u>Partyliste</u>. Beide
+der [Community Canvas](https://community-canvas.org/) und die Community-[Partyliste ](https://www.communitymanagement.de/wie-ihnen-die-partyplanung-beim-aufbau-ihrer-community-hilft/). Beide
 können euch einen roten Faden für eure Konzeptionsphase und die
 Initialisierung an die Hand geben.
 
 **Community Canvas**
 
-Der <u>Community Canvas</u> bietet ein einfaches methodisches Rahmenwerk
+Der [Community Canvas](https://community-canvas.org/) bietet ein einfaches methodisches Rahmenwerk
 für den konzeptionellen Prozess. Anhand von 3 Hauptbereichen (Identität,
 Erfahrung, Struktur) und 17 untergeordneten Themenbereichen führt der
 Canvas durch alle Aspekte der Community-Konzeptionierung. Ihr könnt in
@@ -38,18 +38,17 @@ miteinander geteilte Idee darüber entwickeln, wie diese gelebt werden
 kann.
 
 Ein Anwendungsbeispiel für die gemeinsame Arbeit mit dem Community
-Canvas hat Harald Lauritsch [hier
-vorgestellt](https://www.youtube.com/watch?v=OiKSTO4-xoE) (YouTube).
+Canvas hat Harald Lauritsch [hier vorgestellt](https://www.youtube.com/watch?v=OiKSTO4-xoE) (YouTube).
 
 **Party-Liste**
 
-Im Abschnitt [<u>Anforderungen an Community Manager</u>](\l) haben wir
+Im Abschnitt [***Anforderungen an das Community Management***](2-03-Community-Rollen.md) haben wir
 die Rolle als die eines Party-Gastgebers beschrieben. Ein naheliegendes
 Hilfsmittel für die Organisatoren der Party wäre es, eine Liste
 anzulegen, die alle zu erledigenden und zu beachtenden Punkte enthält.
 Eine Art Party-Liste also. Auch eine Community kann von einem
-Hilfsmittel wie diesem profitieren, wie <u>Tanja Laub in einem
-Blog-Beitrag</u> beschreibt.
+Hilfsmittel wie diesem profitieren, wie [Tanja Laub in einem
+Blog-Beitrag](https://www.communitymanagement.de/wie-ihnen-die-partyplanung-beim-aufbau-ihrer-community-hilft/) beschreibt.
 
 **Weitere Hilfsmittel**
 
@@ -65,17 +64,17 @@ Erkenntnisse über Verhalten und Wünsche zukünftiger Mitglieder gewinnen.
 
 **Links**
 
--   Community Canvas ([Englisch](https://community-canvas.org) , [Deutsch](https://www.community-canvas.de))
+- Community Canvas ([Englisch](https://community-canvas.org) , [Deutsch](https://www.community-canvas.de))
 
--   [Presencing Institute (Theorie U)](https://www.presencing.org/resource/tools)
+- [Presencing Institute (Theorie U)](https://www.presencing.org/resource/tools)
 
--   Design Thinking
-    [https://www.designthinking-methods.com/en/](https://www.designthinking-methods.com/en/)
+- Design Thinking
+  [https://www.designthinking-methods.com/en/](https://www.designthinking-methods.com/en/)
 
--   [Party-Liste für Community Aufbau](https://www.communitymanagement.de/wie-ihnen-die-partyplanung-beim-aufbau-ihrer-community-hilft/)
+- [Party-Liste für Community Aufbau](https://www.communitymanagement.de/wie-ihnen-die-partyplanung-beim-aufbau-ihrer-community-hilft/)
 
--   Community of Practice [Quick Startup Guide](https://wenger-trayner.com/quick-cop-start-up-guide/)
-    nach Wenger / Trayner
+- Community of Practice [Quick Startup Guide](https://wenger-trayner.com/quick-cop-start-up-guide/)
+  nach Wenger / Trayner
 
 ### Einordnung der Community - warum braucht es euch und wem ähnelt ihr?
 
@@ -83,51 +82,51 @@ Beim ersten Skizzieren der Community könnt ihr euch an den folgenden
 Leitfragen orientieren. Der Community-Canvas (siehe vorheriger
 Abschnitt) schlägt weitere, ähnliche Fragen und Anhaltspunkte vor.
 
--   **Wie sieht das Ökosystem aus**? Welche bestehenden
-    Kommunikationskanäle beschäftigen sich mit dem Thema der geplanten
-    Community? Schaut auf eure Ziele und euer Leitbild - gibt es schon
-    eine Community zu diesem Thema? Wenn ja, dann eröffnet keine zweite
-    Community! Sucht den Kontakt mit den verantwortlichen Kolleginnen
-    und geht das Thema gemeinsam an. Eine Vielzahl an Communities, die
-    zu den gleichen Themen arbeiten, schafft nur Verwirrung,
-    Überforderung und Ablehnung. In manchen Unternehmen gibt es hier
-    auch recht strenge Regeln, besonders was das Anlegen von
-    Fachcommunities angeht. Informiert euch, lasst im Zweifel das Ego
-    sausen und tut euch mit anderen zusammen.
+- **Wie sieht das Ökosystem aus**? Welche bestehenden
+  Kommunikationskanäle beschäftigen sich mit dem Thema der geplanten
+  Community? Schaut auf eure Ziele und euer Leitbild - gibt es schon
+  eine Community zu diesem Thema? Wenn ja, dann eröffnet keine zweite
+  Community! Sucht den Kontakt mit den verantwortlichen Kolleginnen
+  und geht das Thema gemeinsam an. Eine Vielzahl an Communities, die
+  zu den gleichen Themen arbeiten, schafft nur Verwirrung,
+  Überforderung und Ablehnung. In manchen Unternehmen gibt es hier
+  auch recht strenge Regeln, besonders was das Anlegen von
+  Fachcommunities angeht. Informiert euch, lasst im Zweifel das Ego
+  sausen und tut euch mit anderen zusammen.
 
--   **Why - How - What**: Warum soll es euch geben? Was möchtet ihr
-    verändern oder verbessern? Wie möchtet ihr euch dafür organisieren?
-    Wie zusammenarbeiten? Wie geht ihr auf Leute zu? Welche
-    Regelmeetings solle es geben? Was soll konkret passieren? Was
-    entstehen?
+- **Why - How - What**: Warum soll es euch geben? Was möchtet ihr
+  verändern oder verbessern? Wie möchtet ihr euch dafür organisieren?
+  Wie zusammenarbeiten? Wie geht ihr auf Leute zu? Welche
+  Regelmeetings solle es geben? Was soll konkret passieren? Was
+  entstehen?
 
--   Findet einen passenden, klaren und einladenden **Namen** für die
-    Community. Das zentrale Anliegen oder Thema sollte direkt erkennbar
-    sein und die Zielgruppe sollte sich angesprochen fühlen, gerne auch
-    durch eine passende Tonalität. Der Name ist eure erste
-    Marketing-Chance!
+- Findet einen passenden, klaren und einladenden **Namen** für die
+  Community. Das zentrale Anliegen oder Thema sollte direkt erkennbar
+  sein und die Zielgruppe sollte sich angesprochen fühlen, gerne auch
+  durch eine passende Tonalität. Der Name ist eure erste
+  Marketing-Chance!
 
--   **Potenzielle Mitglieder und Verbündete:** Gibt es Kolleginnen,
-    welche mit diesem Thema in Verbindung gebracht werden? Wen wollt ihr
-    für die Community gewinnen? An wen habt ihr noch nicht gedacht?
+- **Potenzielle Mitglieder und Verbündete:** Gibt es Kolleginnen,
+  welche mit diesem Thema in Verbindung gebracht werden? Wen wollt ihr
+  für die Community gewinnen? An wen habt ihr noch nicht gedacht?
 
--   Welche **Ressourcen** - finanziell, zeitlich, personell - stehen zur
-    Verfügung oder können aktiviert werden?
+- Welche **Ressourcen** - finanziell, zeitlich, personell - stehen zur
+  Verfügung oder können aktiviert werden?
 
--   **Stakeholder:** Wo ist das Thema organisatorisch aufgehängt? Wer
-    könnte zukünftig “Sponsor” sein, um Unterstützung im Management zu
-    haben?
+- **Stakeholder:** Wo ist das Thema organisatorisch aufgehängt? Wer
+  könnte zukünftig “Sponsor” sein, um Unterstützung im Management zu
+  haben?
 
--   **Erfolgskriterien:** Was verändert sich, wenn eure Community
-    erfolgreich ist? ([<u>Erfolgsmessung</u>](\l))
+- **Erfolgskriterien:** Was verändert sich, wenn eure Community
+  erfolgreich ist? (***Abschnitt Erfolgsmessung***)
 
 Diese Punkte fließen ein in einen Community-Grobkonzept oder einen
 Community-Steckbrief, dessen Inhalte Basis eurer Gespräche mit weiteren
 Interessierten sein können.
 
-### Klarheit über Community-Typ und treibende Kräfte gewinnen 
+### Klarheit über Community-Typ und treibende Kräfte gewinnen
 
-Wir haben im Kapitel [<u>Definitionen</u>](\l) verschiedene
+Wir haben im Kapitel [***Definitionen***](2-02-Definitionen.md) verschiedene
 Community-Typen vorgestellt. Es lohnt sich, beim Aufsetzen einer
 Community etwas tiefer zu bohren und sich klar zu werden, welche Art von
 Community ihr anstrebt und wo ihr eure Energie gewinnt. Ganz wichtig ist
@@ -141,27 +140,27 @@ Gründung einer Community “von unten” aus - und die Community lebt von
 der Energie, die jeder ins Vernetzen und ko-kreative Arbeiten einbringt.
 Ein paar Beispiele:
 
--   Eine Person erkennt, dass ein bestimmtes Thema einen strategischen
-    Stellenwert hat und sucht nach Möglichkeiten, das Thema im
-    Unternehmen voranzubringen.
+- Eine Person erkennt, dass ein bestimmtes Thema einen strategischen
+  Stellenwert hat und sucht nach Möglichkeiten, das Thema im
+  Unternehmen voranzubringen.
 
--   Kolleginnen erkennen Missstände im Unternehmen und möchten hierauf
-    aufmerksam machen bzw. Lösungen entwickeln (z.B.
-    Graswurzel-Innovationen).
+- Kolleginnen erkennen Missstände im Unternehmen und möchten hierauf
+  aufmerksam machen bzw. Lösungen entwickeln (z.B.
+  Graswurzel-Innovationen).
 
--   Eine Gruppierung möchte sich einen formalen Rahmen geben, z.B.
-    tauschen sich Interessierte eines Fachgebiets bei gelegentlichen
-    Treffen und Mittagessen aus. Sie sehen den Bedarf, mehr Kollegen für
-    das Thema zu begeistern und gemeinsam einen Methodenkoffer zu
-    entwickeln oder Ähnliches.
+- Eine Gruppierung möchte sich einen formalen Rahmen geben, z.B.
+  tauschen sich Interessierte eines Fachgebiets bei gelegentlichen
+  Treffen und Mittagessen aus. Sie sehen den Bedarf, mehr Kollegen für
+  das Thema zu begeistern und gemeinsam einen Methodenkoffer zu
+  entwickeln oder Ähnliches.
 
--   Durch veränderte äußere Umstände (vgl. Selbsthilfegruppe) entsteht
-    ein neues Bedürfnis zwischen Kolleginnen, sich stärker zu vernetzen,
-    z.B. bei einer Umstellung auf agile Vorgehensweisen und neue Rollen
-    im Vorhaben.
+- Durch veränderte äußere Umstände (vgl. Selbsthilfegruppe) entsteht
+  ein neues Bedürfnis zwischen Kolleginnen, sich stärker zu vernetzen,
+  z.B. bei einer Umstellung auf agile Vorgehensweisen und neue Rollen
+  im Vorhaben.
 
--   Ein verteiltes Team möchte effizienter kommunizieren und
-    zusammenarbeiten.
+- Ein verteiltes Team möchte effizienter kommunizieren und
+  zusammenarbeiten.
 
 Intrinsisch motivierte Communities können manchmal unfassbar Großes
 leisten. Alexander und Sabine Kluge stellen einige der sehr
@@ -291,41 +290,41 @@ Nicht von ungefähr nennt sie Jono Bacon "Big Rocks" (People Powered,
 2019, S. 88ff). Beispiele für Ziele einer Community auf dieser
 strategischen Ebene sind:
 
--   Verbesserung der internen Zusammenarbeit durch community-basierte
-    Arbeit und Nutzung verschiedener Funktionen innerhalb der Community
+- Verbesserung der internen Zusammenarbeit durch community-basierte
+  Arbeit und Nutzung verschiedener Funktionen innerhalb der Community
 
--   Förderung von Vernetzung und Dialogkultur im Unternehmen
+- Förderung von Vernetzung und Dialogkultur im Unternehmen
 
--   Filterung von Inhalten und Wissen und fachliche Einordnung von
-    Themen (Kuratierung)
+- Filterung von Inhalten und Wissen und fachliche Einordnung von
+  Themen (Kuratierung)
 
--   Verbesserung von Informations- und Wissensflüssen, über die Grenzen
-    von Abteilungen, Hierarchie-Ebenen und Einzelprojekten hinweg
+- Verbesserung von Informations- und Wissensflüssen, über die Grenzen
+  von Abteilungen, Hierarchie-Ebenen und Einzelprojekten hinweg
 
--   Transparenz in Arbeitsabläufen, Austausch und Abläufen verbessern
+- Transparenz in Arbeitsabläufen, Austausch und Abläufen verbessern
 
--   Förderung von Innovation durch die ko-kreative Generierung,
-    Bewertung und Weiterentwicklung von Ideen
+- Förderung von Innovation durch die ko-kreative Generierung,
+  Bewertung und Weiterentwicklung von Ideen
 
--   Cross-Innovation - durch das bewusste Zusammenbringen
-    unterschiedlichster Wissensträgerinnen für Perspektivenvielfalt und
-    Befruchtung unterschiedlicher Themenbereiche sorgen
+- Cross-Innovation - durch das bewusste Zusammenbringen
+  unterschiedlichster Wissensträgerinnen für Perspektivenvielfalt und
+  Befruchtung unterschiedlicher Themenbereiche sorgen
 
--   Effizientere Organisation, Vor- und Nachbereitung von Meetings und
-    Veranstaltungen
+- Effizientere Organisation, Vor- und Nachbereitung von Meetings und
+  Veranstaltungen
 
--   Wissen teilen und dokumentieren und Stewardship über einen
-    Wissensbereich übernehmen
+- Wissen teilen und dokumentieren und Stewardship über einen
+  Wissensbereich übernehmen
 
--   Vernetzung von Expertise zu verwandten Themenfeldern
+- Vernetzung von Expertise zu verwandten Themenfeldern
 
--   Gegenseitige Unterstützung bei der Lösung von Problemen
+- Gegenseitige Unterstützung bei der Lösung von Problemen
 
--   “Advocacy” für Themen (z.B. Diversität, Arbeitsbelastung etc.) im
-    Unternehmen und Anstoßen von Veränderungsprojekten.
+- “Advocacy” für Themen (z.B. Diversität, Arbeitsbelastung etc.) im
+  Unternehmen und Anstoßen von Veränderungsprojekten.
 
--   Unterstützung des Onboardings neuer Mitarbeiterinnen und Teilen von
-    Lernerfahrungen durch Debriefings.
+- Unterstützung des Onboardings neuer Mitarbeiterinnen und Teilen von
+  Lernerfahrungen durch Debriefings.
 
 Wie die Liste deutlich macht, geht es in Communities häufig darum,
 Geschäfts- oder Zusammenarbeitsprozesse zu unterstützen. Weitere
@@ -389,29 +388,29 @@ vorbereitet sein, so dass eure Gäste sich wohlfühlen und mitmachen?
 
 Folgende Punkte könnt ihr hier mit bedenken:
 
--   **Sponsorship** sichern (falls benötigt)
+- **Sponsorship** sichern (falls benötigt)
 
--   **Plattform** evaluieren und aussuchen
+- **Plattform** evaluieren und aussuchen
 
--   **Initiales Set-up** der Community
+- **Initiales Set-up** der Community
 
--   Wann ist der beste Zeitpunkt die Mitglieder in die Community zu
-    holen? Bewährt haben sich **Pilotphasen** mit einer ausgewählten
-    Menge an wohlwollenden Nutzerinnen (Pre-Test, Ramp-up). In dieser
-    Phase können Prototypen getestet, Feedback gesammelt und ein erster
-    inhaltlicher “Füllstand” der Community hergestellt werden.
+- Wann ist der beste Zeitpunkt die Mitglieder in die Community zu
+  holen? Bewährt haben sich **Pilotphasen** mit einer ausgewählten
+  Menge an wohlwollenden Nutzerinnen (Pre-Test, Ramp-up). In dieser
+  Phase können Prototypen getestet, Feedback gesammelt und ein erster
+  inhaltlicher “Füllstand” der Community hergestellt werden.
 
--   Kontinuierliches **Engagement-Konzept** planen
+- Kontinuierliches **Engagement-Konzept** planen
 
--   Erstellung eines **Redaktions- und Aktivitätenplans** mit
-    90-Tage-Pipeline
+- Erstellung eines **Redaktions- und Aktivitätenplans** mit
+  90-Tage-Pipeline
 
--   **Ressourcenaufwand:** Abgeleitet aus dem Redaktionsplan bzw. dem
-    allgemeinen Fahrplan der Community
+- **Ressourcenaufwand:** Abgeleitet aus dem Redaktionsplan bzw. dem
+  allgemeinen Fahrplan der Community
 
--   **Ideen für Aktivitäten,** die in den Fahrplan aufgenommen werden
-    können. Anregungen erhaltet ihr im Kapitel Aktivieren und Führen.
-    (konkret: Wer? Wann? Wo?)
+- **Ideen für Aktivitäten,** die in den Fahrplan aufgenommen werden
+  können. Anregungen erhaltet ihr im Kapitel Aktivieren und Führen.
+  (konkret: Wer? Wann? Wo?)
 
 Stellt euch die Frage, was in den ersten 100 Tagen der Community
 passieren könnte. Wenn ihr damit Menschen begeistern könnt, bringen sie
@@ -446,21 +445,20 @@ Gastbeiträgen abgegrenzt werden, z.B. mit einem speziellen Header.
 Für kollaborativ arbeitende Communities empfehlen wir einen sogenannten
 “Status-of-the-Week”, d.h. eine Zusammenfassung der Ereignisse der Woche
 (welche Themen, Aufgaben, Events, Entscheidungen etc. gab es und welche
-stehen an). Hierzu sei auch verwiesen auf den Abschnitt [<u>Gemeinsam
-Inhalte erstellen</u>](\l).
+stehen an). Hierzu sei auch verwiesen auf den Abschnitt [***Gemeinsam
+Inhalte erstellen***](4-03-Community_aktivieren_und_fuehren.md).
 
-Weitere Vorschläge für inhaltliche Formate findet ihr im Abschnitt
-“[<u>Community aktivieren und führen</u>](\l)”.
+Weitere Vorschläge für inhaltliche Formate findet ihr im Kapitel [***Community aktivieren und führen***](4-03-Community_aktivieren_und_fuehren.md)”.
 
-### Erfolgsmessung 
+### Erfolgsmessung
 
 Wie weiß ich, dass die Community erfolgreich arbeitet? Ein Weg ist es,
 Ziele messbar zu machen. Grob gesagt kann man eine Hierarchie von
 strategischen und operativen Zielen definieren, die man messbar macht.
 
 Ein paar Worte zur Community-Strategie und den übergreifenden Zielen
-haben wir bereits im vorherigen Kapitel gesagt: [<u>Community-Strategie:
-Ziele, Zielgruppen und Kernaussage definieren</u>](\l). Hier jetzt
+haben wir bereits im vorherigen Abschnitt ***Community-Strategie:
+Ziele, Zielgruppen und Daseinsgrund definieren*** gesagt. Hier jetzt
 konzentrieren wir uns auf die Frage, wie wir messen und überprüfen, ob
 wir mit unserer Strategie auf dem richtigen Weg sind.
 
@@ -481,16 +479,16 @@ Wichtiger als kleinteilige Ziele-Systematiken ist es, den Blick aufs
 Ganze schlüssig auszugestalten. Die folgenden Fragen können dabei
 helfen:
 
--   **Zielzustände definieren - z.B. als OKR formuliert:** Was hat sich
-    in deinem Unternehmen oder Umfeld durch die Community verändert?
+- **Zielzustände definieren - z.B. als OKR formuliert:** Was hat sich
+  in deinem Unternehmen oder Umfeld durch die Community verändert?
 
--   **Indizien bzw. Kriterien für den Erfolg benennen:** Woran kann ich
-    beurteilen, ob ich meine Ziele erreicht habe?
+- **Indizien bzw. Kriterien für den Erfolg benennen:** Woran kann ich
+  beurteilen, ob ich meine Ziele erreicht habe?
 
--   **Zeitrahmen stecken:** In welchen Phasen-Abschnitten soll meine
-    Community wo stehen?
+- **Zeitrahmen stecken:** In welchen Phasen-Abschnitten soll meine
+  Community wo stehen?
 
-![](images/image7.png)
+![](images/CommunityZiele.png)
 
 *Wie wissen wir, dass die Community auf dem richtigen Weg ist? Unsere
 Zieledefinition hilft uns dabei, unsere Aktivitäten konsequent am
@@ -557,24 +555,24 @@ setzen und qualitative und quantitative Daten zu kombinieren.
 
 Hier ein paar Beispiele für mögliche Erfolgskriterien:
 
--   Durchlaufzeit eines Prozesses
+- Durchlaufzeit eines Prozesses
 
--   Reduzierung E-Mail Aufkommen zu einem Thema
+- Reduzierung E-Mail Aufkommen zu einem Thema
 
--   Verbesserung des Wissensstandes innerhalb von Teams
+- Verbesserung des Wissensstandes innerhalb von Teams
 
--   Vermeidung von Doppelarbeit und Fehlern
+- Vermeidung von Doppelarbeit und Fehlern
 
--   Zeitersparnis beim Onboarding von neuen Mitarbeitenden
+- Zeitersparnis beim Onboarding von neuen Mitarbeitenden
 
 oder langfristiger angelegt:
 
--   Innovationsstärke
+- Innovationsstärke
 
--   Kostensenkungen
+- Kostensenkungen
 
--   Unternehmenskultur verändert sich zu mehr Offenheit, Transparenz-,
-    Dialog- und Feedback-Kultur
+- Unternehmenskultur verändert sich zu mehr Offenheit, Transparenz-,
+  Dialog- und Feedback-Kultur
 
 Die zuletzt genannten Beispiele für langfristige Erfolgskriterien deuten
 auf Bereiche, die größer als die Community sind. Sie unterliegen daher
@@ -599,7 +597,7 @@ was am besten zu euren Zielen und zu euren Mitgliedern passt, und wie
 die konkrete Ausgestaltung aussieht.
 
 Mehr Details zu den vorgeschlagenen Aktivitäten und Taktiken findest du
-im Kapitel "[<u>Aktivieren und Führen</u>](\l)".
+im Kapitel [***Community aktivieren und führen***](4-03-Community_aktivieren_und_fuehren.md)".
 
 **Strategie-Cocktail "Wachstum"**
 
@@ -607,30 +605,30 @@ Top-Ziel: Neue Mitglieder oder neue Mitglieder-Segmente gewinnen.
 
 Mögliche Taktiken oder Formate:
 
--   Kooperationen oder gemeinsame Maßnahmen mit anderen Communities
+- Kooperationen oder gemeinsame Maßnahmen mit anderen Communities
 
--   Gezielte Kommunikation auf Kanälen, die meine Nutzer
-    schwerpunktmäßig nutzen, z.B. E-Mail-Digest, Poster, Print
+- Gezielte Kommunikation auf Kanälen, die meine Nutzer
+  schwerpunktmäßig nutzen, z.B. E-Mail-Digest, Poster, Print
 
--   Community-Events
+- Community-Events
 
--   Info-Stand auf Versammlungen
+- Info-Stand auf Versammlungen
 
--   Expert / VIP-Talks (Aufmerksamkeit über den Rand der Community)
+- Expert / VIP-Talks (Aufmerksamkeit über den Rand der Community)
 
--   Themenrelevante Neuigkeiten außerhalb der Community verfolgen und
-    aufgreifen (Über den Tellerrand gehen)
+- Themenrelevante Neuigkeiten außerhalb der Community verfolgen und
+  aufgreifen (Über den Tellerrand gehen)
 
--   Medienübergreifende Platzierung von Themen, z.B. unter Zuhilfenahme
-    von Hashtags
+- Medienübergreifende Platzierung von Themen, z.B. unter Zuhilfenahme
+  von Hashtags
 
--   Gastbeiträge
+- Gastbeiträge
 
--   Experten-Talks (besonders bei Experten, die über Community-Grenzen
-    sichtbar sind)
+- Experten-Talks (besonders bei Experten, die über Community-Grenzen
+  sichtbar sind)
 
--   Exklusive Inhalte und deren Vermarktung nach außen, z.B. durch
-    Newsletter
+- Exklusive Inhalte und deren Vermarktung nach außen, z.B. durch
+  Newsletter
 
 **Strategie-Cocktail "User Onboarding Journey"**
 
@@ -650,23 +648,23 @@ Kernteam-Mitgliedern werden zu lassen (s. Jono Bacon, People Powered, S.
 
 Mögliche Taktiken oder Formate:
 
--   Neue Mitglieder einladen und begrüßen
+- Neue Mitglieder einladen und begrüßen
 
--   Mitglieder-Vorstellung (gegenseitig, moderiert)
+- Mitglieder-Vorstellung (gegenseitig, moderiert)
 
--   Onboarding-Kit
+- Onboarding-Kit
 
--   Power-User-Gruppe, bevorzugte Informationen
+- Power-User-Gruppe, bevorzugte Informationen
 
--   Anerkennung der verschiedenen Stadien, Anschluss-Call-to-Action
+- Anerkennung der verschiedenen Stadien, Anschluss-Call-to-Action
 
--   Anerkennung für aktive Mitglieder
+- Anerkennung für aktive Mitglieder
 
--   Schnelle Reaktion
+- Schnelle Reaktion
 
--   Vertreter-Regelung als Chance (für Power-User)
+- Vertreter-Regelung als Chance (für Power-User)
 
--   Spotlight-on-Interview
+- Spotlight-on-Interview
 
 **Strategie-Cocktail "Go-Live"**
 
@@ -675,18 +673,18 @@ Gewinnung von Nutzern zum Start der Community
 
 Mögliche Taktiken oder Formate:
 
--   Ramp-up mit Power-Usern (erste Inhalte, Feedback)
+- Ramp-up mit Power-Usern (erste Inhalte, Feedback)
 
--   Orchestrierte Kommunikation in ausgewählten Kanälen, die Spannung
-    erzeugt (Was kommt da?)
+- Orchestrierte Kommunikation in ausgewählten Kanälen, die Spannung
+  erzeugt (Was kommt da?)
 
--   Definierter Kommunikationsplan / Redaktionsplan auch nach dem Start
+- Definierter Kommunikationsplan / Redaktionsplan auch nach dem Start
 
--   Power-User als Multiplikatoren einsetzen
+- Power-User als Multiplikatoren einsetzen
 
--   Provokation
+- Provokation
 
--   Fragen
+- Fragen
 
 **Strategie-Cocktail "Retention"**
 
@@ -695,17 +693,17 @@ erhöhen.
 
 Mögliche Taktiken oder Formate:
 
--   Rituale
+- Rituale
 
--   Serien
+- Serien
 
--   Regelmäßigkeit der Beiträge
+- Regelmäßigkeit der Beiträge
 
--   Cliffhanger und Dramaturgie von Beiträgen
+- Cliffhanger und Dramaturgie von Beiträgen
 
--   Schnelles, verbindliches Antworten
+- Schnelles, verbindliches Antworten
 
--   Hilfe und direkte Ansprache
+- Hilfe und direkte Ansprache
 
 **Strategie-Cocktail "Engagement"**
 
@@ -713,34 +711,34 @@ Zielrichtung: Aktive Beteiligung von Mitgliedern erhöhen
 
 Mögliche Taktiken oder Formate:
 
--   Meinungsbilder/ Umfragen / Fragen
+- Meinungsbilder/ Umfragen / Fragen
 
--   Kontroverse Beiträge, Meinung
+- Kontroverse Beiträge, Meinung
 
--   Call-to-Action
+- Call-to-Action
 
--   Offline-Events
+- Offline-Events
 
--   Community-Call mit Kennenlern-Elementen
+- Community-Call mit Kennenlern-Elementen
 
--   Aktive Vernetzung einzelner Mitglieder
+- Aktive Vernetzung einzelner Mitglieder
 
--   Power-User im Vorfeld vor Maßnahmen aktivieren, um Grundrauschen
-    beim Engagement sicher zu stellen und Vorbilder zu schaffen
+- Power-User im Vorfeld vor Maßnahmen aktivieren, um Grundrauschen
+  beim Engagement sicher zu stellen und Vorbilder zu schaffen
 
--   Einbeziehung: Gemeinsame Gestaltung von Community-Aktionen oder
-    Elementen
+- Einbeziehung: Gemeinsame Gestaltung von Community-Aktionen oder
+  Elementen
 
--   Experten-Talks
+- Experten-Talks
 
--   Ansprechender Medien-Cocktail
+- Ansprechender Medien-Cocktail
 
--   Emotionale Beiträge
+- Emotionale Beiträge
 
--   Visuelle Kommunikation
+- Visuelle Kommunikation
 
--   Transparente Rückspiegelung und Hervorhebung der Wirksamkeit von
-    Community-Feedback und Mitwirkung
+- Transparente Rückspiegelung und Hervorhebung der Wirksamkeit von
+  Community-Feedback und Mitwirkung
 
 **Strategie-Cocktail "Enabling"**
 
@@ -750,17 +748,17 @@ wie etwa Engagement, erforderlich sind.
 
 Mögliche Taktiken oder Formate:
 
--   Working Out Loud fördern
+- Working Out Loud fördern
 
--   Kontext-sensitive Hilfe zu Funktionen der Community
+- Kontext-sensitive Hilfe zu Funktionen der Community
 
--   Einführungsvideo zum Umgang mit Funktionen
+- Einführungsvideo zum Umgang mit Funktionen
 
--   Einführungscalls, Q&A
+- Einführungscalls, Q&A
 
--   Enabling-Nuggets
+- Enabling-Nuggets
 
--   Zeitnahe Hilfe und Unterstützung in der Community
+- Zeitnahe Hilfe und Unterstützung in der Community
 
 **Strategie-Cocktail "Erwünschtes Verhalten"**
 
@@ -769,15 +767,15 @@ unerwünschtes Verhalten eindämmen und minimieren
 
 Mögliche Taktiken oder Formate:
 
--   Anerkennung von Role Models
+- Anerkennung von Role Models
 
--   Netiquette, Diskussion über Community-Regeln
+- Netiquette, Diskussion über Community-Regeln
 
--   Vorbilder
+- Vorbilder
 
--   Bevorzugte Behandlung gewünschten Verhaltens (z.B. Schnelles
-    Reagieren auf Fragen in der Community vs. Freundliches Ablehnen von
-    E-Mail-Anfragen)
+- Bevorzugte Behandlung gewünschten Verhaltens (z.B. Schnelles
+  Reagieren auf Fragen in der Community vs. Freundliches Ablehnen von
+  E-Mail-Anfragen)
 
 **Strategie-Cocktail "Zusammenarbeit"**
 
@@ -786,17 +784,17 @@ fördern
 
 Mögliche Taktiken oder Formate:
 
--   Vereinbarungen zur Zusammenarbeit erarbeiten. Z.B. über die Art und
-    Zweck der Nutzung der Community und anderer Tools.
+- Vereinbarungen zur Zusammenarbeit erarbeiten. Z.B. über die Art und
+  Zweck der Nutzung der Community und anderer Tools.
 
--   Gemeinsame Ausgestaltung der Community
+- Gemeinsame Ausgestaltung der Community
 
--   Gemeinsame Rollendefinition
+- Gemeinsame Rollendefinition
 
--   Trainings zu Funktionen und gemeinsamen Praktiken
+- Trainings zu Funktionen und gemeinsamen Praktiken
 
--   Projektmanagement-Elemente und Methoden in der Community anwenden,
-    z.B. Scrum
+- Projektmanagement-Elemente und Methoden in der Community anwenden,
+  z.B. Scrum
 
--   Anwendung von Elementen für das Führen von verteilten Teams, z.B.
-    Team-Bildung, Vertrauensbildung und Psychological Safety
+- Anwendung von Elementen für das Führen von verteilten Teams, z.B.
+  Team-Bildung, Vertrauensbildung und Psychological Safety

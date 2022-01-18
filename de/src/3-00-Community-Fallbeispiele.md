@@ -126,7 +126,7 @@ Zeitalter zu einer wichtigen Fähigkeit für das Unternehmen.
 
 **Weiterführende Informationen:**
 
-- Webseite [workingoutloud.com](https://workingoutloud.com)
+- Homepage [Working Out Loud](https://workingoutloud.com)
 
 - Blog [Working Out Loud: eine wichtige Methode für interne Community
   Manager](https://www.bvcm.org/2015/12/working-out-loud-wol-eine-wichtige-methode-fuer-interne-corporate-community-manager/)

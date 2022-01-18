@@ -20,8 +20,6 @@ sondern sie beflügelt.
 
 ![](images/CommunityRoles.png)
 
-![](images/Community_Rollen.png)
-
 - **Community Manager** (im Schaubild “Moderatoren”): sind für die
   Koordination von Planung, Start, Aufbau und Transformation der
   Community zuständig. Sie sind für die Aktivierung der Community
@@ -66,6 +64,8 @@ sondern sie beflügelt.
   Zielen der Community steht. Management Sponsoren sind für die
   Legitimation der Community und die Verfügbarkeit von Ressourcen
   wichtig.
+
+![](images/Community_Rollen.png)
 
 ### Anforderungen an das Community Management
 

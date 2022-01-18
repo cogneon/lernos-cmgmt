@@ -20,7 +20,7 @@ aktiv einzufordern. Zunächst sind die Gesprächspartnerinnen vielleicht
 Stakeholder, dann folgen direkt besonders günstig gestimmte Menschen -
 (potenzielle) Power-Nutzerinnen oder Multiplikatoren.
 
-![](images/image6.png)
+![](images/CommunityStarten.png)
 
 *“Start before you’re ready” oder: Eine Community gemeinsam mit anderen
 starten. Visualisierung inspiriert durch* *<u>Peter Staal</u> (2021).*
@@ -28,12 +28,13 @@ starten. Visualisierung inspiriert durch* *<u>Peter Staal</u> (2021).*
 
 Indem ihr diesen Ansatz von Anfang an konsequent und für alle sichtbar
 verfolgt, sinkt die Hemmschwelle für alle weiteren Community-Mitglieder
+
 - auch für diejenigen in spe, die potenziellen. Euer Ziel sollte es
-sein, aktive Beteiligung normal werden zu lassen. Baut einen Raum auf,
-in dem Beiträge geschätzt werden und Menschen einander vertrauen. In dem
-sie Fehler machen dürfen und ernst genommen werden. Likes, Kommentare,
-eigene Posts, Ermutigungen etc. können dies in der Online-Community ganz
-handfest unterstützen.
+  sein, aktive Beteiligung normal werden zu lassen. Baut einen Raum auf,
+  in dem Beiträge geschätzt werden und Menschen einander vertrauen. In dem
+  sie Fehler machen dürfen und ernst genommen werden. Likes, Kommentare,
+  eigene Posts, Ermutigungen etc. können dies in der Online-Community ganz
+  handfest unterstützen.
 
 Ab einem gewissen Stadium braucht eure Community vielleicht stabilere
 Strukturen. Aber auch hier gilt: Ihr könnt dazu klare Rollen und

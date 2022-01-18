@@ -1,5 +1,9 @@
 # Bevor ihr loslegt
 
+- **Hinweis zur Navigation:** Aus technischen Gründen steuern die leitfaden-internen [***Querverweise***]() (Schrift fett, gesperrt) zwar richtig die **Kapitel** des linken Navigations-Menüs der Web-Version an, aber leider nicht die **Abschnitte** des rechten Menüs ("Inhaltsverzeichnis"). Hier bitte den gewünschen *Abschnitt* zusätzlich anklicken. 
+
+    In den Word-, PDF-, HTML- und E-Book-Versionen ist leider keine Klick-Navigation möglich.
+
 ## Redaktionelle Hinweise
 
 Der lernOS Guide ist ein Community-Projekt. Wir - ein kleiner
@@ -77,30 +81,19 @@ beschäftigen müssen.
 
 Der Guide gibt euch in kompakter und verdaulicher Form geballtes Wissen
 zum Thema Community Management in Organisationen mit. Ihr könnt ihn auf
-unterschiedliche Weise nutzen - je nachdem, wie ihr für euch folgende
-Fragen beantwortet:.
+unterschiedliche Weise nutzen:
 
-1. **Wollt ihr euch zunächst einlesen und einen Überblick bekommen?**
+- **Wollt ihr euch zunächst einlesen und einen Überblick bekommen?**
 
-2. **Oder wollt ihr sofort mit der aktiven Lernreise starten?**
+    Dann lest ihr [***Über Community Management***](2-01-Communities_und_Organisationsstrukturen.md) und [***Die Community aufbauen, managen und weiterentwickeln***](4-00-Die_Community_aufbauen_managen_und_weiterentwickeln.md).
 
-Mit dem lernOS Community Management Guide liegt die Entscheidung bei
-euch:
+- **Oder wollt ihr sofort mit der aktiven Lernreise starten?**
 
-Wenn ihr euch (A) gern erst einen Überblick über das Thema verschaffen
-wollt, dann könnt ihr nach diesem Abschnitt lückenlos beginnen mit den
-[**Über Community Management**](2-01-Communities_und_Organisationsstrukturen.md) und damit, wie man
-eine [**Community aufbauen**](4-00-Die_Community_aufbauen_managen_und_weiterentwickeln.md) kann.
+    Wenn ihr lieber sehr praxisbezogen arbeitet, dann könnt ihr auch direkt mit dem [***Lernpfad***](5-00-Lernpfad.md) im zweiten Teil des Guides beginnen. Darüber könnt ihr euch das Wissen dann zusammen Woche um Woche aneignen. Ihr findet im Lernpfad Übungen und praktische Aufgaben für jede Woche sowie Verweise auf die relevanten Grundlagenkapitel.
 
-Wenn ihr (B) lieber sehr praxisbezogen arbeitet, dann könnt ihr auch
-direkt mit dem [**Lernpfad**](5-00-Lernpfad.md) im zweiten Teil des Guides
-beginnen. Darüber könnt ihr euch das Wissen dann zusammen Woche um Woche
-aneignen. Ihr findet im Lernpfad Übungen und praktische Aufgaben für
-jede Woche sowie Verweise auf die relevanten Grundlagenkapitel.
-
-Der Guide ist außerdem durch [**Community Fallbeispiele**](3-00-Community-Fallbeispiele.md)
+Der Guide ist außerdem durch [***Community Fallbeispiele***](3-00-Community-Fallbeispiele.md)
 angereichert, die Theorie lebendig werden lassen. Und er bietet
-[**weiterführende Informationen**](6-00-Anhang.md) für die Unersättlichen
+[***weiterführende Informationen***](6-00-Anhang.md) für die Unersättlichen
 unter euch - einen Fundus von Literatur-Tipps, Studien und
 Online-Ressourcen, die ihr für die Vertiefung bestimmter Themen nutzen
 könnt.

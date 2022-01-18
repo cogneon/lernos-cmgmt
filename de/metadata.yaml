@@ -1,8 +1,8 @@
 ---
 title: "lernOS Community Management Leitfaden"
 subtitle: "Communities in Organisationen wirkungsvoll gestalten"
-author: [Simon Dückert]
-date: "Version 0.9 (xx.01.2022)"
+author: [Achim Brueck, Tanja Laub, H. Lauritsch, Katharina Lobeck, Stefanie Preisinger, Alfred Zedelmaier]
+date: "Version 0.9 (18.01.2022)"
 titlepage: true
 titlepage-color: "ff6600"
 titlepage-text-color: "ffffff"
@@ -13,6 +13,5 @@ toc: true
 toc-own-page: true
 toc-depth: 3
 logo: src/images/lernOS-logo-white-4000px.png
-#logo-width: 300pt
+logo-width: 300px
 ---
-#logo-width: 300px

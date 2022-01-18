@@ -1,14 +1,3 @@
-___Logo___
-in metadata.yaml__
-
-Logo width erzeugt Fehler ... auskommentiert
-
-
-logo: src/images/lernOS-logo-white-4000px.png
-#logo-width: 300pt
----
-#logo-width: 300px
-
 ___Produktion von EBooks zz nicht nicht___
 Hardy fehlen die Tools ...
 
@@ -26,6 +15,7 @@ ___Web: Level 2 Überschriften
 kommen doppelt???   Z.B.
   Communities und Organisationsstrukturen
   Communities und Organisationsstrukturen
+  --> ist bekannter Flaw - Issue raised by Simon
   
   ___READme.md___
   noch anpassen ...
