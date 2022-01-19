@@ -1,10 +1,10 @@
 ## Communities und Organisationsstrukturen
 
-Hierarchische Organisationsformen mögen zunehmend in der Kritik stehen -
-nach wie vor sind jedoch die meisten Unternehmen hierarchisch
-organisiert, sei es in Stab-Linien-Organisationen, überlagerten
+Hierarchische Organisationsformen mögen zunehmend in der Kritik stehen. 
+Nach wie vor sind jedoch die meisten Unternehmen hierarchisch
+organisiert: sei es in Stab-Linien-Organisationen, überlagerten
 Projektorganisationen, Matrixorganisationen oder anderen Formen. Doch
-Informationen und Wissen - und damit auch ein nicht unerheblicher Teil
+Informationen und Wissen - und damit ein nicht unerheblicher Teil
 von Wertschöpfung - werden nicht hierarchisch sondern netzartig
 weitergegeben und weiterentwickelt.
 
@@ -23,7 +23,7 @@ Austausch und der Zusammenarbeit gehindert. So versickert der
 Wissensfluss zum Rinnsal, Innovationspotenziale versiegen und an vielen
 Ecken werden ähnliche Ideen entwickelt, ohne dass ein Team vom anderen
 weiß. Deswegen sagen führende Organisations- und
-Change-Management-Experten z.B.:
+Change-Management-Experten:
 
 > Hierarchies won‘t be replaced but rather extended by social technology
 > enabled Communities (Dual Operating System, Prof. John P. Kotter)
@@ -48,7 +48,7 @@ Grafik oben deutlich macht, existieren beide Strukturen nebeneinander.
 Ob die Beziehungen und Interaktionen physisch oder virtuell gelebt
 werden, spielt zunächst keine Rolle. Allerdings wurde Communities durch
 die Einführung sozialer Medien in Unternehmen ein mächtiges Werkzeug zur
-Verfügung gestellt. Enterprise Social Networks (ESN) bieten u.a. die
+Verfügung gestellt. Enterprise Social Networks (ESN) bieten die
 Möglichkeit, Online-Communities zu etablieren und dadurch Kommunikation
 und Vernetzung zu übergreifenden Themen zu flexibilisieren und zu
 beschleunigen. Mehr zu [Enterprise Social Networks (Wikipedia)](https://en.wikipedia.org/wiki/Enterprise_social_networking)
