@@ -21,14 +21,14 @@ anschauen.
 
 ### Communities in der Fachliteratur
 
-![](images/Community_Typen.png)
-
 Einige Begriffe für Communities und ihre speziellen Ausformungen im
 Unternehmen, auf die wir uns immer wieder beziehen, kommen aus der
 Fachliteratur von Richard Millington, Etienne und Beverly Wenger-Trayner
 sowie Gartner. Die Typisierungen weisen Überschneidungen auf,
 gleichzeitig auch unterschiedliche Schwerpunktsetzungen und
 Perspektiven.
+
+![](images/Community_Typen.png)
 
 **Richard Millington** unterscheidet Communities in erster Linie nach den
 Inhalten, die jeweils für Zusammenhalt und Beziehungsinteresse sorgen [(Quelle Millington)](https://stangarfield.medium.com/types-of-communities-enterprise-social-network-groups-a-trail-that-collects-77df73ec2c8f):
