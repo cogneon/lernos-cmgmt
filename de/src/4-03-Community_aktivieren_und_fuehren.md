@@ -93,7 +93,7 @@ Community gemeinsam entwickeln etc.)
 
 **Verlässlichkeit.** Eine Grundregel wirkt oft Wunder: Keine Frage in
 der Community bleibt unbeantwortet, aber die wenigsten müssen von der
-Community Managerin beantwortet werden. Wenn ihr merkt, dass jemand um
+Community Managerin beantwortet werden. Wenn ihr merkt, dass jemand
 Rat sucht, versucht, ein paar andere, euch bekannte Expertinnen
 anzustupsen und anzuregen, ihre Ideen zu teilen, statt direkt zu
 antworten. So stärkt ihr das Beziehungsgeflecht, das euch langfristig
