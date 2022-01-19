@@ -6,7 +6,7 @@ agiert als Vorbilder, inspiriert andere zum Mitmachen. Ihre besondere
 Stellung ist jedoch nicht Selbstzweck, sondern sie möchte letztlich
 andere Mitglieder auf Augenhöhe heben, ihr Engagement zu etwas
 Gleichrangigem und Natürlichem machen. Sehr anschaulich erzählt das
-dieses Video: Leadership Lessons from a Dancing Guy.
+dieses Video: [Leadership Lessons from a Dancing Guy](https://youtu.be/fW8amMCVAJQ).
 
 Das Kernteam wächst wahrscheinlich aus der Gruppe von Menschen, die sich
 zu Beginn mit einer unbestimmten Idee zusammengefunden haben und von
