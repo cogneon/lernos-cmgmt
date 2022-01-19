@@ -1,8 +1,8 @@
 # Bevor ihr loslegt
 
-- **Hinweis zur Navigation:** Aus technischen Gründen steuern die leitfaden-internen [***Querverweise***]() (Schrift fett, gesperrt) zwar richtig die **Kapitel** des linken Navigations-Menüs der Web-Version an, aber leider nicht die **Abschnitte** des rechten Menüs ("Inhaltsverzeichnis"). Hier bitte den gewünschen *Abschnitt* zusätzlich anklicken. 
+**Hinweis zur Navigation:** Aus technischen Gründen steuern die leitfaden-internen [***Querverweise***]() (Schrift fett, gesperrt) zwar richtig die **Kapitel** des linken Navigations-Menüs der Web-Version an, aber leider nicht die **Abschnitte** des rechten Menüs ("Inhaltsverzeichnis"). Hier bitte den gewünschen *Abschnitt* zusätzlich anklicken. 
 
-    In den Word-, PDF-, HTML- und E-Book-Versionen ist leider keine Klick-Navigation möglich.
+In den Word-, PDF-, HTML- und E-Book-Versionen ist leider keine Klick-Navigation möglich.
 
 ## Redaktionelle Hinweise
 
