@@ -373,8 +373,7 @@ Community-Aktivitäten in die gewünschte Richtung? Wie konkret gestalte
 ich Aktivitäten aus, so dass meine Zielgruppen darauf anspringen? Durch
 schlüssige Antworten und entsprechendes Handeln schafft ihr wesentliche
 Treiber des Zusammenhalts und des Wachstums der Community. Mehr dazu in
-den Abschnitten "Operativ werden",
-"Erfolgsmessung") und "Strategie-Cocktails".
+den Abschnitten "Operativ werden", "Erfolgsmessung" und "Strategie-Cocktails".
 
 ### Operativ werden
 
@@ -410,7 +409,7 @@ Folgende Punkte könnt ihr hier mit bedenken:
 
 - **Ideen für Aktivitäten,** die in den Fahrplan aufgenommen werden
   können. Anregungen erhaltet ihr im Kapitel Aktivieren und Führen.
-  (konkret: Wer? Wann? Wo?)
+  (Konkret: Wer? Wann? Wo?)
 
 Stellt euch die Frage, was in den ersten 100 Tagen der Community
 passieren könnte. Wenn ihr damit Menschen begeistern könnt, bringen sie
@@ -515,7 +514,7 @@ ankommen oder welche Themen einen echten Bedarf ansprechen.
 
 Aus unserer Sicht empfehlenswert für die Formulierung guter operativer
 Ziele sind die OKR-Methodologie (“Objectives & Key Results”) oder die
-SMART-Systematik ([SMART (Projektmanagement) – Wikipedia](https://de.wikipedia.org/wiki/SMART_(Projektmanagement)).
+SMART-Systematik: [SMART (Projektmanagement) – Wikipedia](https://de.wikipedia.org/wiki/SMART_(Projektmanagement).
 
 Messbare Ziele machen Erfolge greifbar. Dabei können die vorhandenen
 Metriken der Plattform genutzt werden, auf der eure Communities laufen.
