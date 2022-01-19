@@ -8,13 +8,13 @@ Schnell gibt es “Kümmerer”, “Terminplanerinnen”, „Aufräumer“,
 allein ausreicht, dass Menschen sich freiwillig und ohne Ressourcen für
 Themen engagieren, stimmt nur sehr begrenzt - und nur in Bezug auf
 hochemotionale Themen (z.B. in Aktions-Communities). Vor allem ist damit
-nicht automatisch eine abgestimmtes, ineinandergreifende Organisation
+nicht automatisch eine abgestimmte, ineinandergreifende Organisation
 verbunden. Klare Verantwortlichkeiten für Management, Organisation von
 Events, Gestaltung von Kommunikation, Anregung von Austausch sind
 wichtig für die Entwicklung und das langfristige Bestehen von
 Communities. Vereinbarungen und Klarheit über Rollen sind daher nur
 hilfreich. Dies sollte freilich nicht dazu führen, dass Handeln in der
-Community “bürokratisiert” oder “überformalisiert” wird. Rollen geben
+Community bürokratisiert oder überformalisiert wird. Rollen geben
 einzelnen Mitwirkenden ein Mandat, das ihre Initiative nicht lähmt,
 sondern sie beflügelt.
 
@@ -36,15 +36,15 @@ sondern sie beflügelt.
   Management einer Community von einem kleinen Team gestaltet. Je nach
   Größe und Bedeutung einer Community kann es sinnvoll sein, die
   Aufgaben einer Community Managerin zu verteilen. Bei Communities
-  rund um Fachthemen, können z.B. Subject Matter Experts - also
-  Fachexpertinnen oder Kuratoren, mit ins Community Management Team
-  aufgenommen werden, die zu Fachthemen beraten und diese aufbereiten
+  rund um Fachthemen können zum Beispiel so genannte Subject Matter Experts 
+  mit ins Community Management Team aufgenommen werden. Das wären dann 
+  Fachexpertinnen oder Kuratoren, die zu Fachthemen beraten und diese aufbereiten
   können. Bei globalen Communities sind lokale Vertreterinnen wichtig,
   um für Wissensdiversität zu sorgen sowie lokale Bedürfnisse
   berücksichtigen zu können. Und immer sinnvoll: unterschiedliche
   Menschen mit ihren unterschiedlichen Kommunikationsstilen und
-  Interessen sorgen im Community-Management für Vielfalt von
-  Interaktion, Meinung, Stil und erreichen damit auch oft mehr
+  Interessen sorgen im Community Management für Vielfalt von
+  Interaktion, Meinung und Stil und erreichen damit auch oft mehr
   Menschen.
 
 - **Community-Mitglieder:** Mitglieder sind idealerweise Mitwirkende,
@@ -52,7 +52,7 @@ sondern sie beflügelt.
   sie selber Nutzen und/oder stiften Nutzen für andere. Die Mitglieder
   einer Community können je nach Aktivitätsgrad kategorisiert werden
   (z.B. “Kernmitglieder” (s. Schaubild) oder aktive Mitglieder,
-  periphere Mitglieder/Lurker (Zuschauer und “interessierte
+  periphere Mitglieder/"Lurker" (Zuschauer und “interessierte
   Mitarbeitende” (s. Schaubild). Dergleichen Differenzierungen helfen
   Community Managerinnen, die Mitglieder zielgerichtet einzubeziehen.
   Community Managerinnen sollten nicht erwarten, dass 100% der
@@ -61,11 +61,12 @@ sondern sie beflügelt.
 
 - **Community Sponsoren:** Sie sind einflussreiche Person bzw.
   Führungskräfte in der Organisation, die hinter dem Thema und den
-  Zielen der Community steht. Management Sponsoren sind für die
+  Zielen der Community steht. Management-Sponsoren sind für die
   Legitimation der Community und die Verfügbarkeit von Ressourcen
   wichtig.
 
 ![](images/Community_Rollen.png)
+*Sketchnote: Heidrun Schmidt.*
 
 ### Anforderungen an das Community Management
 
@@ -75,7 +76,7 @@ Community Manager unbedingt mitbringen müssen, ist Engagement. Ohne
 begeisterte und begeisternde Community Manager ist es kaum möglich, eine
 lebendige Community zu etablieren und zu führen. Nicht nur beim Start,
 sondern insbesondere davor - in der Phase der Konzeption und der
-Gewinnung engagierter Team-Mitglieder oder Partner - sind hoher Einsatz
+Gewinnung engagierter Team-Mitglieder oder Partner. Hier sind hoher Einsatz
 ebenso unabdingbar wie die Fähigkeit, Beziehungen aufzubauen und andere
 mitzunehmen. Zum Verständnis eine kleine Analogie:
 
@@ -83,39 +84,43 @@ Stellt euch vor, ihr werdet zu einer Gartenparty eingeladen. Vielleicht
 fragt ihr euch vorher: Soll ich überhaupt dort hingehen? Soll ich etwas
 mitbringen? Wer ist noch eingeladen? Kenne ich die Leute? Verbinden uns
 gemeinsame Themen? Soll ich mich bei der Party als “Grillmeister”
-einbringen? Als Community Managerinnen seid ihr Gastgeberinnen. Und so
-wie gute Party-Hosts für eine bestimmte Atmosphäre sorgen, sich um Gäste
-kümmern, den Rahmen setzen etc., ist es die Rolle von Community
+einbringen? Als Community Managerinnen seid ihr Gastgeberinnen. 
+Gute Party-Hosts soren für eine bestimmte Atmosphäre, kümmern sich um Gäste
+und den organisatorischen Rahmen. Genau so ist es die Rolle von Community
 Management sich vor einem Go-Live Gedanken über die Fragen möglicher
 Teilnehmerinnen zu machen und entsprechende Rahmenbedingungen zu
 schaffen. Auch während der Party seid ihr als Gastgeberinnen gefragt,
-z.B. die Gäste untereinander in Kontakt zu bringen und ihnen
-Möglichkeiten zu bieten, sich mit konkreten Dingen einzubringen (Musik
-machen, grillen, etc.). Als Community Managerinnen sorgt ihr dafür, dass
+zum Beispiel die Gäste untereinander in Kontakt zu bringen und ihnen
+Möglichkeiten zu bieten, sich mit konkreten Dingen einzubringen. Vielleicht 
+macht jemand Musik oder fühlt sich berufen als Grillmeisterin? 
+Als Community Managerinnen sorgt ihr dafür, dass
 die Party in Schwung kommt, Mitglieder sich wohlfühlen, Unbekannte in
-Kontakt miteinander treten etc.
+Kontakt miteinander treten.
 
 Wir haben weiter vorn erwähnt, dass das Management einer Community in
 den meisten Fällen von einem Team geleistet wird. Das ist gut so, denn
 die Anforderungen an Community Managerinnen sind vielfältig! Eine
 Infografik aus einem [Blog-Beitrag von BUW Digital](https://www.tixxt.com/de/infografik-der-buw-corporate-community-management/)
-beschreibt in 10 Erfolgsfaktoren für erfolgreiches Community Management:
-Empathie, Serviceorientierte Denkart, Reaktionsgeschwindigkeit, Ängste
-nehmen, begeistern, vorleben, entertainen, Veranschaulichen und das
-Niveau treffen, Adaption von Prozessen, Kontinuität, Stringenz,
-Konsequenz und Kohärenz, charmantes Nerven. Dazu kommen noch
-Zuverlässigkeit, Initiative, im Thema zu Hause zu sein, Teamplayerin und
-freundlich im Kontakt zu sein. Als grobe Umschreibung passt das gut - je
-nach Zweck, Ziel und Kontext der Community können Anforderungen und
-Erfolgsfaktoren aber auch stark variieren. Das spiegeln die
+listet 10 Erfolgsfaktoren für erfolgreiches Community Management auf. 
+Frei wiedergegeben sind das: Empathie und serviceorientiertes Denken, 
+schnelles Reagieren, das Schaffen von psychologischer Sicherheit, 
+Begeistern und Unterhalten, das Greifbarmachen von Community-Vorgängen, 
+die Adaption neuer Prozesse, stetige Präsenz und Kontinuität, das Vorleben 
+und die stringente Einforderung von Regeln, und bei allem eine Art 
+charmantes Nerven. Dazu kommen Zuverlässigkeit, Initiative, im Thema zu 
+Hause zu sein, Bereitschaft zum Teamplay sowie ein zugängliches, aufgeschlossenes 
+Kontakt- und Beziehungsmangement. Soweit das generalisierende Gesamtbild, das 
+als erste Orientierung dienen kann. Wenn es konkret wird, können Anforderungen und
+Erfolgsfaktoren einer Community freilich auch stark variieren - abhängig vom konkreten
+Zweck, Ziel und Kontext der Community. Das spiegeln die
 [Stellenprofile](https://www.bvcm.org/2016/08/corporate-community-manager-stellenprofil-fuer-arbeitnehmer-und-arbeitgeber/#download) eines Community Managers des Bundesverbands für
 Community Management e.V. (BVCM) wider, die nach persönlichen,
 fachlichen, sozialen, Führungs- und Methodenkompetenzen unterscheiden.
 
 Meistens ist es zu viel verlangt, dass eine Person gut vernetzen kann,
 fachlich tief im Thema steckt, freundlich aber konsequent ist,
-detailgenau und voller Ideen für innovative Austauschformate. Deshalb
-ist es gerade bei größeren und komplexeren Communities sinnvoll,
+detailgenau und außerdem noch voller Ideen für innovative Austauschformate. 
+Deshalb ist es gerade bei größeren und komplexeren Communities sinnvoll,
 Einzelanforderungen in Rollen zu bündeln. Die Robert Bosch GmbH hat die
 vielfältigen Rollen eines Community Managers herausgearbeitet und dabei
 ganz unterschiedliche Profile erstellt - vom Strategen zur Gärtnerin,
@@ -123,7 +128,7 @@ Content-Managerin, Moderator zur Unterhalterin (siehe Schaubild). In
 vielen Fachcommunities, wie z.B. bei der Gesellschaft für Internationale
 Zusammenarbeit, werden Communities von Teams aus Kuratorinnen für
 fachliche Expertise, Koordinatoren für die Vernetzung und Moderation und
-technischen Unterstützerinnen zusammengesetzt. Bei der deutschen Telekom
+technischen Unterstützerinnen zusammengesetzt. Bei der Deutschen Telekom
 unterscheidet man zwischen Inhaltserstellern, Moderatorinnen,
 “Lebenszirkel-Begleitern”, Administratorinnen, Evaluatoren und
 themenspezifischen Fachexpertinnen.
@@ -149,7 +154,7 @@ schon Fachexpertise hat, erreicht über die gemeinsame Wellenlänge leicht
 andere Interessierte. Wer sich für Veränderungen von unten im
 Unternehmen einsetzt, der weiß vermutlich, wo er Gleichgesinnte in
 seinem Netzwerk findet, die aktiviert werden können. Für Fachexpertinnen
-erfordert erfolgreiches Community Management oft ein Umdenken - denn das
+erfordert erfolgreiches Community Management oft ein Umdenken. Denn das
 Mitnehmen anderer ist in der Community mindestens genauso relevant wie
 das Teilen und Einbringen von Fachwissen. Kommunikatorinnen wiederum
 werden beruflich häufig mit One-To-Many-Kommunikationsformen groß, und
