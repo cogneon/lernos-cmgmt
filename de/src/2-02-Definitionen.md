@@ -21,7 +21,9 @@ anschauen.
 
 ### Communities in der Fachliteratur
 
-![](images/Community_Typen.png)Einige Begriffe für Communities und ihre speziellen Ausformungen im
+![](images/Community_Typen.png)
+
+Einige Begriffe für Communities und ihre speziellen Ausformungen im
 Unternehmen, auf die wir uns immer wieder beziehen, kommen aus der
 Fachliteratur von Richard Millington, Etienne und Beverly Wenger-Trayner
 sowie Gartner. Die Typisierungen weisen Überschneidungen auf,
