@@ -21,14 +21,14 @@ anschauen.
 
 ### Communities in der Fachliteratur
 
+![](images/Community_Typen.png)
+
 Einige Begriffe für Communities und ihre speziellen Ausformungen im
 Unternehmen, auf die wir uns immer wieder beziehen, kommen aus der
 Fachliteratur von Richard Millington, Etienne und Beverly Wenger-Trayner
 sowie Gartner. Die Typisierungen weisen Überschneidungen auf,
 gleichzeitig auch unterschiedliche Schwerpunktsetzungen und
 Perspektiven.
-
-![](images/Community_Typen.png)
 
 **Richard Millington** unterscheidet Communities in erster Linie nach den
 Inhalten, die jeweils für Zusammenhalt und Beziehungsinteresse sorgen [(Quelle Millington)](https://stangarfield.medium.com/types-of-communities-enterprise-social-network-groups-a-trail-that-collects-77df73ec2c8f):
@@ -41,7 +41,7 @@ Inhalten, die jeweils für Zusammenhalt und Beziehungsinteresse sorgen [(Quelle 
 
 + **Community of Action** - Communities von Menschen, die Veränderungen bewirken möchten.
   
-    Aktions-Communities setzen sich dafür ein, die Welt zu verändern. Dazu gehören die meisten gemeinnützigen und politischen Community-Initiativen. Viele andere Arten von Communities entwickeln sich im Laufe der Zeit immer mehr zu einer aktivistischen Kraft, die sich für ihr Thema einsetzt.
+    Aktions-Communities setzen sich im weitesten Sinne dafür ein, die Welt zu verändern. Dazu gehören die meisten gemeinnützigen und politischen Community-Initiativen. In unternehmensinternen Communities kann das Ziel der Veränderungsinitiative das Unternehmen oder ein bestimmter Arbeitskontext sein. Viele andere Arten von Communities entwickeln sich im Laufe der Zeit immer mehr zu einer aktivistischen Kraft, die sich für ihr Thema einsetzt.
   
     Interne Anwendungsfälle: Botschafter-Community, Diversity-Community, Postkoloniale Community (Veränderung der Entwicklungsarbeit (GIZ)), “Let’s Du it” Community (interner Kulturwandel)
 
@@ -70,7 +70,7 @@ Arbeitens und Lernens [(Quelle Wenger)](https://socialnow.org/teams-communities-
 
 + **Netzwerk**- Informeller Austausch von Geschäftsinformationen. Stärkung von Beziehungen und Zusammenhalt.
   
-    Informelle Netzwerke bilden die Summe der zwischenmenschlichen Verbindungen einer Person innerhalb einer Organisation ab. Sie verbinden Personen mit anderen Teams und Einheiten. Netzwerke entstehen häufig informell und entziehen sich der Sichtbarkeit. Mitglieder kommen Anlassbezogen zusammen, z. B. Netzwerk-Events und verfolgen Individual-Interessen (Job-Angebot, Auftrag, Kontaktvermittlung etc.). Organisierte Community-Events dienen oft genauso sehr der offiziellen Themenentwicklung wie dem informellen Netzwerken.
+    Informelle Netzwerke bilden die Summe der zwischenmenschlichen Verbindungen einer Person innerhalb einer Organisation ab. Sie verbinden Personen mit anderen Teams und Einheiten. Netzwerke entstehen häufig informell und entziehen sich der Sichtbarkeit. Mitglieder kommen anlassbezogen zusammen, etwa bei Netzwerk-Events. Sie verfolgen dabei vorwiegend individuelle Interessen (Job-Angebot, Auftrag, Kontaktvermittlung etc.). Organisierte Community-Events dienen oft genauso sehr der offiziellen Themenentwicklung wie dem informellen Netzwerken.
     Interne Anwendungsfälle: Job-sharing-Community, Berufliche Netzwerke, Jahrgangsgruppen, Alumni-Netzwerke
 - **Formale Arbeitsgruppe oder Projektteam** - Lieferung eines Produkts oder Services, bzw. Erfüllen einer spezifischen Aufgabe
   
@@ -79,20 +79,20 @@ Arbeitens und Lernens [(Quelle Wenger)](https://socialnow.org/teams-communities-
 
 - **Community of Practice** - Gruppe von Personen mit einem gemeinsamen Interesse, die durch regelmäßige Interaktion voneinander lernen
   
-    Wengers ursprüngliche Definition von Communities of Practice beinhaltet die Pfeiler “Gruppen von Menschen; Leidenschaft für die Weiterentwicklung eines Themas; Lernen und regelmäßige Interaktion und beschreibt damit in wenigen Worten gut, was Communities of Practice im wesentlichen ausmacht. Er definiert innerhalb des Rahmens Community of Practice verschiedene Ausrichtungen - etwa die “Helping community”, in der sich Mitglieder gegenseitig mit alltäglichen Fragestellungen unterstützen, die “Best Practice Community”, die für die Verbreitung von Good Practice, Guidelines und Strategien sorgt sowie “Innovation-Communities”, bei denen der Fokus auf Ko-Kreation liegt, oder “Knowledge Stewarding Communities”, die Wissen kuratieren, aufbereiten und verfügbar machen. Die meisten Communities tun all das, und noch mehr, wenn auch oft in unterschiedlichen Ausprägungen.
-    Interne Anwendungsfälle: Fachcommunities, Innovations-Communities, Community-Manager-Community
+    Wengers ursprüngliche Definition von Communities of Practice greift vier Kernelemente auf: Gruppen von Menschen, Leidenschaft für die Weiterentwicklung eines Themas, Lernen sowie regelmäßige Interaktion. Sie beschreibt damit in wenigen Worten gut, was Communities of Practice im Wesentlichen ausmacht. Er definiert innerhalb des Rahmens Community of Practice verschiedene Ausrichtungen. Erstens die “Helping community”, in der sich Mitglieder gegenseitig mit alltäglichen Fragestellungen unterstützen. Zweitens die “Best Practice Community”, die für die Verbreitung von Good Practice, Guidelines und Strategien sorgt. Drittens “Innovation-Communities”, bei denen der Fokus auf Ko-Kreation liegt. Sowie viertens “Knowledge Stewarding Communities”, die Wissen kuratieren, aufbereiten und verfügbar machen. Die meisten Communities tun all das, und noch mehr, wenn auch oft in unterschiedlichen Ausprägungen.
+    Interne Anwendungsfälle: Fachcommunities, Innovations-Communities, Community Manager Community
 
 ### Welche Begriffe verwenden wir im Guide?
 
 - **Community:** Communities sind Gruppen von Menschen, die gemeinsame
-  oder einander ergänzende Interessen haben und die im Zusammenkommen
-  und Interagieren eine Möglichkeit sehen, geteilte und individuelle
+  oder einander ergänzende Interessen haben. Im Zusammenkommen
+  und Interagieren sehen sie eine Möglichkeit, geteilte und individuelle
   Ziele zu erreichen. Im Zentrum der Community stehen immer die
   Aktivitäten und Beziehungen der teilnehmenden Menschen, auch wenn
   diese Menschen sich schwerpunktmäßig über eine Online-Plattform
   organisieren oder entsprechende digitale Kanäle nutzen. In der
   Praxis werden oft sehr erfolgreich verschiedene
-  Interaktionsplattformen oder -Kanäle kombiniert, so etwa, wenn sich
+  Interaktionsplattformen oder -Kanäle kombiniert. So etwa, wenn sich
   eine Online-Community zu einen physischen Community-Event trifft.
   Eine Online-Community-Plattform ohne Aktivitäten ist keine
   Community.
