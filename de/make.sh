@@ -3,7 +3,7 @@ echo Starting lernOS Guide Generation ...
 
 # Variables
 filename="lernOS-Community-Management-Guide-de"
-chapters="./src/index.md ./src/1-0-Grundlagen.md ./src/2-0-Lernpfad.md ./src/3-0-Anhang.md"
+chapters="./src/index.md ./src/1-00-Bevor_ihr_loslegt.md ./src/2-01-Communities_und_Organisationsstrukturen.md ./src/2-02-Definitionen.md ./src/2-03-Community-Rollen.md ./src/2-04-Community-Lifecycle.md ./src/3-00-Community-Fallbeispiele.md ./src/4-00-Die_Community_aufbauen_managen_und_weiterentwickeln.md ./src/4-01-Als_Team_starten.md ./src/4-02-Konzeption_und_Planung.md ./src/4-03-Community_aktivieren_und_fuehren.md ./src/4-04-Community_transformieren_oder_schliessen.md ./src/5-00-Lernpfad.md ./src/6-00-Anhang.md"
 
 # Delete Old Versions
 echo Deleting old versions ...
