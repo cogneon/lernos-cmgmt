@@ -51,10 +51,10 @@ sondern sie beflügelt.
   die an den Interaktionen der Community teilnehmen. Dadurch erhalten
   sie selber Nutzen und/oder stiften Nutzen für andere. Die Mitglieder
   einer Community können je nach Aktivitätsgrad kategorisiert werden, zum Beispiel nach der [90:9:1-Regel
-  bzw. 1% Regel](https://de.wikipedia.org/wiki/Ein-Prozent-Regel_(Internet): 
-  aktiv Mitwirkende (Kernmitglieder mit hoher Beteiligung an Beiträgen), 
+  bzw. 1% Regel](https://de.wikipedia.org/wiki/Ein-Prozent-Regel_(Internet)): 
+  aktiv Mitwirkende (Kernmitglieder mit hoher Beteiligung und Beiträgen), 
   gelegentlich Mitwirkende (z. B. durch Kommentieren) und 
-  Zuschauer ("Lurker": passiv, aber interessiert). 
+  Zuschauer ("Lurkers": passiv, aber interessiert). 
   Dergleichen Differenzierungen helfen
   Community Managerinnen, die Mitglieder zielgerichtet einzubeziehen.
   Community Managerinnen sollten nicht erwarten, dass 100% der
