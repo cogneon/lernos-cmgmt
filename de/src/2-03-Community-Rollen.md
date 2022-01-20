@@ -50,10 +50,12 @@ sondern sie beflügelt.
 - **Community-Mitglieder:** Mitglieder sind idealerweise Mitwirkende,
   die an den Interaktionen der Community teilnehmen. Dadurch erhalten
   sie selber Nutzen und/oder stiften Nutzen für andere. Die Mitglieder
-  einer Community können je nach Aktivitätsgrad kategorisiert werden
-  (z.B. “Kernmitglieder” (s. Schaubild) oder aktive Mitglieder,
-  periphere Mitglieder/"Lurker" (Zuschauer und “interessierte
-  Mitarbeitende” (s. Schaubild). Dergleichen Differenzierungen helfen
+  einer Community können je nach Aktivitätsgrad kategorisiert werden, zum Beispiel nach der [90:9:1-Regel
+  bzw. 1% Regel](https://de.wikipedia.org/wiki/Ein-Prozent-Regel_(Internet): 
+  aktiv Mitwirkende (Kernmitglieder mit hoher Beteiligung an Beiträgen), 
+  gelegentlich Mitwirkende (z. B. durch Kommentieren) und 
+  Zuschauer ("Lurker": passiv, aber interessiert). 
+  Dergleichen Differenzierungen helfen
   Community Managerinnen, die Mitglieder zielgerichtet einzubeziehen.
   Community Managerinnen sollten nicht erwarten, dass 100% der
   Mitglieder einer Community aktive Mitglieder sind (s.a. 90:9:1-Regel
@@ -66,6 +68,7 @@ sondern sie beflügelt.
   wichtig.
 
 ![](images/Community_Rollen.png)
+
 *Sketchnote: Heidrun Schmidt.*
 
 ### Anforderungen an das Community Management
