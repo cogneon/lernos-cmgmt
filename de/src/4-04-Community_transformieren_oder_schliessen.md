@@ -61,7 +61,7 @@ und löscht Redundantes.
 Wenn ihr beschließt, dass eine Community ihren Zweck erfüllt hat und
 geschlossen werden oder in eine andere Community integriert werden kann,
 dann legt auch hier euren Augenmerk auf das Aufräumen und auf das Ritual
-eines ordentlichen Abschlusses. Schaut, welche Dokumente noch
+eines ordentlichen Abschlusses. Schaut, welche Inhalte noch
 anderweitig Verwendung finden sollten und schließt den Kreis, indem ihr
-das Entstandene würdigt, offiziell schließt und das Neue willkommen
+das Entstandene würdigt und das Neue willkommen
 heißt.
