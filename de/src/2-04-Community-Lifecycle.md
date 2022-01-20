@@ -11,7 +11,7 @@ Iterationen durchlaufen kann.
 *Der Community Lifecycle beschreibt die Phasen des Community-Aufbaus. 
 Die Phasen werden nach Bedarf iterativ durchlaufen. 
 Visualisierung inspiriert durch "Der Community Lifecycle der 
-Robert Bosch GmbH, 2016", Sketchnote von Heidrun schmidt.*
+Robert Bosch GmbH, 2016", Sketchnote von Heidrun Schmidt.*
 
 Kreise haben keinen Anfangs- und keinen Endpunkt. Auch die Arbeit in und
 mit einer Community endet erst dann, wenn sie gemeinsam mit allen
