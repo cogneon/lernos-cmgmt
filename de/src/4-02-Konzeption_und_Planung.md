@@ -22,7 +22,7 @@ Beim Skizzieren könnt ihr so frei und kreativ sein, wie ihr möchtet. Der
 Lernpfad im zweiten Teil dieses Guides führt euch auch Schritt für
 Schritt durch die Überlegungen zum Aufsetzen der Community hindurch.
 Zwei Hilfsmittel, die wir für diese Schritte richtig gut finden, sind
-der [Community Canvas](https://community-canvas.org/) und die Community-[Partyliste ](https://www.communitymanagement.de/wie-ihnen-die-partyplanung-beim-aufbau-ihrer-community-hilft/). Beide
+der [Community Canvas](https://community-canvas.org/) und die Community-[Partyliste](https://www.communitymanagement.de/wie-ihnen-die-partyplanung-beim-aufbau-ihrer-community-hilft/). Beide
 können euch einen roten Faden für eure Konzeptionsphase und die
 Initialisierung an die Hand geben.
 
@@ -514,7 +514,7 @@ ankommen oder welche Themen einen echten Bedarf ansprechen.
 
 Aus unserer Sicht empfehlenswert für die Formulierung guter operativer
 Ziele sind die OKR-Methodologie (“Objectives & Key Results”) oder die
-SMART-Systematik: [SMART (Projektmanagement) – Wikipedia](https://de.wikipedia.org/wiki/SMART_(Projektmanagement).
+SMART-Systematik: [SMART (Projektmanagement) – Wikipedia](https://de.wikipedia.org/wiki/SMART_(Projektmanagement)).
 
 Messbare Ziele machen Erfolge greifbar. Dabei können die vorhandenen
 Metriken der Plattform genutzt werden, auf der eure Communities laufen.
