@@ -14,29 +14,29 @@ Es bietet sich an, ein- bis zweimal im Jahr einen kleinen Realitätscheck
 zu machen und zu fragen: Tun wir die richtigen Dinge und tun wir die
 Dinge richtig?
 
--   Ist das Thema, für das wir uns mal zusammengefunden haben, noch
-    relevant?
+- Ist das Thema, für das wir uns mal zusammengefunden haben, noch
+  relevant?
 
--   Organisieren sich die meisten Mitglieder zum Thema wirklich bei euch
-    oder gibt es inzwischen andere, relevantere Foren?
+- Organisieren sich die meisten Mitglieder zum Thema wirklich bei euch
+  oder gibt es inzwischen andere, relevantere Foren?
 
--   Wie hat sich die Community-Landschaft im Unternehmen entwickelt und
-    passen wir da noch rein?
+- Wie hat sich die Community-Landschaft im Unternehmen entwickelt und
+  passen wir da noch rein?
 
--   Gibt es andere Communities, mit denen wir uns zusammenschließen
-    sollten? Und wer geht da den ersten Schritt?
+- Gibt es andere Communities, mit denen wir uns zusammenschließen
+  sollten? Und wer geht da den ersten Schritt?
 
--   Treffen wir noch einen Nerv?
+- Treffen wir noch einen Nerv?
 
--   Gehen unsere Mitgliederzahlen weiter nach oben?
+- Gehen unsere Mitgliederzahlen weiter nach oben?
 
--   Steigen Vernetzung, Kreativität, Austausch und Dialog oder ist der
-    Job des Community Managers eher “rufen in die Wüste”?
+- Steigen Vernetzung, Kreativität, Austausch und Dialog oder ist der
+  Job des Community Managers eher “rufen in die Wüste”?
 
--   Wann haben wir das letzte Mal die Fachwelt aus den Angeln gehoben?
+- Wann haben wir das letzte Mal die Fachwelt aus den Angeln gehoben?
 
--   Hat sich unser Thema stark verändert, so dass wir auf einen neuen,
-    anderen Kolleginnenkreis zugehen sollten?
+- Hat sich unser Thema stark verändert, so dass wir auf einen neuen,
+  anderen Kolleginnenkreis zugehen sollten?
 
 Nutzt zur Beantwortung der Fragen die Statistik-Berichte der
 Community-Plattform oder die Ergebnisse eurer Zielerreichungsmessung,

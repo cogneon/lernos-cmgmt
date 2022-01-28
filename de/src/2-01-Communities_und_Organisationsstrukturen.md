@@ -1,3 +1,5 @@
+# Über Community Management
+
 ## Communities und Organisationsstrukturen
 
 Hierarchische Organisationsformen mögen zunehmend in der Kritik stehen. 

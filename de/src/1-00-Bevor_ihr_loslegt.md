@@ -84,11 +84,11 @@ zum Thema Community Management in Organisationen mit. Ihr könnt ihn auf
 unterschiedliche Weise nutzen:
 
 - **Wollt ihr euch zunächst einlesen und einen Überblick bekommen?**
-
+  
     Dann lest ihr [***Über Community Management***](2-01-Communities_und_Organisationsstrukturen.md) und [***Die Community aufbauen, managen und weiterentwickeln***](4-00-Die_Community_aufbauen_managen_und_weiterentwickeln.md).
 
 - **Oder wollt ihr sofort mit der aktiven Lernreise starten?**
-
+  
     Wenn ihr lieber sehr praxisbezogen arbeitet, dann könnt ihr auch direkt mit dem [***Lernpfad***](5-00-Lernpfad.md) im zweiten Teil des Guides beginnen. Darüber könnt ihr euch das Wissen dann zusammen Woche um Woche aneignen. Ihr findet im Lernpfad Übungen und praktische Aufgaben für jede Woche sowie Verweise auf die relevanten Grundlagenkapitel.
 
 Der Guide ist außerdem durch [***Community Fallbeispiele***](3-00-Community-Fallbeispiele.md)

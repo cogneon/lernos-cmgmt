@@ -68,8 +68,6 @@ also mit eurem Lernzirkel:
 
 Macht den Lernpfad zu eurem! Viel Spass damit!
 
-## 
-
 ## 0 - Ankommen und Zirkel formieren
 
 ![](images/0_Ankommen.png)
@@ -99,6 +97,8 @@ Macht den Lernpfad zu eurem! Viel Spass damit!
 Hier findet ihr eine Checkliste zur
 [<u>Zirkel-Moderation</u>](https://cogneon.github.io/lernos-for-you/de/3-Anhang/#circle-moderations-checkliste).
 
+
+
 ## 1 - Arten von Communities und Rolle von Community Managern
 
 **Themen**
@@ -123,7 +123,7 @@ Zum Beispiel:
 
 **Welche Kapitel des lernOS Guide kann ich dazu lesen?**
 
-- [***Definitionen***](2-02-Definitionen.md)	
+- [***Definitionen***](2-02-Definitionen.md)    
 
 - [***Community-Rollen***](2-03-Community-Rollen.md)
 
@@ -185,7 +185,7 @@ Details findest du im [***Literaturverzeichnis***](6-00-Anhang.md).
   
   - Virtuelle Teams führen & Hybrides Arbeiten
 
-## 
+
 
 ## 2 - Konzeption
 
@@ -211,7 +211,7 @@ weiter!
 
 - [***Community Lifecycle***](2-04-Community-Lifecycle.md)
 
-- [***Als Team starten***](4-01-Als_Team_starten.md)	
+- [***Als Team starten***](4-01-Als_Team_starten.md)    
 
 - Abschnitt [***Hilfsmittel, um die Community zu skizzieren***](4-02-Konzeption_und_Planung.md)
 
@@ -244,7 +244,7 @@ Wissensstand ziehst.
 - Staal (2021): The steps to getting your community off to a flying
   start
 
-## 
+
 
 ## 3 - Ziele
 
@@ -294,7 +294,7 @@ Fülle im Canvas das Feld "Ziele" aus.
 - Community Roundtable (2013): State of Community Management:
   Benchmarks für Community-Engagement
 
-## 
+
 
 ## 4 - Zielgruppen
 
@@ -361,7 +361,7 @@ Literatur:
 
 - Bacon (2019): People powered
 
-## 
+
 
 ## 5 - Inhalte und Aktivitäten
 
@@ -407,7 +407,7 @@ entwickeln.
 
 - Weller / Harmanus (2021): Content Design
 
-## 
+
 
 ## 6 - Technologien
 
@@ -486,7 +486,7 @@ Anwendern, insbesondere Betreibenden oder Community-Manager\*innen.
 
 - Staal / Wagenaar (2020): Organizing Communities
 
-## 
+
 
 ## 7 - Halbzeit-Reflexion mit Feedback
 
@@ -530,7 +530,7 @@ wie hier, aus der [Theorie-U-Community](https://www.presencing.org/resource/tool
 
 - Empathy Walk (Listening)
 
-## 
+
 
 ## 8 - Team und Rollen
 
@@ -582,7 +582,7 @@ erforderlich?
 
 - Staal / Wagenaar (2020): Organizing Communities
 
-## 
+
 
 ## 9 - Content-Produktion
 
@@ -638,7 +638,7 @@ interagieren.
 
 - Interview Stefan Diepolder im Podcast [Kuration von Lerninhalten in Organisationen - LernXP Podcast](https://lernxp.de/2021/09/22/kuration-von-lerninhalten/)
 
-## 
+
 
 ## 10 - Engagement und Moderation
 
@@ -686,6 +686,8 @@ wie eure Moderation beides unterstützt und am Leben erhält.
 - [Leseliste Community-Moderation](https://socialmediacollective.org/reading-lists/content-moderation-reading-list/)
 
 - Jones / Vogel (2020): Building Brand Communities
+
+
 
 ## 11 - Schwierige Situationen
 
@@ -738,6 +740,8 @@ oder einfach schwierigen Situationen, und wie ihr damit umgehen könnt.
 
 - [How to deal with negative app reviews and feedback](https://medium.com/swlh/how-to-deal-with-negative-app-reviews-and-feedback-a323cbd2972f). (Rajput
   Mehul, 2018)
+
+
 
 ## 12 - Feiern - und wie geht es weiter?
 

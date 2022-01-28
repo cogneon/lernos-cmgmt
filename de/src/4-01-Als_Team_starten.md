@@ -1,4 +1,4 @@
-##Als Team starten
+## Als Team starten
 
 Never dance alone - Communities sind Gemeinschaftswerke und entstehen am
 besten aus dem Engagement einer Kerngruppe heraus. Sie setzt den Ton,

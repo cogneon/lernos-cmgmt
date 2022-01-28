@@ -1,4 +1,4 @@
-# Konzeption und Planung
+## Konzeption und Planung
 
 ### Hilfsmittel, um die Community zu skizzieren
 

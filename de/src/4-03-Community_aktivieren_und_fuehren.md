@@ -1,6 +1,6 @@
-## Community aktivieren und führen 
+## Community aktivieren und führen
 
-### Mitglieder gewinnen - die Community bekannt machen 
+### Mitglieder gewinnen - die Community bekannt machen
 
 Über eure Arbeit für das Community-Konzept solltet ihr bereits eine
 Vorstellung davon haben, wen ihr mit eurer Community erreichen möchtet
@@ -59,7 +59,7 @@ Verankerung in Unternehmensprozessen, Preisverleihungen,
 Innovationsfonds, offene Stammtische und so fort. Es gibt viele Wege und
 manche führen zum Ziel.
 
-### Gastgeberin sein - den Raum gestalten 
+### Gastgeberin sein - den Raum gestalten
 
 Menschen sollen sich in eurer Community-Umgebung wohlfühlen, produktiv,
 kreativ sein, sich gegenseitig unterstützen, sich öffnen, an Gesprächen
@@ -100,10 +100,11 @@ antworten. So stärkt ihr das Beziehungsgeflecht, das euch langfristig
 tragen wird.
 
 Drückt **Wertschätzung** gegenüber den Ideen und Fragen der anderen aus
+
 - sei es durch Likes, Highlighting von Posts, Einladung zum Weiterdenken
-an Andere, aufgreifen von Fragen mit anderen Stellen etc. So gelingt es,
-eine Vertrauensbasis für Austausch, Fragen, Lernen, Fehler machen und
-Ideenentwicklung zu schaffen.
+  an Andere, aufgreifen von Fragen mit anderen Stellen etc. So gelingt es,
+  eine Vertrauensbasis für Austausch, Fragen, Lernen, Fehler machen und
+  Ideenentwicklung zu schaffen.
 
 **“Radikale Einfachheit” in der Nutzung** - ein schönes Grundprinzip der
 Gestaltung eures Raums. Versetzt euch immer wieder in eure
@@ -115,7 +116,7 @@ Hilfestellungen und Trouble-Shooting bieten sich an. Plattform-Software
 mit den Funktionen. Helft ihnen, sich schnell und einfach
 zurechtzufinden und bietet technische Unterstützung an.
 
-### Formate und Aktivitäten - Tipps und Ideen 
+### Formate und Aktivitäten - Tipps und Ideen
 
 Wir haben hier eine Sammlung verschiedener Ideen aus der
 Community-Arbeit in unterschiedlichsten Unternehmen und Organisationen
@@ -265,10 +266,11 @@ wovon andere profitieren können. Gebt ihnen Raum, das vorzustellen und
 zu teilen. Das geht als Webinar oder auch als Podcast.
 
 **Umfragen und transparente Abstimmung:** Umfragen, Polls, Gamification
+
 - oft ein guter Weg, Beteiligung zu ermöglichen, Stimmungen abzufragen,
-zur Mitgestaltung anzuregen. Nutzt es - aber nur, wenn ihr wirklich mit
-den Ergebnissen arbeiten werdet. Nichts ist frustrierender, als nach der
-Meinung gefragt zu werden und dann nie wieder etwas zu hören.
+  zur Mitgestaltung anzuregen. Nutzt es - aber nur, wenn ihr wirklich mit
+  den Ergebnissen arbeiten werdet. Nichts ist frustrierender, als nach der
+  Meinung gefragt zu werden und dann nie wieder etwas zu hören.
 
 **Vertretung als Chance:** Nicht nur, weil Community Managerinnen auch
 mal Urlaub brauchen. Nutzt eure Abwesenheit, um “frischen Wind” und
@@ -312,7 +314,7 @@ Beteiligung in einer Community erhöhen. Hierzu gibt es viele
 Materialien. Lest dies beim Autor John Stepper nach (Literaturliste) und
 schaut ins Fallbeispiel “Working Out Loud Community”.
 
-### Gemeinsam Inhalte erstellen 
+### Gemeinsam Inhalte erstellen
 
 Das gemeinsame Entwickeln von Inhalten zeugt oft von einer bestimmten
 Community-Reife. Je nach Community Ausrichtung und Energie kann das von
@@ -342,22 +344,22 @@ gibt und unterzieht die Vereinbarungen einer Retrospektive, wenn Teile
 sich als hinderlich für die Zusammenarbeit erweisen. Was hier z.B.
 dazugehört:
 
--   Vereinbarung über die Art des Arbeitens (z.B. im Bearbeitungsmodus
-    oder nicht, über Kommentarfunktion etc.)
+- Vereinbarung über die Art des Arbeitens (z.B. im Bearbeitungsmodus
+  oder nicht, über Kommentarfunktion etc.)
 
--   Bearbeitungsschleifen und Zuteilung bestimmter Abschnitte
+- Bearbeitungsschleifen und Zuteilung bestimmter Abschnitte
 
--   Interaktionen (wann treffen wir uns, um uns abzustimmen und
-    auszutauschen)
+- Interaktionen (wann treffen wir uns, um uns abzustimmen und
+  auszutauschen)
 
--   Deadlines für alle (klar kommuniziert und machbar)
+- Deadlines für alle (klar kommuniziert und machbar)
 
--   Verdeutlichung der Beteiligungsmöglichkeiten (z.B. Grafiken
-    erstellen, Forschungshypothesen formulieren, Abschnitte ergänzen,
-    Resourcen finden etc.)
+- Verdeutlichung der Beteiligungsmöglichkeiten (z.B. Grafiken
+  erstellen, Forschungshypothesen formulieren, Abschnitte ergänzen,
+  Resourcen finden etc.)
 
--   Vorausbearbeitung von Inhalten: Klärt, ob und wer Inhalte voraus
-    bearbeitet, die dann kollektiv weiterbearbeitet werden.
+- Vorausbearbeitung von Inhalten: Klärt, ob und wer Inhalte voraus
+  bearbeitet, die dann kollektiv weiterbearbeitet werden.
 
 **Transparentes Arbeiten** sollte der Modus Operandi sein - teilt nicht
 erst das fertige Werk, sondern ermöglicht es allen einzusehen, woran das
@@ -413,24 +415,24 @@ sein können.
 Ihr findet Online jede Menge Ressourcen zu Formaten. Hier ein paar
 Event-Formate, zu denen ihr euch schlau machen könnt:
 
--   Ask me anything Session (informelle Beratung)
+- Ask me anything Session (informelle Beratung)
 
--   Speed Networking / Speed Dating (Vernetzung und Kennenlernen)
+- Speed Networking / Speed Dating (Vernetzung und Kennenlernen)
 
--   Barcamp oder Open Space (Wissensaustausch, Vernetzung, Veränderung)
+- Barcamp oder Open Space (Wissensaustausch, Vernetzung, Veränderung)
 
--   Hackathon (Innovation, Ideation)
+- Hackathon (Innovation, Ideation)
 
--   World Café (Wissensaustausch, Ideation, Veränderung)
+- World Café (Wissensaustausch, Ideation, Veränderung)
 
--   Zukunftswerkstatt (Wissensaustausch, Veränderung, Vision)
+- Zukunftswerkstatt (Wissensaustausch, Veränderung, Vision)
 
--   Expert Talk (Inspiration, Information)
+- Expert Talk (Inspiration, Information)
 
--   Knowledge Café (Austausch, Vernetzung, Inspiration)
+- Knowledge Café (Austausch, Vernetzung, Inspiration)
 
--   Peer Learning / kollegiale Beratung (Austausch, Lernen, Probleme
-    lösen)
+- Peer Learning / kollegiale Beratung (Austausch, Lernen, Probleme
+  lösen)
 
 ### Werte, Regeln und Verhaltenskodex
 
@@ -468,32 +470,32 @@ einfach mal zu äußern.
 Grundregeln, die ihr vorleben könnt (und, wenn ihr wollt, auch
 aufschreiben), beinhalten Dinge wie:
 
--   Hier wird niemand mit einer Frage allein gelassen. Ihr könnt mit
-    einer Reaktion auf Fragen und Hinweise innerhalb von 24 Stunden
-    rechnen.
+- Hier wird niemand mit einer Frage allein gelassen. Ihr könnt mit
+  einer Reaktion auf Fragen und Hinweise innerhalb von 24 Stunden
+  rechnen.
 
--   Wir kommunizieren in den Sprachen, die uns am besten liegen und
-    nutzen die verfügbaren Übersetzungsfunktionen (oder: wir
-    kommunizieren, wann immer möglich, auf Englisch, Deutsch etc.)
-    Sprache kann schnell ausgrenzen und viele Plattformen bieten
-    hervorragende Übersetzungsmöglichkeiten - Vielsprachigkeit sollte am
-    besten gefördert werden.
+- Wir kommunizieren in den Sprachen, die uns am besten liegen und
+  nutzen die verfügbaren Übersetzungsfunktionen (oder: wir
+  kommunizieren, wann immer möglich, auf Englisch, Deutsch etc.)
+  Sprache kann schnell ausgrenzen und viele Plattformen bieten
+  hervorragende Übersetzungsmöglichkeiten - Vielsprachigkeit sollte am
+  besten gefördert werden.
 
--   Hier kann jeder seine Meinung offen vertreten - im Einklang mit der
-    Netikette. Wir setzen auf konstruktives Feedback.
+- Hier kann jeder seine Meinung offen vertreten - im Einklang mit der
+  Netikette. Wir setzen auf konstruktives Feedback.
 
--   Es ist OK, offen und direkt, ohne Titel, Anrede und Grußformel zu
-    schreiben - egal auf welcher Hierarchiestufe jemand steht.
+- Es ist OK, offen und direkt, ohne Titel, Anrede und Grußformel zu
+  schreiben - egal auf welcher Hierarchiestufe jemand steht.
 
--   Rechtschreibfehler im Wiki werden von allen verbessert (da
-    Dokumentation), in den anderen Funktionen lassen wir dies außer Acht
+- Rechtschreibfehler im Wiki werden von allen verbessert (da
+  Dokumentation), in den anderen Funktionen lassen wir dies außer Acht
 
--   Etwas “liken” bedeutet bei uns… (z.B. Lesebestätigung, Zustimmung,
-    Anerkennung,…)
+- Etwas “liken” bedeutet bei uns… (z.B. Lesebestätigung, Zustimmung,
+  Anerkennung,…)
 
--   Wir nutzen die @-mention Funktion wenn wir jemanden direkt
-    benachrichtigen wollen und hashtags / metadaten für relevante Themen
-    und Dokumente.
+- Wir nutzen die @-mention Funktion wenn wir jemanden direkt
+  benachrichtigen wollen und hashtags / metadaten für relevante Themen
+  und Dokumente.
 
 Wie auch immer die Kultur in eurer Community sich gestaltet - denkt
 daran, dass Menschen unterschiedlich kommunizieren. Persönliche
