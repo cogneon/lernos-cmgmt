@@ -514,7 +514,7 @@ ankommen oder welche Themen einen echten Bedarf ansprechen.
 
 Aus unserer Sicht empfehlenswert für die Formulierung guter operativer
 Ziele sind die OKR-Methodologie (“Objectives & Key Results”) oder die
-SMART-Systematik: [SMART (Projektmanagement) – Wikipedia](https://de.wikipedia.org/wiki/SMART_(Projektmanagement)).
+SMART-Systematik: [SMART (Projektmanagement) – Wikipedia](https://de.wikipedia.org/wiki/SMART_(Projektmanagement)) .
 
 Messbare Ziele machen Erfolge greifbar. Dabei können die vorhandenen
 Metriken der Plattform genutzt werden, auf der eure Communities laufen.
