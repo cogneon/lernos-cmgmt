@@ -6,6 +6,6 @@
 
 Ihr möchtet mit einer PDF-Version arbeiten? Diese findet ihr links unter "Downloads".
 
-Feedback ist immer willkommen. Direkt an die Autorinnen und Autoren: [Achim Brueck](https://www.linkedin.com/in/achimbrueck/), [Tanja Laub](https://www.communitymanagement.de/), [Harald Lauritsch](https://www.linkedin.com/in/haraldlauritsch/), Katharina Lobeck, [Stefanie Preisinger](https://www.linkedin.com/in/stefanie-preisinger-076b86b9), [Alfred Zedelmaier](https://de.linkedin.com/in/alfredzedelmaier) , Simon Dückert 
+Feedback ist immer willkommen. Direkt an die Autorinnen und Autoren: [Achim Brueck](https://www.linkedin.com/in/achimbrueck/), [Tanja Laub](https://www.communitymanagement.de/), [Harald Lauritsch](https://www.linkedin.com/in/haraldlauritsch/), Katharina Lobeck, [Stefanie Preisinger](https://www.linkedin.com/in/stefanie-preisinger-076b86b9), [Alfred Zedelmaier](https://de.linkedin.com/in/alfredzedelmaier), Simon Dückert.
 
 Auf allen Folgeseiten ganz unten könnt ihr außerdem Kommentare hinterlassen. 
