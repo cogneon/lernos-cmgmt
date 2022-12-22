@@ -73,7 +73,7 @@ Erkenntnisse über Verhalten und Wünsche zukünftiger Mitglieder gewinnen.
 
 - [Party-Liste für Community Aufbau](https://www.communitymanagement.de/wie-ihnen-die-partyplanung-beim-aufbau-ihrer-community-hilft/)
 
-- Community of Practice [Quick Startup Guide](https://wenger-trayner.com/quick-cop-start-up-guide/)
+- Community of Practice [Quick Startup Guide](https://www.wenger-trayner.com/wp-content/uploads/2022/06/2001-EWT-Quick-start-up-guide-English.pdf)
   nach Wenger / Trayner
 
 ### Einordnung der Community - warum braucht es euch und wem ähnelt ihr?
